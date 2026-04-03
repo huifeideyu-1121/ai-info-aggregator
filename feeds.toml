@@ -1,31 +1,49 @@
 # RSS 订阅列表
 # 每个 feed 需要：url、name（来源显示名）、lang（en/zh）
 
+# ── OPC / 创业案例 ────────────────────────────────────────────
 [[feeds]]
 name = "Indie Hackers"
 url = "https://www.indiehackers.com/feed.xml"
 lang = "en"
 
 [[feeds]]
-name = "Hacker News Show HN"
-url = "https://hnrss.org/show"
+name = "Starter Story"
+url = "https://www.starterstory.com/rss.xml"
 lang = "en"
 
 [[feeds]]
+name = "Reddit r/SideProject"
+url = "https://www.reddit.com/r/SideProject/.rss"
+lang = "en"
+
+# ── AI Newsletter ─────────────────────────────────────────────
+[[feeds]]
 name = "Ben's Bites"
-url = "https://bensbites.beehiiv.com/feed"
+url = "https://bensbites.com/feed"
 lang = "en"
 
 [[feeds]]
 name = "TLDR AI"
-url = "https://tldr.tech/ai/rss"
+url = "https://tldr.tech/rss/ai"
 lang = "en"
 
 [[feeds]]
 name = "The Batch (deeplearning.ai)"
-url = "https://www.deeplearning.ai/the-batch/feed/"
+url = "https://deeplearning.ai/the-batch/feed/"
 lang = "en"
 
+[[feeds]]
+name = "Latent Space"
+url = "https://www.latent.space/feed"
+lang = "en"
+
+[[feeds]]
+name = "Lenny's Newsletter"
+url = "https://lennysnewsletter.com/feed"
+lang = "en"
+
+# ── AI 技术 / 模型 ────────────────────────────────────────────
 [[feeds]]
 name = "Simon Willison's Blog"
 url = "https://simonwillison.net/atom/everything/"
@@ -37,13 +55,8 @@ url = "https://huggingface.co/blog/feed.xml"
 lang = "en"
 
 [[feeds]]
-name = "Starter Story"
-url = "https://starterstory.com/feed"
-lang = "en"
-
-[[feeds]]
-name = "Product Hunt"
-url = "https://www.producthunt.com/feed"
+name = "Hacker News Show HN"
+url = "https://hnrss.org/show"
 lang = "en"
 
 [[feeds]]
@@ -52,41 +65,38 @@ url = "https://www.reddit.com/r/LocalLLaMA/.rss"
 lang = "en"
 
 [[feeds]]
-name = "Reddit r/SideProject"
-url = "https://www.reddit.com/r/SideProject/.rss"
-lang = "en"
-
-[[feeds]]
 name = "GitHub Trending"
 url = "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml"
 lang = "en"
 
+# ── 科技媒体（英文）──────────────────────────────────────────
 [[feeds]]
-name = "量子位"
-url = "https://www.qbitai.com/feed"
-lang = "zh"
+name = "VentureBeat AI"
+url = "https://venturebeat.com/category/ai/feed/"
+lang = "en"
 
 [[feeds]]
-name = "机器之心"
-url = "https://www.jiqizhixin.com/rss"
-lang = "zh"
+name = "TechCrunch AI"
+url = "https://techcrunch.com/category/artificial-intelligence/feed/"
+lang = "en"
 
 [[feeds]]
-name = "36氪"
-url = "https://36kr.com/feed"
-lang = "zh"
+name = "MIT Technology Review AI"
+url = "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+lang = "en"
+
+# ── 商业趋势 ──────────────────────────────────────────────────
+[[feeds]]
+name = "Trends.vc"
+url = "https://trends.vc/feed"
+lang = "en"
 
 [[feeds]]
-name = "虎嗅"
-url = "https://www.huxiu.com/rss/0.xml"
-lang = "zh"
+name = "Product Hunt"
+url = "https://www.producthunt.com/feed"
+lang = "en"
 
-[[feeds]]
-name = "少数派"
-url = "https://sspai.com/feed"
-lang = "zh"
-
-# AI + 电商
+# ── AI + 电商 ────────────────────────────────────────────────
 [[feeds]]
 name = "Practical Ecommerce"
 url = "https://www.practicalecommerce.com/feed"
@@ -106,3 +116,45 @@ lang = "en"
 name = "Search Engine Journal (Ecommerce)"
 url = "https://www.searchenginejournal.com/category/ecommerce/feed/"
 lang = "en"
+
+[[feeds]]
+name = "eCommerceFuel"
+url = "https://www.ecommercefuel.com/feed/"
+lang = "en"
+
+# ── 中文 AI 媒体 ──────────────────────────────────────────────
+[[feeds]]
+name = "量子位"
+url = "https://www.qbitai.com/feed"
+lang = "zh"
+
+[[feeds]]
+name = "机器之心"
+url = "https://www.jiqizhixin.com/rss"
+lang = "zh"
+
+[[feeds]]
+name = "36氪"
+url = "https://36kr.com/feed"
+lang = "zh"
+
+[[feeds]]
+name = "少数派"
+url = "https://sspai.com/feed"
+lang = "zh"
+
+[[feeds]]
+name = "爱范儿"
+url = "https://www.ifanr.com/feed"
+lang = "zh"
+
+[[feeds]]
+name = "极客公园"
+url = "https://www.geekpark.net/rss"
+lang = "zh"
+
+# 虎嗅：反爬超时，暂停，待后续寻找替代方案
+# [[feeds]]
+# name = "虎嗅"
+# url = "https://www.huxiu.com/rss/0.xml"
+# lang = "zh"
