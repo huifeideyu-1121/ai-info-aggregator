@@ -85,3 +85,24 @@ lang = "zh"
 name = "少数派"
 url = "https://sspai.com/feed"
 lang = "zh"
+
+# AI + 电商
+[[feeds]]
+name = "Practical Ecommerce"
+url = "https://www.practicalecommerce.com/feed"
+lang = "en"
+
+[[feeds]]
+name = "Shopify Blog"
+url = "https://www.shopify.com/blog.atom"
+lang = "en"
+
+[[feeds]]
+name = "Marketing AI Institute"
+url = "https://www.marketingaiinstitute.com/blog/rss.xml"
+lang = "en"
+
+[[feeds]]
+name = "Search Engine Journal (Ecommerce)"
+url = "https://www.searchenginejournal.com/category/ecommerce/feed/"
+lang = "en"

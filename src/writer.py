@@ -4,9 +4,9 @@ from collections import defaultdict
 TOPIC_ORDER = [
     "AI新技术/新模型",
     "OPC/AI赚钱案例",
+    "AI+电商",
     "AI工具实操/Prompt技巧",
     "AI Agent/自动化工作流",
-    "本地AI/开源模型",
     "AI对行业的冲击",
     "AI投融资动态",
 ]
@@ -69,5 +69,39 @@ def write_output(articles: list[dict], output_dir: str = "output") -> str:
     path = os.path.join(output_dir, f"AI Daily - {date}.md")
     with open(path, "w", encoding="utf-8") as f:
         f.write(content)
+
+    return path
+
+
+def write_rejected(articles: list[dict], output_dir: str = "output") -> str:
+    """Write rejected articles log for scoring verification."""
+    import os
+    date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+    os.makedirs(output_dir, exist_ok=True)
+    path = os.path.join(output_dir, f"AI Daily - {date} - rejected.md")
+
+    lines = [
+        "---",
+        f"date: {date}",
+        "tags: [ai-daily-debug]",
+        "---",
+        "",
+        f"# 淘汰记录 {date}",
+        "",
+        f"共 {len(articles)} 篇，评分 <7 或主题无关。",
+        "",
+    ]
+
+    # Sort by score descending so borderline cases are easy to review
+    for a in sorted(articles, key=lambda x: x.get("score", 0), reverse=True):
+        score = a.get("score", "?")
+        topic = a.get("topic", "未分类")
+        lines.append(f"- **{score}/10** [{a['title']}]({a['url']})  ")
+        lines.append(f"  来源：{a['source']} | 主题：{topic}")
+        lines.append("")
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
 
     return path

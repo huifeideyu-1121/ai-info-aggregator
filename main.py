@@ -4,7 +4,7 @@ import sys
 
 from src.feeds import fetch_all
 from src.scorer import process_articles
-from src.writer import write_output
+from src.writer import write_output, write_rejected
 
 
 def main():
@@ -26,14 +26,16 @@ def main():
         print("No articles found. Exiting.")
         sys.exit(0)
 
-    kept = process_articles(articles, api_key)
+    kept, rejected = process_articles(articles, api_key)
 
     if not kept:
         print("\nNo articles passed the quality filter today.")
 
     path = write_output(kept, output_dir="output")
+    rejected_path = write_rejected(rejected, output_dir="output")
     print(f"\nDone. Output written to: {path}")
-    print(f"Final digest: {len(kept)} articles")
+    print(f"Rejected log: {rejected_path}")
+    print(f"Final digest: {len(kept)} articles | Rejected: {len(rejected)} articles")
 
 
 if __name__ == "__main__":
