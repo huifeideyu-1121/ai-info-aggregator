@@ -2,13 +2,12 @@ from datetime import datetime, timezone
 from collections import defaultdict
 
 TOPIC_ORDER = [
-    "AI新技术/新模型",
     "OPC/AI赚钱案例",
     "AI+电商",
-    "AI工具实操/Prompt技巧",
-    "AI Agent/自动化工作流",
-    "AI对行业的冲击",
+    "AI工具实操/Agent工作流",
+    "AI新技术/新模型",
     "AI投融资动态",
+    "AI对行业的冲击",
 ]
 
 
