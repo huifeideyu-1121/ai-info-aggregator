@@ -4,7 +4,7 @@ import sys
 
 from src.feeds import fetch_all
 from src.scorer import process_articles
-from src.writer import write_output, write_rejected
+from src.writer import write_output
 
 
 def main():
@@ -32,9 +32,7 @@ def main():
         print("\nNo articles passed the quality filter today.")
 
     path = write_output(kept, output_dir="output")
-    rejected_path = write_rejected(rejected, output_dir="output")
     print(f"\nDone. Output written to: {path}")
-    print(f"Rejected log: {rejected_path}")
     print(f"Final digest: {len(kept)} articles | Rejected: {len(rejected)} articles")
 
 
