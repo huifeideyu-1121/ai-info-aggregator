@@ -25,7 +25,7 @@ def fetch_feed(feed: dict, lookback_days: int = 1) -> list[dict]:
 
     headers = {"User-Agent": "Mozilla/5.0 (compatible; ai-info-aggregator/1.0)"}
     try:
-        resp = requests.get(feed["url"], headers=headers, timeout=15)
+        resp = requests.get(feed["url"], headers=headers, timeout=60)
         resp.raise_for_status()
         parsed = feedparser.parse(resp.content)
     except Exception as e:
@@ -39,8 +39,13 @@ def fetch_feed(feed: dict, lookback_days: int = 1) -> list[dict]:
             continue
 
         content = _extract_content(entry)
+        title = entry.get("title", "").strip()
+        # WeWe RSS feeds return garbled content; fall back to title
         if not content or len(content.strip()) < 100:
-            continue
+            if title:
+                content = title
+            else:
+                continue
 
         articles.append({
             "title": entry.get("title", "").strip(),
