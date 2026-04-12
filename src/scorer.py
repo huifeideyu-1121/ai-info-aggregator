@@ -79,7 +79,7 @@ SUMMARY_PROMPT = """请为以下文章生成一段中文摘要，2-3 句话。
 只输出摘要文本，不要其他内容。"""
 
 
-SCORING_MODEL = "anthropic/claude-haiku-4-5"    # fast + cheap for bulk scoring
+SCORING_MODEL = "google/gemini-2.0-flash-001"    # fast + cheap for bulk scoring
 SUMMARY_MODEL = "anthropic/claude-sonnet-4-5"  # better quality for final output
 
 
