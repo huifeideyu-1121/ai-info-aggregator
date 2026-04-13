@@ -2,7 +2,7 @@ name: Keep WeWe RSS Alive
 
 on:
   schedule:
-    - cron: "*/20 * * * *"  # 每 20 分钟 ping 一次
+    - cron: "0 */2 * * *"  # 每 2 小时 ping 一次（减轻内存压力）
 
 jobs:
   ping:
