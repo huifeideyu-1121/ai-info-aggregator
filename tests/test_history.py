@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from src.history import filter_unseen, load_history, prune_history, record_pushed
+from src.history import filter_unseen, load_history, prune_history, record_pushed, save_history
 
 
 def test_load_history_returns_empty_list_when_file_missing(tmp_path):
@@ -137,3 +137,23 @@ def test_prune_history_drops_entries_with_malformed_date():
     pruned = prune_history(history, days=90, today="2026-04-21")
     urls = {e["url"] for e in pruned}
     assert urls == {"https://good.com"}
+
+
+def test_save_history_writes_pushed_wrapper(tmp_path):
+    path = tmp_path / "sub" / "pushed.json"
+    entries = [
+        {"url": "https://a.com", "pushed_at": "2026-04-21", "title": "A", "score": 8}
+    ]
+    save_history(str(path), entries)
+    data = json.loads(path.read_text(encoding="utf-8"))
+    assert data == {"pushed": entries}
+
+
+def test_save_history_roundtrips_with_load_history(tmp_path):
+    path = tmp_path / "pushed.json"
+    entries = [
+        {"url": "https://a.com", "pushed_at": "2026-04-21", "title": "A", "score": 8},
+        {"url": "https://b.com", "pushed_at": "2026-04-20", "title": "B", "score": 9},
+    ]
+    save_history(str(path), entries)
+    assert load_history(str(path)) == entries

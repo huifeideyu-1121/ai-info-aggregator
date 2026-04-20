@@ -77,3 +77,12 @@ def prune_history(history: list[dict], days: int, today: str) -> list[dict]:
         if pushed_dt >= cutoff:
             kept.append(entry)
     return kept
+
+
+def save_history(path: str, history: list[dict]) -> None:
+    """Write history to path, creating parent dirs as needed."""
+    parent = os.path.dirname(path)
+    if parent:
+        os.makedirs(parent, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump({"pushed": history}, f, ensure_ascii=False, indent=2)
