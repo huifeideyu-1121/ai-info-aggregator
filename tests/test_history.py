@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from src.history import filter_unseen, load_history
+from src.history import filter_unseen, load_history, record_pushed
 
 
 def test_load_history_returns_empty_list_when_file_missing(tmp_path):
@@ -73,3 +73,39 @@ def test_filter_unseen_handles_mix():
     skipped_urls = {a["url"] for a in skipped}
     assert unseen_urls == {"https://b.com", "https://c.com"}
     assert skipped_urls == {"https://a.com"}
+
+
+def test_record_pushed_appends_new_entries():
+    history = [
+        {"url": "https://old.com", "pushed_at": "2026-04-01", "title": "Old", "score": 7}
+    ]
+    articles = [
+        {"url": "https://new.com", "title": "New", "score": 8},
+        {"url": "https://new2.com", "title": "New2", "score": 9},
+    ]
+    updated = record_pushed(history, articles, today="2026-04-21")
+    assert len(updated) == 3
+    assert updated[-2] == {
+        "url": "https://new.com",
+        "pushed_at": "2026-04-21",
+        "title": "New",
+        "score": 8,
+    }
+    assert updated[-1]["url"] == "https://new2.com"
+
+
+def test_record_pushed_empty_articles_returns_history_unchanged():
+    history = [
+        {"url": "https://old.com", "pushed_at": "2026-04-01", "title": "Old", "score": 7}
+    ]
+    updated = record_pushed(history, [], today="2026-04-21")
+    assert updated == history
+
+
+def test_record_pushed_does_not_mutate_input_history():
+    history = [
+        {"url": "https://old.com", "pushed_at": "2026-04-01", "title": "Old", "score": 7}
+    ]
+    original = list(history)
+    record_pushed(history, [{"url": "https://new.com", "title": "N", "score": 8}], "2026-04-21")
+    assert history == original

@@ -44,3 +44,17 @@ def filter_unseen(
     unseen = [a for a in articles if a.get("url") not in recent_urls]
     skipped = [a for a in articles if a.get("url") in recent_urls]
     return unseen, skipped
+
+
+def record_pushed(history: list[dict], articles: list[dict], today: str) -> list[dict]:
+    """Return a new history list with entries for each article appended."""
+    new_entries = [
+        {
+            "url": a.get("url", ""),
+            "pushed_at": today,
+            "title": a.get("title", ""),
+            "score": a.get("score", 0),
+        }
+        for a in articles
+    ]
+    return list(history) + new_entries
