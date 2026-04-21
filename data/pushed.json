@@ -1,3 +1,166 @@
 {
-  "pushed": []
+  "pushed": [
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sr2wid/i_benchmarked_21_local_llms_on_a_macbook_air_m5/",
+      "pushed_at": "2026-04-21",
+      "title": "I benchmarked 21 local LLMs on a MacBook Air M5 for code quality AND speed",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1sql1ub/29000_in_revenue_from_15k_in_ad_spend_for_a/",
+      "pushed_at": "2026-04-21",
+      "title": "$29,000 in revenue from $1.5k in ad spend for a consulting offer. Full breakdown.",
+      "score": 8
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
+      "pushed_at": "2026-04-21",
+      "title": "🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqspgy/qwen3527b_qwen35122b_and_qwen3635b_on_4x_rtx_3090/",
+      "pushed_at": "2026-04-21",
+      "title": "Qwen3.5-27B, Qwen3.5-122B, and Qwen3.6-35B on 4x RTX 3090 — MoEs struggle with strict global rules",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/tractorjuice/arc-kit",
+      "pushed_at": "2026-04-21",
+      "title": "tractorjuice/arc-kit",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/openai/openai-agents-python",
+      "pushed_at": "2026-04-21",
+      "title": "openai/openai-agents-python",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3775892441301511?f=rss",
+      "pushed_at": "2026-04-21",
+      "title": "专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1662860?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-04-21",
+      "title": "实测Claude Design：小白也能做出专业级设计｜附最全玩法+官方实用技巧",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1sr9w58/daily_agent_mcp_productivity_data_layer_for/",
+      "pushed_at": "2026-04-21",
+      "title": "Daily Agent MCP — Productivity data layer for OpenClaw - open source",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1sqv7be/figma_just_got_what_zoominfo_is_about_to_get/",
+      "pushed_at": "2026-04-21",
+      "title": "Figma just got what ZoomInfo is about to get",
+      "score": 7
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds",
+      "pushed_at": "2026-04-21",
+      "title": "[AINews] Moonshot Kimi K2.6: the world's leading Open Model refreshes to catch up to Opus 4.6 (ahead of DeepSeek v4?)",
+      "score": 7
+    },
+    {
+      "url": "https://www.latent.space/p/noetik",
+      "pushed_at": "2026-04-21",
+      "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa & Daniel Bear, Noetik",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/caihongxu/palmier",
+      "pushed_at": "2026-04-21",
+      "title": "Show HN: Palmier – bridge your AI agents and your phone",
+      "score": 7
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=47843670",
+      "pushed_at": "2026-04-21",
+      "title": "Show HN: NeuG – High-performance Embedded graph DB, one line to serve",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/jbarbier/which-claude-code",
+      "pushed_at": "2026-04-21",
+      "title": "Show HN: Auto-generated titles and colors for parallel Claude Code sessions",
+      "score": 7
+    },
+    {
+      "url": "https://mcpfinder.dev/",
+      "pushed_at": "2026-04-21",
+      "title": "Show HN: MCPfinder – An MCP server that finds and installs other MCP servers",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqrl1l/gemma_4_26ba4b_gguf_benchmarks/",
+      "pushed_at": "2026-04-21",
+      "title": "Gemma 4 26B-A4B GGUF Benchmarks",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sr8gyf/qwen3527b_on_rtx_5090_served_via_vllm_77_tps/",
+      "pushed_at": "2026-04-21",
+      "title": "Qwen3.5-27B on RTX 5090 served via vLLM @ 77 tps",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/ruvnet/RuView",
+      "pushed_at": "2026-04-21",
+      "title": "ruvnet/RuView",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "pushed_at": "2026-04-21",
+      "title": "thunderbird/thunderbolt",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "pushed_at": "2026-04-21",
+      "title": "paperless-ngx/paperless-ngx",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/koala73/worldmonitor",
+      "pushed_at": "2026-04-21",
+      "title": "koala73/worldmonitor",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "pushed_at": "2026-04-21",
+      "title": "deepseek-ai/DeepGEMM",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/pi-hole/pi-hole",
+      "pushed_at": "2026-04-21",
+      "title": "pi-hole/pi-hole",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "pushed_at": "2026-04-21",
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "score": 7
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+      "pushed_at": "2026-04-21",
+      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "pushed_at": "2026-04-21",
+      "title": "Fincept-Corporation/FinceptTerminal",
+      "score": 6
+    }
+  ]
 }
