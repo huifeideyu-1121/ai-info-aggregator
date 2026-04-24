@@ -503,6 +503,156 @@
       "pushed_at": "2026-04-23",
       "title": "Z4nzu/hackingtool",
       "score": 6
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/gpt-55-just-did-what-no-other-model",
+      "pushed_at": "2026-04-24",
+      "title": "GPT 5.5 just did what no other model could",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything",
+      "pushed_at": "2026-04-24",
+      "title": "Serving the For You feed",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
+      "pushed_at": "2026-04-24",
+      "title": "Extract PDF text in your browser with LiteParse for the web",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1stjwg5/been_using_pi_coding_agent_with_local_qwen36_35b/",
+      "pushed_at": "2026-04-24",
+      "title": "Been using PI Coding Agent with local Qwen3.6 35b for a while now and its actually insane",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sty5i0/expert_upcycling_growing_moe_capacity_midtraining/",
+      "pushed_at": "2026-04-24",
+      "title": "Expert Upcycling: Growing MoE capacity mid-training without increasing inference cost (7B→13B, ~32% GPU hours saved)",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/huggingface/ml-intern",
+      "pushed_at": "2026-04-24",
+      "title": "huggingface/ml-intern",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "pushed_at": "2026-04-24",
+      "title": "Anil-matcha/Open-Generative-AI",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "pushed_at": "2026-04-24",
+      "title": "Alishahryar1/free-claude-code",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/cline/cline",
+      "pushed_at": "2026-04-24",
+      "title": "cline/cline",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/mksglu/context-mode",
+      "pushed_at": "2026-04-24",
+      "title": "mksglu/context-mode",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "pushed_at": "2026-04-24",
+      "title": "coreyhaines31/marketingskills",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "pushed_at": "2026-04-24",
+      "title": "VoltAgent/awesome-agent-skills",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1stf912/i_built_boba_a_free_ai_calorie_tracker_with_no/",
+      "pushed_at": "2026-04-24",
+      "title": "I built Boba, a free AI calorie tracker with no subscription, using a local AI I fine-tuned",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1sttr5i/your_might_be_sitting_on_100k/",
+      "pushed_at": "2026-04-24",
+      "title": "your might be sitting on 100k",
+      "score": 7
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
+      "pushed_at": "2026-04-24",
+      "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/Apr/24/honker/#atom-everything",
+      "pushed_at": "2026-04-24",
+      "title": "russellromney/honker",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything",
+      "pushed_at": "2026-04-24",
+      "title": "An update on recent Claude Code quality reports",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+      "pushed_at": "2026-04-24",
+      "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+      "score": 7
+    },
+    {
+      "url": "https://www.mirrorneuron.io/",
+      "pushed_at": "2026-04-24",
+      "title": "Show HN: MirrorNeuron – an open-source runtime for reliable on-device AI agents",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/AdirAmsalem/easl",
+      "pushed_at": "2026-04-24",
+      "title": "Show HN: easl – Instant hosting for AI agents",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1stcer1/qwen3627b_llamacpp_speculative_decoding/",
+      "pushed_at": "2026-04-24",
+      "title": "Qwen-3.6-27B, llamacpp, speculative decoding - appreciation post",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sto25c/qwen3tts_qwen3635b_for_a_voice_agent_pipeline_3/",
+      "pushed_at": "2026-04-24",
+      "title": "Qwen3-TTS + qwen3.6-35B for a voice agent pipeline — 3 weeks of notes",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/chiphuyen/aie-book",
+      "pushed_at": "2026-04-24",
+      "title": "chiphuyen/aie-book",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3778831119897600?f=rss",
+      "pushed_at": "2026-04-24",
+      "title": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1663500?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-04-24",
+      "title": "刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平",
+      "score": 7
     }
   ]
 }
