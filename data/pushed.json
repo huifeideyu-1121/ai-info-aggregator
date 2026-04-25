@@ -653,6 +653,156 @@
       "pushed_at": "2026-04-24",
       "title": "刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平",
       "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
+      "pushed_at": "2026-04-25",
+      "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suur3s/qwen36_27bs_surprising_kv_cache_quantization_test/",
+      "pushed_at": "2026-04-25",
+      "title": "Qwen3.6 27B's surprising KV cache quantization test results (Turbo3/4 vs F16 vs Q8 vs Q4)",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "pushed_at": "2026-04-25",
+      "title": "dani-garcia/vaultwarden",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3781532841581576?f=rss",
+      "pushed_at": "2026-04-25",
+      "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3780352721851397?f=rss",
+      "pushed_at": "2026-04-25",
+      "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1suz5zq/i_built_an_offline_survival_ai_update/",
+      "pushed_at": "2026-04-25",
+      "title": "I built an offline survival AI [Update]",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1suyuoo/i_built_a_cli_to_measure_the_health_of_my/",
+      "pushed_at": "2026-04-25",
+      "title": "I built a CLI to measure the health of my codebase (JS/TS)",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1suh8d4/clients_form_opinions_about_your_ai_in_the_first/",
+      "pushed_at": "2026-04-25",
+      "title": "Clients form opinions about your AI in the first few seconds of waiting for a reply",
+      "score": 7
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp",
+      "pushed_at": "2026-04-25",
+      "title": "[AINews] GPT 5.5 and OpenAI Codex Superapp",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/vinhnx/VTCode",
+      "pushed_at": "2026-04-25",
+      "title": "Show HN: VT Code – Rust TUI coding agent with multi-provider support",
+      "score": 7
+    },
+    {
+      "url": "https://www.npmjs.com/package/pando-proxy",
+      "pushed_at": "2026-04-25",
+      "title": "Show HN: Codex context bloat? 87% avg reduction on SWE-bench Verified traces",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/NoahCristino/llmcat",
+      "pushed_at": "2026-04-25",
+      "title": "Show HN: I built a CLI that turns your codebase into clean LLM input",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/abi/lilo",
+      "pushed_at": "2026-04-25",
+      "title": "Show HN: Lilo – a self-hosted, open-source intelligent personal OS",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/adam-s/HNswered",
+      "pushed_at": "2026-04-25",
+      "title": "Show HN: HNswered – watches for replies to your Hacker News posts and comments",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suef7t/anthropic_admits_to_have_made_hosted_models_more/",
+      "pushed_at": "2026-04-25",
+      "title": "Anthropic admits to have made hosted models more stupid, proving the importance of open weight, local models",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suh3sz/gemma_4_and_qwen_36_with_q8_0_and_q4_0_kv_cache/",
+      "pushed_at": "2026-04-25",
+      "title": "Gemma 4 and Qwen 3.6 with q8_0 and q4_0 KV cache: KL divergence results",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "pushed_at": "2026-04-25",
+      "title": "codecrafters-io/build-your-own-x",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/microsoft/typescript-go",
+      "pushed_at": "2026-04-25",
+      "title": "microsoft/typescript-go",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "pushed_at": "2026-04-25",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3781548853533959?f=rss",
+      "pushed_at": "2026-04-25",
+      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3777694346548482?f=rss",
+      "pushed_at": "2026-04-25",
+      "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3781546314357767?f=rss",
+      "pushed_at": "2026-04-25",
+      "title": "谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1663666?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-04-25",
+      "title": "刚刚，GPT-5.5 发布！Claude Code 连夜治好降智，「奥特曼瘫倒」喜提续集",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/PostHog/posthog",
+      "pushed_at": "2026-04-25",
+      "title": "PostHog/posthog",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "pushed_at": "2026-04-25",
+      "title": "deepseek-ai/DeepEP",
+      "score": 6
     }
   ]
 }
