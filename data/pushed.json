@@ -803,6 +803,90 @@
       "pushed_at": "2026-04-25",
       "title": "deepseek-ai/DeepEP",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1sveoea/real_numbers_from_my_saas_this_month_heres_what/",
+      "pushed_at": "2026-04-26",
+      "title": "Real numbers from my SaaS this month. Here's what they mean and how I got here",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/labiium/routiium",
+      "pushed_at": "2026-04-26",
+      "title": "Show HN: Routiium – self-hosted LLM gateway with a tool-result guard",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svl1wr/finalbenchdarwin36bopus_hugging_face/",
+      "pushed_at": "2026-04-26",
+      "title": "FINAL-Bench/Darwin-36B-Opus · Hugging Face",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/mattpocock/skills",
+      "pushed_at": "2026-04-26",
+      "title": "mattpocock/skills",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/CJackHwang/ds2api",
+      "pushed_at": "2026-04-26",
+      "title": "CJackHwang/ds2api",
+      "score": 8
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
+      "pushed_at": "2026-04-26",
+      "title": "[AINews] DeepSeek V4 Pro (1.6T-A49B) and Flash (284B-A13B), Base and Instruct — runnable on Huawei Ascend chips",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Rightbracket/peeroxide",
+      "pushed_at": "2026-04-26",
+      "title": "Show HN: Peeroxide – Full wire-compatible Rust implementation of Hyperswarm",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/lu-zhengda/claude-mem-viz",
+      "pushed_at": "2026-04-26",
+      "title": "Show HN: claude-mem-viz, browse what claude code remembers about your projects",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svgtlh/glm_51_locally_40tps_2000_pps/",
+      "pushed_at": "2026-04-26",
+      "title": "GLM 5.1 Locally: 40tps, 2000+ pp/s",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sv9aya/kimi_k26_the_mighty_turtle_that_wins_the_race/",
+      "pushed_at": "2026-04-26",
+      "title": "Kimi K2.6 - the mighty turtle that wins the race",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/davila7/claude-code-templates",
+      "pushed_at": "2026-04-26",
+      "title": "davila7/claude-code-templates",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/RooCodeInc/Roo-Code",
+      "pushed_at": "2026-04-26",
+      "title": "RooCodeInc/Roo-Code",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "pushed_at": "2026-04-26",
+      "title": "ComposioHQ/awesome-codex-skills",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Universal-Commerce-Protocol/ucp",
+      "pushed_at": "2026-04-26",
+      "title": "Universal-Commerce-Protocol/ucp",
+      "score": 6
     }
   ]
 }
