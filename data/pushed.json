@@ -5207,6 +5207,252 @@
       "pushed_at": "2026-05-19",
       "title": "2026 年，手机终于会自己拍照了｜AI 器物志",
       "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ti22eq/may_the_1st_changed_my_life/",
+      "pushed_at": "2026-05-20",
+      "title": "may the 1st changed my life",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1thxcgn/web_scraping_for_llms_was_driving_us_insane_so_we/",
+      "pushed_at": "2026-05-20",
+      "title": "Web scraping for LLMs was driving us insane, so we built our own Search API with native MCP support",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1thi588/i_built_clipify_paste_a_youtube_link_get_10_viral/",
+      "pushed_at": "2026-05-20",
+      "title": "I built Clipify — paste a YouTube link, get 10 viral clips in 9:16/16:9/1:1 with captions. Free and open source.",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1ti2x0y/i_built_a_free_open_source_alternative_to_one_sec/",
+      "pushed_at": "2026-05-20",
+      "title": "I built a free open source alternative to One Sec because I didnt want to pay 100 USD to purposely slow down my phone",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1thyq22/kandev_selfhosted_kanban_for_coding_agents_claude/",
+      "pushed_at": "2026-05-20",
+      "title": "kandev: self-hosted kanban for coding agents (Claude Code, Codex, Copilot, Amp, OpenCode), each card runs in its own git worktree",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1thxdew/i_built_a_tool_to_see_how_brands_show_up_in_ai/",
+      "pushed_at": "2026-05-20",
+      "title": "I built a tool to see how brands show up in AI search results",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1thrpoj/vibe_coding_and_the_if_you_build_it_paradox/",
+      "pushed_at": "2026-05-20",
+      "title": "Vibe Coding and the \"If You Build It\" Paradox",
+      "score": 5
+    },
+    {
+      "url": "https://www.therundown.ai/p/musk-openai-case-runs-out-of-time",
+      "pushed_at": "2026-05-20",
+      "title": "Musk's OpenAI case runs out of time",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+      "pushed_at": "2026-05-20",
+      "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+      "pushed_at": "2026-05-20",
+      "title": "The last six months in LLMs in five minutes",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/axledbetter/claude-autopilot",
+      "pushed_at": "2026-05-20",
+      "title": "Show HN: Claude-Autopilot: autonomous dev pipeline with risk-tiered review",
+      "score": 5
+    },
+    {
+      "url": "https://nitrolens.ai/",
+      "pushed_at": "2026-05-20",
+      "title": "Show HN: We built an AI strategy agent that runs consulting-style workflows",
+      "score": 6
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=48200511",
+      "pushed_at": "2026-05-20",
+      "title": "Show HN: AgentWing – make AI agents complete tasks faster",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/rajatarya/mdviewer",
+      "pushed_at": "2026-05-20",
+      "title": "Show HN: I built a native macOS Markdown viewer 100% with AI coding agents",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/shanirsh/prismodev",
+      "pushed_at": "2026-05-20",
+      "title": "Show HN: PrismoDev – local CLI for finding token waste in Claude Code/Codex",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/zobweyt/obsidian-bases-chart-layouts",
+      "pushed_at": "2026-05-20",
+      "title": "Show HN: Native-feeling charts for Obsidian Bases, built with Deno",
+      "score": 5
+    },
+    {
+      "url": "https://limitless-osint.com/",
+      "pushed_at": "2026-05-20",
+      "title": "Show HN: Limitless – AI OSINT search and interactive intelligence sandboxes",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thkwgk/bytedance_released_an_open_source_model_that/",
+      "pushed_at": "2026-05-20",
+      "title": "bytedance released an open source model that attempts to do just about anything with only 3b parameters",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thucyj/a_tool_i_built_to_generate_3d_objects_with/",
+      "pushed_at": "2026-05-20",
+      "title": "A tool I built to generate 3D objects with functional, articulated parts. It's on github, and is mostly LLM-agnostic.",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thosnt/got_my_first_rm_rf_today/",
+      "pushed_at": "2026-05-20",
+      "title": "got my first \"rm -rf /\" today",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ti0g0k/google_ai_edge_gallery_v1013_v1014_updates_gemma/",
+      "pushed_at": "2026-05-20",
+      "title": "Google AI Edge Gallery v1.0.13 & v1.0.14 updates: Gemma 4 Multi-Token Prediction, Pixel TPU support, experimental MCP, new skills, now saves chat history",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thu6os/here_are_my_kv_cache_quantization_benchmarks/",
+      "pushed_at": "2026-05-20",
+      "title": "Here are my KV cache quantization benchmarks: TurboQuant is overrated but saved by TCQ, q5 deserves more attention, and symmetric q8 might be a waste of VRAM",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thsw7b/carbon_decoding_the_language_of_life/",
+      "pushed_at": "2026-05-20",
+      "title": "Carbon: Decoding the Language of Life",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thv6du/nemotronlabsdiffusion_from_nvidia/",
+      "pushed_at": "2026-05-20",
+      "title": "Nemotron-Labs-Diffusion from NVIDIA",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thpkka/introducing_the_ettin_reranker_family/",
+      "pushed_at": "2026-05-20",
+      "title": "Introducing the Ettin Reranker Family",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ti1f2k/newbie_vibe_coding_experience_shifting_from/",
+      "pushed_at": "2026-05-20",
+      "title": "Newbie vibe coding experience: Shifting from Claude Sonnet 4.6 to Qwen3.6-35B-A3B-UD-Q6_K",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thyvum/qwen3627b_vram_16gb_5080_mtp_quant_speeds_and/",
+      "pushed_at": "2026-05-20",
+      "title": "Qwen3.6:27B VRAM 16GB 5080: MTP Quant, Speeds, and Configs",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thw7x9/privatescribeai_fully_local_mit_licensed_free_ai/",
+      "pushed_at": "2026-05-20",
+      "title": "PrivateScribe.ai - Fully local, MIT licensed, free AI transcription built with HIPAA/legal safeguards in mind - One Year Update!",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thw066/open_weights_glm_and_mimo_are_better_than_gemini/",
+      "pushed_at": "2026-05-20",
+      "title": "Open weights GLM and Mimo are better than Gemini 3.5 flash according to arena",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "pushed_at": "2026-05-20",
+      "title": "ggml-org/llama.cpp",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "pushed_at": "2026-05-20",
+      "title": "BigBodyCobain/Shadowbroker",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "pushed_at": "2026-05-20",
+      "title": "humanlayer/12-factor-agents",
+      "score": 8
+    },
+    {
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "pushed_at": "2026-05-20",
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3814860909600261?f=rss",
+      "pushed_at": "2026-05-20",
+      "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3805660478184966?f=rss",
+      "pushed_at": "2026-05-20",
+      "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3816865174569859?f=rss",
+      "pushed_at": "2026-05-20",
+      "title": "锚定高端赛道，头部PCB厂商吹响扩产号角",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3816847749153664?f=rss",
+      "pushed_at": "2026-05-20",
+      "title": "SpaceX据悉打算在美国IPO过后30天收购初创公司Cursor",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3816848622306436?f=rss",
+      "pushed_at": "2026-05-20",
+      "title": "谷歌CEO：Gemini月活跃用户达9亿",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3816834110309248?f=rss",
+      "pushed_at": "2026-05-20",
+      "title": "佑驾创新“真无图”无人车小竹T5 Pro获得丹阳首批订单",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1666329?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-20",
+      "title": "谷歌用 AI 「杀死」谷歌，这场发布会看得人缺氧",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1666242?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-20",
+      "title": "体验完腾讯发布的 Marvis 助手，我发现个人 AI 的尽头是操作系统",
+      "score": 7
     }
   ]
 }
