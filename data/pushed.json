@@ -7199,6 +7199,216 @@
       "pushed_at": "2026-05-29",
       "title": "iii-hq/iii",
       "score": 4
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tqoizf/til_adding_make_this_as_an_html_page_to_any/",
+      "pushed_at": "2026-05-30",
+      "title": "TIL: adding \"make this as an HTML page\" to any Claude prompt is kind of a cheat code",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1trbdgo/drop_your_startup_site_and_ill_suggest_the_next/",
+      "pushed_at": "2026-05-30",
+      "title": "Drop your startup site and I’ll suggest the next page you should publish for SEO / AI search",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1trbce1/i_built_a_voice_ai_agent_that_can_call_and_obtain/",
+      "pushed_at": "2026-05-30",
+      "title": "I built a voice AI Agent that can call and obtain quotes on your behalf",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1trfzyz/i_built_a_free_site_that_makes_fda_adverse_event/",
+      "pushed_at": "2026-05-30",
+      "title": "I built a free site that makes FDA adverse event data actually readable for normal people",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1trivom/i_built_a_public_test_for_a_metalayer_above_ai/",
+      "pushed_at": "2026-05-30",
+      "title": "I built a public test for a meta-layer above AI models, compute, DePIN and token systems",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tr1nr1/ship_fast_check_first/",
+      "pushed_at": "2026-05-30",
+      "title": "Ship Fast, Check First",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tqo2pr/i_built_an_app_where_you_type_a_raw_personal/",
+      "pushed_at": "2026-05-30",
+      "title": "I built an app where you type a raw personal thought and instantly get matched into a chat room with someone feeling the exact same way.",
+      "score": 5
+    },
+    {
+      "url": "https://www.therundown.ai/p/anthropic-just-eclipsed-openai",
+      "pushed_at": "2026-05-30",
+      "title": "Anthropic just eclipsed OpenAI",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+      "pushed_at": "2026-05-30",
+      "title": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
+      "score": 9
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
+      "pushed_at": "2026-05-30",
+      "title": "Anthropic's run-rate revenue hits $47 billion",
+      "score": 7
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OfkTGCVk-RQ",
+      "pushed_at": "2026-05-30",
+      "title": "Show HN: 3 of Minutes of AI Anime Based on Korean Comics [video]",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "pushed_at": "2026-05-30",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/hunvreus/heypi",
+      "pushed_at": "2026-05-30",
+      "title": "Show HN: Heypi – Like OpenClaw but for Your Team (Slack, Discord, etc.)",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1treuy3/breaking_the_music_supply_constraint/",
+      "pushed_at": "2026-05-30",
+      "title": "Breaking the music supply constraint",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tr9vzn/qwen3627b_quantization_benchmark/",
+      "pushed_at": "2026-05-30",
+      "title": "Qwen3.6-27B Quantization Benchmark",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tr78bg/llama_website_unified_llama_binary/",
+      "pushed_at": "2026-05-30",
+      "title": "llama : website + unified `llama` binary · ggml-org/llama.cpp · Discussion #23875",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1treb2z/me_train_llm_on_8gb_from_scratch_me_happy/",
+      "pushed_at": "2026-05-30",
+      "title": "Me train LLM on 8GB from Scratch. Me happy",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trf0r0/i_tested_mtp_on_vllm_and_llamacpp_for_gemma_4/",
+      "pushed_at": "2026-05-30",
+      "title": "I tested MTP on vLLM and llama.cpp for Gemma 4 & Qwen 3.6 — 3.34x faster inference, here are my findings RTX 6000 PRO.",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqy2iv/shoutout_to_gemma4_as_a_conversational_assistant/",
+      "pushed_at": "2026-05-30",
+      "title": "Shoutout to Gemma4 as a conversational assistant / agent",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqloii/stepfun_37_flash/",
+      "pushed_at": "2026-05-30",
+      "title": "StepFun 3.7 Flash",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trbeo0/mutating_gemma_4_31b_dense_in_to_a_native_gemma_4/",
+      "pushed_at": "2026-05-30",
+      "title": "Mutating Gemma 4 31B Dense in to a native Gemma 4 additive-MoE model",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tr57ci/we_gave_a_reachy_mini_a_realtime_voice_brain/",
+      "pushed_at": "2026-05-30",
+      "title": "We gave a Reachy Mini a real-time voice brain",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tr0end/vllm_pr_adding_native_hip_w4a16_kernel_was_merged/",
+      "pushed_at": "2026-05-30",
+      "title": "vLLM PR adding native HIP W4A16 kernel was merged",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqt12p/use_html_as_the_primary_chat_language_for_your/",
+      "pushed_at": "2026-05-30",
+      "title": "Use HTML as the primary chat language for your agents so they can draw diagrams",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqwetn/qwen_36_27b_overdoing_it/",
+      "pushed_at": "2026-05-30",
+      "title": "Qwen 3.6 27B overdoing it",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/twentyhq/twenty",
+      "pushed_at": "2026-05-30",
+      "title": "twentyhq/twenty",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/microsoft/markitdown",
+      "pushed_at": "2026-05-30",
+      "title": "microsoft/markitdown",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/revfactory/harness",
+      "pushed_at": "2026-05-30",
+      "title": "revfactory/harness",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/unclecode/crawl4ai",
+      "pushed_at": "2026-05-30",
+      "title": "unclecode/crawl4ai",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "pushed_at": "2026-05-30",
+      "title": "EveryInc/compound-engineering-plugin",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "pushed_at": "2026-05-30",
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "pushed_at": "2026-05-30",
+      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3830580716365449?f=rss",
+      "pushed_at": "2026-05-30",
+      "title": "千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3830281161860998?f=rss",
+      "pushed_at": "2026-05-30",
+      "title": "“易启未来”完成数千万元A轮融资",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1667419?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-30",
+      "title": "早报｜苹果iOS 27界面曝光，Siri也上岛/黄仁勋加入清华大学/鸿蒙生态设备累计超13亿",
+      "score": 5
     }
   ]
 }
