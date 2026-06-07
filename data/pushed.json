@@ -8765,6 +8765,156 @@
       "pushed_at": "2026-06-06",
       "title": "垃圾桶里捡零件，弹幕里接需求，B 站有群人在用 AI 野生造产品",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tyktsg/my_side_project_started_making_money_and_i_went/",
+      "pushed_at": "2026-06-07",
+      "title": "My side project started making money and I went from hobby to legit business in one afternoon",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tyiwqg/looking_for_feedback_i_built_a_tool_that_turns/",
+      "pushed_at": "2026-06-07",
+      "title": "Looking for feedback: I built a tool that turns client feedback into GitHub PRs",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1typu73/i_asked_rfixmyprint_what_wastes_their_time_26/",
+      "pushed_at": "2026-06-07",
+      "title": "I asked r/FixMyPrint what wastes their time. 26 people answered in an hour. I went and built it. 90% done.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tyse96/scriba_mit_local_meeting_transcription_with/",
+      "pushed_at": "2026-06-07",
+      "title": "Scriba (MIT) — local meeting transcription with speaker recognition. Couldn't find an existing tool that does this, so I built one",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+      "pushed_at": "2026-06-07",
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "score": 8
+    },
+    {
+      "url": "https://www.tryquincy.live",
+      "pushed_at": "2026-06-07",
+      "title": "Show HN: A beautiful and local-first PDF reader for studying dense things",
+      "score": 6
+    },
+    {
+      "url": "https://apps.apple.com/us/app/bubble-level-calibrated/id6767735397",
+      "pushed_at": "2026-06-07",
+      "title": "Show HN: An iOS bubble level designed to calibrate away camera bump",
+      "score": 5
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=48428991",
+      "pushed_at": "2026-06-07",
+      "title": "Show HN: PriceHound.app – Price tracking for $1/mo instead of selling your data",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/w-martin/typedframes",
+      "pushed_at": "2026-06-07",
+      "title": "Show HN: Typedframes – Pandas/polars column name checking at lint time",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tylzy2/coheres_unreleased_coding_model_early_access_for/",
+      "pushed_at": "2026-06-07",
+      "title": "Cohere's unreleased coding model (early access for localllama)",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1typjmc/120_toks_on_12gb_vram_with_gemma_4_12b_qat_mtp/",
+      "pushed_at": "2026-06-07",
+      "title": "120 tok/s on 12GB VRAM with Gemma 4 12B QAT MTP",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tyockn/kv_cache_quant_benchmarks_kvarn_6bit_matches_q8_0/",
+      "pushed_at": "2026-06-07",
+      "title": "KV cache quant benchmarks: KVarN 6-bit matches q8_0, 4-bit matches q5_0. Massive!",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tyb3np/deepseek_v4_flash_is_amazing_wip_llamacpp_pr_24162/",
+      "pushed_at": "2026-06-07",
+      "title": "DeepSeek V4 Flash is amazing! (WIP llama.cpp PR #24162)",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tyjkfh/moq_ggufs_and_gsq_lowbit_ggufs_are_about_to_get/",
+      "pushed_at": "2026-06-07",
+      "title": "MoQ GGUFs and GSQ: Low-Bit GGUFs Are About to Get Much Better",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tya05j/aa_comparison_of_the_latest_local_models/",
+      "pushed_at": "2026-06-07",
+      "title": "AA comparison of the latest local models",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1typr7o/amd_mi50_on_debian_testing_is_doing_great_and/",
+      "pushed_at": "2026-06-07",
+      "title": "AMD MI50 on Debian Testing is doing great and getting better.",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tynhd1/gemma_4_qat_accuracy_inconsistencies/",
+      "pushed_at": "2026-06-07",
+      "title": "Gemma 4 QAT accuracy inconsistencies",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tyfqmp/domino_decoupling_causal_modeling_from/",
+      "pushed_at": "2026-06-07",
+      "title": "Domino: Decoupling Causal Modeling from Autoregressive Drafting in Speculative Decoding",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "pushed_at": "2026-06-07",
+      "title": "CopilotKit/CopilotKit",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "pushed_at": "2026-06-07",
+      "title": "Panniantong/Agent-Reach",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/NVIDIA/cosmos",
+      "pushed_at": "2026-06-07",
+      "title": "NVIDIA/cosmos",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/MemPalace/mempalace",
+      "pushed_at": "2026-06-07",
+      "title": "MemPalace/mempalace",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/withastro/flue",
+      "pushed_at": "2026-06-07",
+      "title": "withastro/flue",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/aquasecurity/trivy",
+      "pushed_at": "2026-06-07",
+      "title": "aquasecurity/trivy",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1668242?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-07",
+      "title": "从感知智能到智能体 AI：高通汽车中国布局深化加速",
+      "score": 6
     }
   ]
 }
