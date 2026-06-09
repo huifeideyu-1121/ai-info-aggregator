@@ -9035,6 +9035,210 @@
       "pushed_at": "2026-06-08",
       "title": "数字“超级大脑”大幅提升光学材料筛选速度",
       "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tzztv9/my_side_project_went_viral_then_someone_cloned/",
+      "pushed_at": "2026-06-09",
+      "title": "My side project went viral, then someone cloned the source and shared it publicly",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u0li53/i_got_1300_visitors_in_30_days_from_people_tired/",
+      "pushed_at": "2026-06-09",
+      "title": "I got 1,300 visitors in 30 days from people tired of paywalled \"free\" tools. Just shipped an AI background remover.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u0kcy0/my_first_app_a_tool_that_scans_leases_for_risky/",
+      "pushed_at": "2026-06-09",
+      "title": "My first app: a tool that scans leases for risky clauses",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u0hmbl/i_always_end_up_with_100_tabs_open_across_safari/",
+      "pushed_at": "2026-06-09",
+      "title": "I always end up with 100+ tabs open across Safari, Chrome, and Arc, so I built a native Mac/iOS/iPadOS app to save them all and clear my browser",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u06qb0/got_tired_of_ats_filtering_me_out_so_i_built_one/",
+      "pushed_at": "2026-06-09",
+      "title": "Got tired of ATS filtering me out, so i built one that filters companies instead",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u0l2uz/existing_allinone_workspaces_didnt_cut_it_so_i/",
+      "pushed_at": "2026-06-09",
+      "title": "Existing all-in-one workspaces didn't cut it, so I spent 4 months building my own",
+      "score": 5
+    },
+    {
+      "url": "https://www.therundown.ai/p/washington-wants-a-piece-of-openai",
+      "pushed_at": "2026-06-09",
+      "title": "Washington wants a piece of OpenAI",
+      "score": 5
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself",
+      "pushed_at": "2026-06-09",
+      "title": "🎙️ How I AI: Gemini Omni: Clone yourself with AI in under 15 minutes & Shopping with Claude",
+      "score": 7
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
+      "pushed_at": "2026-06-09",
+      "title": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
+      "score": 9
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
+      "pushed_at": "2026-06-09",
+      "title": "Siri AI at WWDC 2026",
+      "score": 6
+    },
+    {
+      "url": "https://www.cc.dev/",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: Command Center, the AI coding env for people who care about quality",
+      "score": 5
+    },
+    {
+      "url": "https://medium.com/towards-artificial-intelligence/mcp-apps-build-interactive-apps-directly-inside-your-ai-agents-chat-c571678099e3",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: Stop returning raw JSON from MCP servers, build rich inline UIs",
+      "score": 5
+    },
+    {
+      "url": "https://primereviewspro.com/spot-fake-amazon-reviews",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: A free analyzer for spotting fake Amazon reviews via distribution shape",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0b3cu/luce_spark_a_35b_moe_on_a_16_gb_gpu_without_the/",
+      "pushed_at": "2026-06-09",
+      "title": "Luce Spark: a 35B MoE on a 16 GB GPU, without the offload tax",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0marm/quick_note_on_the_qat_of_recent/",
+      "pushed_at": "2026-06-09",
+      "title": "Quick note on the QAT of recent",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0cpbm/i_bundled_a_fully_local_llm_inside_my_unity_game/",
+      "pushed_at": "2026-06-09",
+      "title": "I bundled a fully local LLM inside my Unity game. No internet, no cloud, no API key. The conversation is the gameplay.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0isbo/qwen3635ba3b_tool_calling_benchmark_byteshape_vs/",
+      "pushed_at": "2026-06-09",
+      "title": "Qwen3.6-35B-A3B tool calling benchmark: ByteShape vs. Unsloth GGUFs, KV cache quants & long context performance",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u06jel/kvcache_avoid_kv_cells_copies_by_ggerganov_pull/",
+      "pushed_at": "2026-06-09",
+      "title": "kv-cache : avoid kv cells copies by ggerganov · Pull Request #24277 · ggml-org/llama.cpp",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u08zhx/3090_gemma4_qat_mtp_quick_tps_numbers_tldr_1218x/",
+      "pushed_at": "2026-06-09",
+      "title": "[3090] Gemma4 QAT + MTP quick TPS numbers [TLDR 1.2-1.8x better]",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u08j3q/mtmd_add_video_input_support_by_ngxson_pull/",
+      "pushed_at": "2026-06-09",
+      "title": "mtmd : add video input support by ngxson · Pull Request #24269 · ggml-org/llama.cpp",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0di9u/an_implementation_of_nanoquant_a_flexible_binary/",
+      "pushed_at": "2026-06-09",
+      "title": "An Implementation of NanoQuant: A flexible binary quantization method",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0luw0/what_is_your_best_coding_model_on_a_dgx_spark/",
+      "pushed_at": "2026-06-09",
+      "title": "What is your best coding model on a DGX Spark?",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0p3b2/pipeline_parallelism_in_llamacpp_may_be_wasting/",
+      "pushed_at": "2026-06-09",
+      "title": "Pipeline parallelism in llama.cpp may be wasting your VRAM",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0j29u/16b_dense_on_16gb_gpu_vs_32b_dense_on_2x_16gb_gpu/",
+      "pushed_at": "2026-06-09",
+      "title": "16B dense on 16GB GPU vs 32B dense on 2x 16GB GPU",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u05t6u/benchmark_dflash_speculative_decoding_kv_cache/",
+      "pushed_at": "2026-06-09",
+      "title": "[Benchmark] DFlash Speculative Decoding + KV Cache Compression on RTX 5090 — 3.26x Speedup",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "pushed_at": "2026-06-09",
+      "title": "RyanCodrai/turbovec",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/refactoringhq/tolaria",
+      "pushed_at": "2026-06-09",
+      "title": "refactoringhq/tolaria",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/microsoft/pg_durable",
+      "pushed_at": "2026-06-09",
+      "title": "microsoft/pg_durable",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3844559758936582?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3841459663030532?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3845176795203844?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "中信证券：汽车智驾渗透率高增，产业链盈利向上",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3845169671850247?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "SpaceX、OpenAI、Anthropic相继推进上市进程，全球超级IPO潮或重塑市场预期",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1668337?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-09",
+      "title": "对话 MiniMax 择因：Agent 终会超过人类，我们又将何去何从？",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1668041?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-09",
+      "title": "英伟达：带领 PC，重铸 PC｜硬哲学",
+      "score": 6
     }
   ]
 }
