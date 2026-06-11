@@ -9491,6 +9491,246 @@
       "pushed_at": "2026-06-10",
       "title": "微信发布Skill 文档，数百万小程序，一夜之间变成了 AI 的手和脚",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u236x4/ive_been_working_solo_on_this_for_2_years_the/",
+      "pushed_at": "2026-06-11",
+      "title": "I've been working solo on this for 2 years. The movie & TV tracker I always wished existed!",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u2grlt/built_an_ios_app_where_5_ais_argue_your_hardest/",
+      "pushed_at": "2026-06-11",
+      "title": "built an ios app where 5 AIs argue your hardest decision before giving you a verdict — 16, solo, launching soon, here's the honest state of things",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u2czym/turned_my_personal_dashboard_into_an_opensource/",
+      "pushed_at": "2026-06-11",
+      "title": "Turned my personal dashboard into an open-source local self-growing wiki tool. Runs on a local LLM and uses flourishing research to turn your data into action",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u2g0k2/i_built_a_music_discovery_engine_with_10m_artists/",
+      "pushed_at": "2026-06-11",
+      "title": "I built a music discovery engine with 10M+ artists. 230 paying users in 2 months, zero moneys spent in marketing",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u2fsui/built_a_free_fortunetelling_dream_interpretation/",
+      "pushed_at": "2026-06-11",
+      "title": "Built a free fortune-telling + dream interpretation site on a donation model — looking for honest feedback on the bet, not the mysticism",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u2fi75/built_a_free_selfhosted_music_app_for_people_with/",
+      "pushed_at": "2026-06-11",
+      "title": "Built a free self-hosted music app for people with large local music libraries, and I call it BoogieBox.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1u1wy2y/musings_of_a_solopreneur_building_ambitious_and/",
+      "pushed_at": "2026-06-11",
+      "title": "Musings of a Solopreneur building ambitious and complex SaaS",
+      "score": 6
+    },
+    {
+      "url": "https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
+      "pushed_at": "2026-06-11",
+      "title": "Anthropic hands the public Mythos-class AI",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+      "pushed_at": "2026-06-11",
+      "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
+      "score": 9
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+      "pushed_at": "2026-06-11",
+      "title": "datasette-agent 0.2a0",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+      "pushed_at": "2026-06-11",
+      "title": "DiffusionGemma",
+      "score": 9
+    },
+    {
+      "url": "https://www.topolog.co.uk",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: Topolog – Plans as typed DAG programs, deadlines computed, not guessed",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/scottpurdy/llmbuffer",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: Llmbuffer – Python library for cache-optimized LLM conversation history",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/mattmireles/magenta-realtime-2-iphone",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: Magenta Real-Time Music Generation Locally on iPhone, Without the GPU",
+      "score": 6
+    },
+    {
+      "url": "https://meadow-notes.com",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: Meadow Notes – extract and publish microsites from your Markdown graphs",
+      "score": 6
+    },
+    {
+      "url": "https://locksbet.com",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: LocksBet – a price comparison tool for prediction markets",
+      "score": 5
+    },
+    {
+      "url": "https://new.roman-names.com/",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: I am building a map of people who lived in the Roman Empire",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u26s8n/diffusiongemma_4x_faster_text_generation/",
+      "pushed_at": "2026-06-11",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u277fg/flashmemorydeepseekv4_lightning_index_ultralong/",
+      "pushed_at": "2026-06-11",
+      "title": "FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1za0m/cohere_released_north_mini_code_its_first/",
+      "pushed_at": "2026-06-11",
+      "title": "Cohere released North Mini Code: It's first Open-Source Agentic Coding Model",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u26wkb/lemonade_v107_release_and_project_organization/",
+      "pushed_at": "2026-06-11",
+      "title": "Lemonade v10.7 release and project organization update",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u25dkn/sensenova_u1_dropped_an_infographicspecific/",
+      "pushed_at": "2026-06-11",
+      "title": "SenseNova U1 dropped an infographic-specific finetune",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1yxcr/all_agents_have_awful_security_mine_isnt/",
+      "pushed_at": "2026-06-11",
+      "title": "All agents have awful security. Mine isn't vibecoded. You might have seen my post about OpenLumara... i challenge you all to hack my public instance of it!",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2f8uz/tried_to_benchmark_googles_new_ondevice_dictation/",
+      "pushed_at": "2026-06-11",
+      "title": "Tried to benchmark Google’s new on-device dictation models (Eloquent) and basically couldn’t",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1ykqb/how_long_do_you_think_it_will_take_for_the_stock/",
+      "pushed_at": "2026-06-11",
+      "title": "How long do you think it will take for the stock market to notice that Apple and Microsoft announced at the same time that they're all-in for local AI?",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2ihwl/dumb_question_how_would_performance_be_if_you/",
+      "pushed_at": "2026-06-11",
+      "title": "Dumb question: How would performance be if you took a used server with like 80 lanes pcie 5 and stuck NVMe on them for model run?",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2ch6u/hot_take_rigid_code_is_better_than_flexible_code/",
+      "pushed_at": "2026-06-11",
+      "title": "Hot Take \"Rigid code is better than Flexible code if you're on a budget\"",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "pushed_at": "2026-06-11",
+      "title": "maziyarpanahi/openmed",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/francescopace/espectre",
+      "pushed_at": "2026-06-11",
+      "title": "francescopace/espectre",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "pushed_at": "2026-06-11",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "pushed_at": "2026-06-11",
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "pushed_at": "2026-06-11",
+      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "score": 5
+    },
+    {
+      "url": "https://trends.vc/clipping-businesses-pay-per-view-distribution-clip-armies-view-verification/",
+      "pushed_at": "2026-06-11",
+      "title": "Clipping Businesses: Pay-Per-View Distribution, Clip Armies, View Verification",
+      "score": 9
+    },
+    {
+      "url": "https://36kr.com/p/3847079661193733?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3846956646124036?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3846793046133257?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3844720012151040?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3848013541659905?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "谷歌推出DiffusionGemma开源模型",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3848001589957895?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "奥特曼称OpenAI预计一年内上市",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1668542?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-11",
+      "title": "实测Claude史上最强模型Fable 5，普通人慎用",
+      "score": 9
     }
   ]
 }
