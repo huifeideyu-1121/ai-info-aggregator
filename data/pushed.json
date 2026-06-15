@@ -10025,6 +10025,144 @@
       "pushed_at": "2026-06-14",
       "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
       "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u5k8qc/how_i_created_license_plate_generator_and/",
+      "pushed_at": "2026-06-15",
+      "title": "How I created License Plate generator and dominated Google Search",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u5js9u/this_motion_graphics_demo_is_entirely_made_with/",
+      "pushed_at": "2026-06-15",
+      "title": "This motion graphics demo is entirely made with Node.js.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u5whbf/ive_been_solobuilding_an_antislack_for_2_years/",
+      "pushed_at": "2026-06-15",
+      "title": "i've been solo-building an anti-Slack for 2 years. just shipped 9 features in 3 weeks - AI calls, workflows, import from 8 tools",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u5zza3/i_built_a_tool_that_reads_thousands_of_real_owner/",
+      "pushed_at": "2026-06-15",
+      "title": "I built a tool that reads thousands of real owner reviews and gives one honest verdict (no sponsors)",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u5wv2c/made_a_free_opensource_mac_menubar_app_that/",
+      "pushed_at": "2026-06-15",
+      "title": "Made a free, open-source Mac menu-bar app that bundles a bunch of small utilities. What should I add next?",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u5pco3/learned_the_hard_way_building_for_a_problem_you/",
+      "pushed_at": "2026-06-15",
+      "title": "Learned the hard way: Building for a problem you don't feel yourself is a recipe for failure (my pivot story with Xoru)",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u5y4ku/i_built_a_free_opensource_flashcard_app_for/",
+      "pushed_at": "2026-06-15",
+      "title": "I built a free, open-source flashcard app for language learning that imports your Anki decks",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u5x8s7/tired_of_overthinking_how_to_reply_to_a_tough/",
+      "pushed_at": "2026-06-15",
+      "title": "Tired of overthinking how to reply to a tough message? I built something for that",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+      "pushed_at": "2026-06-15",
+      "title": "Why AI hasn’t replaced software engineers, and won’t",
+      "score": 7
+    },
+    {
+      "url": "https://morningstack.app/demo/",
+      "pushed_at": "2026-06-15",
+      "title": "Show HN: Morning Stack finds real job openings, tweaks resume and cover letter",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5lmge/introducing_the_heretic_grimoire_the/",
+      "pushed_at": "2026-06-15",
+      "title": "Introducing the Heretic Grimoire: The takedown-resilient, local-first backup system that keeps uncensored models available forever",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5jtr8/xiaomi_is_now_serving_mimo_v25_at_10003000tps/",
+      "pushed_at": "2026-06-15",
+      "title": "Xiaomi is now serving MiMo V2.5 at 1000-3000tps using DFlash & Persistent kernel. DFLash model is out, open-source release promised coming soon",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5z4j0/eagle_support_merged_into_llamacpp/",
+      "pushed_at": "2026-06-15",
+      "title": "EAGLE support merged into llama.cpp",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5mfaq/you_can_run_deepseek_4_flash_on_mac_m3_max_96gb/",
+      "pushed_at": "2026-06-15",
+      "title": "You can run Deepseek 4 flash on mac (M3 Max, 96gb)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5vqpl/nemotron_king_of_the_deep_comparison_of_4_models/",
+      "pushed_at": "2026-06-15",
+      "title": "Nemotron - King of the Deep? Comparison of 4 models <=120B",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5g9pr/dual_dgx_sparks_40tks_single_1m_350_tks_agg/",
+      "pushed_at": "2026-06-15",
+      "title": "Dual DGX Sparks- 40tk/s single 1M ; 350 tk/s agg. - Deepseek V4 Flash (vs RTX Pro 6000 vs Mac M2 Ultra 192)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5ul4k/gemma_4_models_benchmarked_on_with_triple_gpu/",
+      "pushed_at": "2026-06-15",
+      "title": "Gemma 4 models benchmarked on with Triple GPU",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u602zu/why_doesnt_4bit_gptq_wreck_a_models_perplexity_i/",
+      "pushed_at": "2026-06-15",
+      "title": "Why doesn’t 4-bit GPTQ wreck a model’s perplexity? I derived the compensation math from scratch",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5lfvv/built_a_local_ai_assistant_because_i_always_knew/",
+      "pushed_at": "2026-06-15",
+      "title": "Built a local AI assistant because I always knew this day would come, yesterday just made it feel very real",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5r2ae/strange_numbers_of_pp_and_tg_rx7900xtx_on_rocm/",
+      "pushed_at": "2026-06-15",
+      "title": "Strange numbers of pp and tg rx7900xtx on ROCm and Vulcan with Qwen3.6-27b nonMTP and MTP",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u59ibr/strix_halo_desktop_trying_to_compete_against_dgx/",
+      "pushed_at": "2026-06-15",
+      "title": "Strix Halo desktop trying to compete against DGX Spark",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u56yr7/codebase_getting_larger_qwen3627b_starting_to/",
+      "pushed_at": "2026-06-15",
+      "title": "Codebase getting larger - Qwen3.6-27B starting to compound issues - how to work smartly with this model?",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/andrewyng/aisuite",
+      "pushed_at": "2026-06-15",
+      "title": "andrewyng/aisuite",
+      "score": 9
     }
   ]
 }
