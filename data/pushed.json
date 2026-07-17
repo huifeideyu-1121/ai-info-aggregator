@@ -14291,6 +14291,180 @@
       "pushed_at": "2026-07-15",
       "title": "苹果想要「掐死」OpenAI 手机",
       "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uyi340/i_built_a_free_ios_app_to_help_people_quit/",
+      "pushed_at": "2026-07-16",
+      "title": "I built a free iOS app to help people quit addictions — 6 months of lessons from building in a sensitive category",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1uyeew5/built_a_platform_for_designers_and_creative/",
+      "pushed_at": "2026-07-16",
+      "title": "Built a platform for designers and creative agencies",
+      "score": 5
+    },
+    {
+      "url": "https://www.bensbites.com/p/ive-got-an-inkling",
+      "pushed_at": "2026-07-16",
+      "title": "I've got an Inkling",
+      "score": 7
+    },
+    {
+      "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
+      "pushed_at": "2026-07-16",
+      "title": "🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+      "pushed_at": "2026-07-16",
+      "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+      "pushed_at": "2026-07-16",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+      "pushed_at": "2026-07-16",
+      "title": "Quoting Thibault Sottiaux",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+      "pushed_at": "2026-07-16",
+      "title": "Mermaid to ASCII art (mermaid-ascii)",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
+      "pushed_at": "2026-07-16",
+      "title": "Mermaid to Unicode box art (grok-mermaid)",
+      "score": 6
+    },
+    {
+      "url": "https://iamit.in/darby/",
+      "pushed_at": "2026-07-16",
+      "title": "Show HN: Darby, a Hugo docs theme with in-browser AI Q&A (no back end, no keys)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uya5xn/kimi_k3_blogpost/",
+      "pushed_at": "2026-07-16",
+      "title": "Kimi K3 Blogpost",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyay0w/dflash_makes_qwen36_27b_22x_faster_with_no/",
+      "pushed_at": "2026-07-16",
+      "title": "DFlash makes Qwen3.6 27B 2.2x faster with no quality loss",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyaiw2/kimi_k3_release_video_made_with_kimi_k3/",
+      "pushed_at": "2026-07-16",
+      "title": "Kimi K3 Release Video [Made with Kimi K3]",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy33fw/deepseek_v4_flash_98gb_on_1x_4060ti_cpu_got_300/",
+      "pushed_at": "2026-07-16",
+      "title": "DeepSeek V4 Flash (98GB) on 1x 4060ti + CPU got 300% faster this week [ 2->7t/s]",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uybm8y/tried_predicting_which_moe_experts_get_used_next/",
+      "pushed_at": "2026-07-16",
+      "title": "tried predicting which MoE experts get used next token to speed up cpu/gpu offload, got some real numbers, is this actually implementable or am i wasting my time (30tg/s -> 150-200tg/s)",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyg3za/i_tested_all_llamacpps_speculative_decoding/",
+      "pushed_at": "2026-07-16",
+      "title": "I tested all llama.cpp's speculative decoding methods on Qwen 3.6 27B: MTP ~2.7x, DFlash ~3.7x, n-gram stack ~6x on real coding. Local AI win. My findings on RTX 6000 PRO.",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "pushed_at": "2026-07-16",
+      "title": "openinterpreter/openinterpreter",
+      "score": 8
+    },
+    {
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "pushed_at": "2026-07-16",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "score": 7
+    },
+    {
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "pushed_at": "2026-07-16",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "score": 7
+    },
+    {
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "pushed_at": "2026-07-16",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "pushed_at": "2026-07-16",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3898151587890824?f=rss",
+      "pushed_at": "2026-07-16",
+      "title": "中专生拍出破亿爆款，影视圈边缘人靠AI改命丨深氪lite",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3896639942592134?f=rss",
+      "pushed_at": "2026-07-16",
+      "title": "大厂医疗AI战，开始“卷”减重",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3896586337978244?f=rss",
+      "pushed_at": "2026-07-16",
+      "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3895721094842249?f=rss",
+      "pushed_at": "2026-07-16",
+      "title": "斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3897553391978371?f=rss",
+      "pushed_at": "2026-07-16",
+      "title": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3898921880569737?f=rss",
+      "pushed_at": "2026-07-16",
+      "title": "上市脚步临近，Anthropic据悉计划几周内召开IPO投资者会议",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3898893880362882?f=rss",
+      "pushed_at": "2026-07-16",
+      "title": "SpaceXAI：Grok 4.5定价每百万输入Token收费2美元，每百万输出Token收费6美元",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1672096?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-16",
+      "title": "实测灵犀专业版，AI 成为下一代办公入口",
+      "score": 5
     }
   ]
 }
