@@ -14777,6 +14777,204 @@
       "pushed_at": "2026-07-19",
       "title": "AI优化设计并结合人类视觉感知，“隐身于眼前”的无人机研制成功",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v1fyqf/the_iran_situation_kicked_off_so_my_oneperson/",
+      "pushed_at": "2026-07-20",
+      "title": "The Iran situation kicked off, so my one-person OSINT desk had its biggest night. It beat the official CENTCOM announcement by 3 hours.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v1omms/i_built_a_mac_app_that_turns_a_screen_recording/",
+      "pushed_at": "2026-07-20",
+      "title": "I built a Mac app that turns a screen recording into a written guide. The hard part wasn't the recording.",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v1r87h/i_built_uncensored_al_no_login_no_signup_100_free/",
+      "pushed_at": "2026-07-20",
+      "title": "I built Uncensored Al: No Login. No Signup. 100% Free.",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v1vfl6/my_little_transcription_app_has_helped_me_a_ton/",
+      "pushed_at": "2026-07-20",
+      "title": "My little transcription app has helped me a ton, so I'm sharing it free. It's unfinished and I'd love help testing it",
+      "score": 7
+    },
+    {
+      "url": "https://www.therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
+      "pushed_at": "2026-07-20",
+      "title": "Anthropic's Fable survives the subscription axe",
+      "score": 5
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
+      "pushed_at": "2026-07-20",
+      "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
+      "score": 6
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+      "pushed_at": "2026-07-20",
+      "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+      "pushed_at": "2026-07-20",
+      "title": "Quoting Sam Altman",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/goawaygeek/ground-control",
+      "pushed_at": "2026-07-20",
+      "title": "Show HN: A chess game you play with Claude as your wing-bot in the CLI",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/rajfirke/provena",
+      "pushed_at": "2026-07-20",
+      "title": "Show HN: Provena: Open-Source Library for AI Agent Context Governance",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/KanishkNoir/cognikernel",
+      "pushed_at": "2026-07-20",
+      "title": "Show HN: Cognikernel- Local Memory for AI Coding Assistants",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v20g29/kimik3_isnt_quite_better_than_fable_yet_but_its/",
+      "pushed_at": "2026-07-20",
+      "title": "Kimi-K3 isn’t quite better than Fable yet, but it’s definitely getting closer.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1ya97/i_ran_ternarybonsai27b_2bit_and_bonsai27b_1bit_on/",
+      "pushed_at": "2026-07-20",
+      "title": "I ran Ternary-Bonsai-27B (2-bit) and Bonsai-27B (1-bit) on Terminal-Bench 2.0, in 8GB VRAM",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v21j14/google_has_disappeared_completely_from_the_top_15/",
+      "pushed_at": "2026-07-20",
+      "title": "Google has disappeared completely from the top 15",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1z4f0/i_gave_kimi_k3_a_shot_at_auditing_my_postquantum/",
+      "pushed_at": "2026-07-20",
+      "title": "I gave Kimi K3 a shot at auditing my post-quantum crypto project, it found 5 real bugs Fable/Opus 4.8 and GPT-5.6 Sol had all missed",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1pume/running_a_13m_asr_conformer_on_a_microcontroller/",
+      "pushed_at": "2026-07-20",
+      "title": "Running a 13M ASR conformer on a microcontroller",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1no8e/543_toks_singlerequest_qwen3635ba3b_on_one_rtx/",
+      "pushed_at": "2026-07-20",
+      "title": "543 tok/s single-request Qwen3.6-35B-A3B on one RTX 5090 over a 65K-token decode",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1xh6h/according_to_agent_arena_kimi_k3_ranks_at_same/",
+      "pushed_at": "2026-07-20",
+      "title": "According to Agent Arena Kimi K3 ranks at same level as opus thinking",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1q62r/introducing_dwarf55mbase/",
+      "pushed_at": "2026-07-20",
+      "title": "Introducing DWARF-55M-Base",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1mlcw/trelliscpp_now_has_a_studio/",
+      "pushed_at": "2026-07-20",
+      "title": "Trellis.cpp now has a studio!",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1evsq/paper_xhc_expanded_hyperconnections_scale/",
+      "pushed_at": "2026-07-20",
+      "title": "[Paper] xHC: Expanded Hyper-Connections - Scale Residual Streams Wider · Push Model Intelligence Further",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1np1f/testing_new_models_with_an_animated_svg_challenge/",
+      "pushed_at": "2026-07-20",
+      "title": "Testing new models with an animated SVG challenge: flamingo moonwalking on a Sardinian beach",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1gcok/minicpmrobot_model_series_minicpmrobotmanip/",
+      "pushed_at": "2026-07-20",
+      "title": "MiniCPM-Robot model series - MiniCPM-RobotManip & MiniCPM-RobotTrack",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "pushed_at": "2026-07-20",
+      "title": "AstrBotDevs/AstrBot",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/Canner/WrenAI",
+      "pushed_at": "2026-07-20",
+      "title": "Canner/WrenAI",
+      "score": 7
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "pushed_at": "2026-07-20",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "score": 5
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "pushed_at": "2026-07-20",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3903687507904387?f=rss",
+      "pushed_at": "2026-07-20",
+      "title": "WAIC上，AI开始接管人类的欲望",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3903756643255940?f=rss",
+      "pushed_at": "2026-07-20",
+      "title": "硬氪首发 | 清华系量子计算企业获君联资本领投数亿融资，打破原子捕获世界纪录",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3903396279125888?f=rss",
+      "pushed_at": "2026-07-20",
+      "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3903365398185857?f=rss",
+      "pushed_at": "2026-07-20",
+      "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1672593?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-20",
+      "title": "苹果国行 AI 刷屏之外，三星也把端侧大脑交给国产 AI",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1672515?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-20",
+      "title": "实测千问 Qwen3.8 预览版，国产模型开始围攻 Fable 5",
+      "score": 6
     }
   ]
 }
