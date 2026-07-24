@@ -14867,6 +14867,246 @@
       "pushed_at": "2026-07-23",
       "title": "刚刚，Gemini 3.6 Flash 正式发布，但网友笑得更大声了",
       "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v4hn8t/every_free_poker_app_felt_like_a_scam_so_i_built/",
+      "pushed_at": "2026-07-23",
+      "title": "Every free poker app felt like a scam, so I built a clean, open-source one",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v4tk4q/5_days_ago_i_launched_my_app_after_a_year_of/",
+      "pushed_at": "2026-07-23",
+      "title": "5 days ago I launched my app after a year of building it alone. 6 downloads so far and I'm weirdly proud of every one",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v47w8l/i_made_my_first_internet_money_from_my_project_in/",
+      "pushed_at": "2026-07-23",
+      "title": "I made my first internet money from my project in 7 days.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v4urua/massive_overhaul_of_a_dead_10yo_saas_written_by_a/",
+      "pushed_at": "2026-07-23",
+      "title": "Massive overhaul of a dead, 10yo SaaS (written by a human)",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v4knyb/ive_spent_3_weeks_promoting_my_free_and/",
+      "pushed_at": "2026-07-23",
+      "title": "I’ve spent 3 weeks promoting my free and open-source app with little success. What am I missing?",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v4n4ey/my_github_releases_only_show_one_cumulative/",
+      "pushed_at": "2026-07-23",
+      "title": "My GitHub releases only show one cumulative number, so I built a tool that tracks download growth over time (no backend)",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v4mne6/i_built_an_engine_that_turns_any_website_into_a/",
+      "pushed_at": "2026-07-23",
+      "title": "I built an engine that turns any website into a brand new design system your coding agent actually obeys (my first SaaS)",
+      "score": 5
+    },
+    {
+      "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+      "pushed_at": "2026-07-23",
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4iw0n/apple_m5_isnt_making_full_use_of_its_matmul_cores/",
+      "pushed_at": "2026-07-23",
+      "title": "Apple M5 isn't making full use of its matmul cores yet",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4mltt/benchmarks_antling30flash_a_hybridreasoning_moe/",
+      "pushed_at": "2026-07-23",
+      "title": "Benchmarks: AntLing-3.0-flash a hybrid-reasoning MoE model built for production-scale agents.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4qq4x/i_compared_local_models_and_different_quants/",
+      "pushed_at": "2026-07-23",
+      "title": "I compared local models and different quants / config on a subset of swe-verified bench",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v47kp4/model_distillation_accusations_are_getting_way/",
+      "pushed_at": "2026-07-23",
+      "title": "Model \"distillation\" accusations are getting way overblown at this point",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4iqjx/psa_on_laguna_s21_use_the_updated_chat_template/",
+      "pushed_at": "2026-07-23",
+      "title": "PSA on Laguna S-2.1 - Use the updated chat template and GGUF",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4n8wj/deepseek_v4_flash_105_ts_on_two_nvidia_4090d_48g/",
+      "pushed_at": "2026-07-23",
+      "title": "Deepseek V4 Flash ~105 t/s on two Nvidia 4090d 48G (ada) in vLLM",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4hrtz/i_trained_a_05m_model_on_1b_tokens_of_finewebedu/",
+      "pushed_at": "2026-07-23",
+      "title": "I trained a 0.5M model on 1B tokens of Fineweb-edu dataset.",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v45hy5/a_caveman_qwen36_27b/",
+      "pushed_at": "2026-07-23",
+      "title": "A caveman qwen3.6 27B",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4b9a8/kwaipilotkatcoderv25dev_hugging_face/",
+      "pushed_at": "2026-07-23",
+      "title": "Kwaipilot/KAT-Coder-V2.5-Dev · Hugging Face",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4p2f9/lagunas21_thinking_forever_loops_seem_to_be_a/",
+      "pushed_at": "2026-07-23",
+      "title": "Laguna-S-2.1 \"thinking forever\" loops seem to be a quantization artifact",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4sm2m/tested_the_updated_gemma_4_locally_on_coding_with/",
+      "pushed_at": "2026-07-23",
+      "title": "Tested (the updated) Gemma 4 locally on coding with OpenCode",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "pushed_at": "2026-07-23",
+      "title": "ComposioHQ/awesome-claude-skills",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "pushed_at": "2026-07-23",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "pushed_at": "2026-07-23",
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "pushed_at": "2026-07-23",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "pushed_at": "2026-07-23",
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3908051015488640?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3908027308823684?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3907953777120385?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "专访郭列：做出脸萌、FaceU、剪映等爆款后，他第一次阐释如何在AI时代做产品",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3907934819521670?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3907676111983745?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3907639172027522?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "对话FutureTech张梦钊：从“一个人+一群Agent”到超级个体，AI正在重塑创业范式",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3906474040153220?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "硬氪首发 | 大疆系AI自然探索公司获五源、顺为投资，首创水下光学系统",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3907536767833473?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "36氪首发 | 前华尔街投资人下场造“手”，以“自研视触觉+软硬闭环”破解行业数据难题",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3908860730856577?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "英伟达与Amkor达成15亿美元芯片封装与测试合作协议",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3908447533061253?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "美五大科技巨头AI隐性债务达1.65万亿美元",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3908389830628480?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "Alphabet未来支出承诺飙升至8110亿美元，加速锁定AI资源",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3908387252835719?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "Databricks与微软扩大合作，将共同扩展企业AI规模",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3908373362529673?f=rss",
+      "pushed_at": "2026-07-23",
+      "title": "美政府宣布向人工智能科学研究领域拨款50亿美元",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1672867?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-23",
+      "title": "苹果 Mac 将迎来全线换代，一种给人用，一种给 AI 用",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1672800?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-23",
+      "title": "Kimi 叫停新订阅后，如何用上 K3｜实测避坑",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1672824?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-23",
+      "title": "三步爆改旧鼠标，打造最好用的 AI 外挂｜AI 器物志",
+      "score": 8
     }
   ]
 }
