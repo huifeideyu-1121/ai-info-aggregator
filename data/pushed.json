@@ -1,306 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.lennysnewsletter.com/p/gpt-55-just-did-what-no-other-model",
-      "pushed_at": "2026-04-24",
-      "title": "GPT 5.5 just did what no other model could",
-      "score": 8
-    },
-    {
-      "url": "https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything",
-      "pushed_at": "2026-04-24",
-      "title": "Serving the For You feed",
-      "score": 8
-    },
-    {
-      "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
-      "pushed_at": "2026-04-24",
-      "title": "Extract PDF text in your browser with LiteParse for the web",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1stjwg5/been_using_pi_coding_agent_with_local_qwen36_35b/",
-      "pushed_at": "2026-04-24",
-      "title": "Been using PI Coding Agent with local Qwen3.6 35b for a while now and its actually insane",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sty5i0/expert_upcycling_growing_moe_capacity_midtraining/",
-      "pushed_at": "2026-04-24",
-      "title": "Expert Upcycling: Growing MoE capacity mid-training without increasing inference cost (7B→13B, ~32% GPU hours saved)",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/huggingface/ml-intern",
-      "pushed_at": "2026-04-24",
-      "title": "huggingface/ml-intern",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "pushed_at": "2026-04-24",
-      "title": "Anil-matcha/Open-Generative-AI",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "pushed_at": "2026-04-24",
-      "title": "Alishahryar1/free-claude-code",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/cline/cline",
-      "pushed_at": "2026-04-24",
-      "title": "cline/cline",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/mksglu/context-mode",
-      "pushed_at": "2026-04-24",
-      "title": "mksglu/context-mode",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "pushed_at": "2026-04-24",
-      "title": "coreyhaines31/marketingskills",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "pushed_at": "2026-04-24",
-      "title": "VoltAgent/awesome-agent-skills",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1stf912/i_built_boba_a_free_ai_calorie_tracker_with_no/",
-      "pushed_at": "2026-04-24",
-      "title": "I built Boba, a free AI calorie tracker with no subscription, using a local AI I fine-tuned",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1sttr5i/your_might_be_sitting_on_100k/",
-      "pushed_at": "2026-04-24",
-      "title": "your might be sitting on 100k",
-      "score": 7
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
-      "pushed_at": "2026-04-24",
-      "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
-      "score": 7
-    },
-    {
-      "url": "https://simonwillison.net/2026/Apr/24/honker/#atom-everything",
-      "pushed_at": "2026-04-24",
-      "title": "russellromney/honker",
-      "score": 7
-    },
-    {
-      "url": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything",
-      "pushed_at": "2026-04-24",
-      "title": "An update on recent Claude Code quality reports",
-      "score": 7
-    },
-    {
-      "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
-      "pushed_at": "2026-04-24",
-      "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-      "score": 7
-    },
-    {
-      "url": "https://www.mirrorneuron.io/",
-      "pushed_at": "2026-04-24",
-      "title": "Show HN: MirrorNeuron – an open-source runtime for reliable on-device AI agents",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/AdirAmsalem/easl",
-      "pushed_at": "2026-04-24",
-      "title": "Show HN: easl – Instant hosting for AI agents",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1stcer1/qwen3627b_llamacpp_speculative_decoding/",
-      "pushed_at": "2026-04-24",
-      "title": "Qwen-3.6-27B, llamacpp, speculative decoding - appreciation post",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sto25c/qwen3tts_qwen3635b_for_a_voice_agent_pipeline_3/",
-      "pushed_at": "2026-04-24",
-      "title": "Qwen3-TTS + qwen3.6-35B for a voice agent pipeline — 3 weeks of notes",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/chiphuyen/aie-book",
-      "pushed_at": "2026-04-24",
-      "title": "chiphuyen/aie-book",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3778831119897600?f=rss",
-      "pushed_at": "2026-04-24",
-      "title": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1663500?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-04-24",
-      "title": "刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平",
-      "score": 7
-    },
-    {
-      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
-      "pushed_at": "2026-04-25",
-      "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suur3s/qwen36_27bs_surprising_kv_cache_quantization_test/",
-      "pushed_at": "2026-04-25",
-      "title": "Qwen3.6 27B's surprising KV cache quantization test results (Turbo3/4 vs F16 vs Q8 vs Q4)",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/dani-garcia/vaultwarden",
-      "pushed_at": "2026-04-25",
-      "title": "dani-garcia/vaultwarden",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3781532841581576?f=rss",
-      "pushed_at": "2026-04-25",
-      "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3780352721851397?f=rss",
-      "pushed_at": "2026-04-25",
-      "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1suz5zq/i_built_an_offline_survival_ai_update/",
-      "pushed_at": "2026-04-25",
-      "title": "I built an offline survival AI [Update]",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1suyuoo/i_built_a_cli_to_measure_the_health_of_my/",
-      "pushed_at": "2026-04-25",
-      "title": "I built a CLI to measure the health of my codebase (JS/TS)",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1suh8d4/clients_form_opinions_about_your_ai_in_the_first/",
-      "pushed_at": "2026-04-25",
-      "title": "Clients form opinions about your AI in the first few seconds of waiting for a reply",
-      "score": 7
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp",
-      "pushed_at": "2026-04-25",
-      "title": "[AINews] GPT 5.5 and OpenAI Codex Superapp",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/vinhnx/VTCode",
-      "pushed_at": "2026-04-25",
-      "title": "Show HN: VT Code – Rust TUI coding agent with multi-provider support",
-      "score": 7
-    },
-    {
-      "url": "https://www.npmjs.com/package/pando-proxy",
-      "pushed_at": "2026-04-25",
-      "title": "Show HN: Codex context bloat? 87% avg reduction on SWE-bench Verified traces",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/NoahCristino/llmcat",
-      "pushed_at": "2026-04-25",
-      "title": "Show HN: I built a CLI that turns your codebase into clean LLM input",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/abi/lilo",
-      "pushed_at": "2026-04-25",
-      "title": "Show HN: Lilo – a self-hosted, open-source intelligent personal OS",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/adam-s/HNswered",
-      "pushed_at": "2026-04-25",
-      "title": "Show HN: HNswered – watches for replies to your Hacker News posts and comments",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suef7t/anthropic_admits_to_have_made_hosted_models_more/",
-      "pushed_at": "2026-04-25",
-      "title": "Anthropic admits to have made hosted models more stupid, proving the importance of open weight, local models",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suh3sz/gemma_4_and_qwen_36_with_q8_0_and_q4_0_kv_cache/",
-      "pushed_at": "2026-04-25",
-      "title": "Gemma 4 and Qwen 3.6 with q8_0 and q4_0 KV cache: KL divergence results",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "pushed_at": "2026-04-25",
-      "title": "codecrafters-io/build-your-own-x",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/microsoft/typescript-go",
-      "pushed_at": "2026-04-25",
-      "title": "microsoft/typescript-go",
-      "score": 7
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "pushed_at": "2026-04-25",
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3781548853533959?f=rss",
-      "pushed_at": "2026-04-25",
-      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3777694346548482?f=rss",
-      "pushed_at": "2026-04-25",
-      "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3781546314357767?f=rss",
-      "pushed_at": "2026-04-25",
-      "title": "谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1663666?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-04-25",
-      "title": "刚刚，GPT-5.5 发布！Claude Code 连夜治好降智，「奥特曼瘫倒」喜提续集",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/PostHog/posthog",
-      "pushed_at": "2026-04-25",
-      "title": "PostHog/posthog",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "pushed_at": "2026-04-25",
-      "title": "deepseek-ai/DeepEP",
-      "score": 6
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1sveoea/real_numbers_from_my_saas_this_month_heres_what/",
       "pushed_at": "2026-04-26",
       "title": "Real numbers from my SaaS this month. Here's what they mean and how I got here",
@@ -15107,6 +14807,138 @@
       "pushed_at": "2026-07-23",
       "title": "三步爆改旧鼠标，打造最好用的 AI 外挂｜AI 器物志",
       "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v4x9gk/i_built_an_open_file_format_for_user_interfaces/",
+      "pushed_at": "2026-07-25",
+      "title": "I built an open file format for user interfaces, like SVG or PDF.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v5qfy1/i_made_a_local_ai_assistant_for_my_homelab_that/",
+      "pushed_at": "2026-07-25",
+      "title": "I made a local AI assistant for my homelab that runs on a Pi 4",
+      "score": 7
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+      "pushed_at": "2026-07-25",
+      "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
+      "score": 6
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
+      "pushed_at": "2026-07-25",
+      "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+      "pushed_at": "2026-07-25",
+      "title": "Introducing Claude Opus 5",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/samchon/lint-plugin-evidence",
+      "pushed_at": "2026-07-25",
+      "title": "Show HN: Evidence Graph – type checking for the specs your AI agent implements",
+      "score": 5
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=49042653",
+      "pushed_at": "2026-07-25",
+      "title": "Show HN: How well do you use Claude Code?",
+      "score": 6
+    },
+    {
+      "url": "https://www.openparser.dev/cheapest-ocr",
+      "pushed_at": "2026-07-25",
+      "title": "Show HN: Open-weight OCR got so cheap I had to share it",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/baidu-baige/LoongForge/tree/master/loongforge/embodied",
+      "pushed_at": "2026-07-25",
+      "title": "Show HN：LoongForge - High-performance training system for embodied models",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/block/buzz",
+      "pushed_at": "2026-07-25",
+      "title": "block/buzz",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/citrolabs/ego-lite",
+      "pushed_at": "2026-07-25",
+      "title": "citrolabs/ego-lite",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "pushed_at": "2026-07-25",
+      "title": "earthtojake/text-to-cad",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/alibaba/open-code-review",
+      "pushed_at": "2026-07-25",
+      "title": "alibaba/open-code-review",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/likec4/likec4",
+      "pushed_at": "2026-07-25",
+      "title": "likec4/likec4",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/Automattic/harper",
+      "pushed_at": "2026-07-25",
+      "title": "Automattic/harper",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "pushed_at": "2026-07-25",
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3909160840451465?f=rss",
+      "pushed_at": "2026-07-25",
+      "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3909499179767169?f=rss",
+      "pushed_at": "2026-07-25",
+      "title": "你的下一位面试官，可能不是人",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3909084356433025?f=rss",
+      "pushed_at": "2026-07-25",
+      "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1673060?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-25",
+      "title": "Codex 键盘第一波上手来了，有人反手让 Codex 破解了它",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1673039?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-25",
+      "title": "对话腾讯副总裁林松涛：意图正在代替入口，Agent 需要一颗「小脑」",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1672964?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-25",
+      "title": "全世界都在讲 AI 话｜AI 器物志",
+      "score": 5
     }
   ]
 }
