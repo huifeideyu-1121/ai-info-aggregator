@@ -1,282 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1swoa9r/vramcpp_running_llamafitparams_directly_in_your/",
-      "pushed_at": "2026-04-27",
-      "title": "VRAM.cpp: Running llama-fit-params directly in your browser",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "pushed_at": "2026-04-27",
-      "title": "abhigyanpatwari/GitNexus",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/trycua/cua",
-      "pushed_at": "2026-04-27",
-      "title": "trycua/cua",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/gastownhall/beads",
-      "pushed_at": "2026-04-27",
-      "title": "gastownhall/beads",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/openclaw/openclaw",
-      "pushed_at": "2026-04-27",
-      "title": "openclaw/openclaw",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3783828639571203?f=rss",
-      "pushed_at": "2026-04-27",
-      "title": "前苹果工程师做了款体感游戏机，销量拳打Xbox，营收数亿美元",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1sw8xce/top_marketing_skills_i_use_to_get_my_first_100/",
-      "pushed_at": "2026-04-27",
-      "title": "Top Marketing Skills I Use to Get My First 100 Paying Customers, That Cover SEO, Copywriting, Pricing Management & Everything In Between.",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/dsecurity49/Intent-Bus",
-      "pushed_at": "2026-04-27",
-      "title": "Show HN: Intent Bus – SQLite job bus for coordinating scripts across devices",
-      "score": 7
-    },
-    {
-      "url": "https://polynya.dev/",
-      "pushed_at": "2026-04-27",
-      "title": "Show HN: Polynya – Turn your Postgres into workspaces for AI",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sw21op/qwen3627bint4_clocking_100_tps_with_256k_context/",
-      "pushed_at": "2026-04-27",
-      "title": "Qwen3.6-27B-INT4 clocking 100 tps with 256k context length on 1x RTX 5090 via vllm 0.19",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1swf37n/opencodepowerpack_claude_code_skills_ported_to/",
-      "pushed_at": "2026-04-27",
-      "title": "Opencode-power-pack – Claude Code skills ported to OpenCode",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3784365164322055?f=rss",
-      "pushed_at": "2026-04-27",
-      "title": "「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1663916?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-04-27",
-      "title": "刚刚，OpenAI 手机曝光！2028 年量产",
-      "score": 7
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
-      "pushed_at": "2026-04-28",
-      "title": "From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1sx4rvw/i_analyzed_our_cold_email_data_from_26000_emails/",
-      "pushed_at": "2026-04-28",
-      "title": "I analyzed our cold email data from 26,000 emails sent in Q1 2026. Here are the benchmarks that actually matter (ignore open rates)",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1sxbmzl/i_built_a_free_ai_tool_that_audits_any_websites/",
-      "pushed_at": "2026-04-28",
-      "title": "i built a free ai tool that audits any website's marketing and generates a pdf report",
-      "score": 8
-    },
-    {
-      "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
-      "pushed_at": "2026-04-28",
-      "title": "microsoft/VibeVoice",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxf2u0/microsoft_presents_trellis2_an_opensource/",
-      "pushed_at": "2026-04-28",
-      "title": "Microsoft Presents \"TRELLIS.2\": An Open-Source, 4b-Parameter, Image-To-3D Model Producing Up To 1536³ PBR Textured Assets, Built On Native 3D VAES With 16× Spatial Compression, Delivering Efficient, Scalable, High-Fidelity Asset Generation.",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sx8uok/luce_dflash_qwen3627b_at_up_to_2x_throughput_on_a/",
-      "pushed_at": "2026-04-28",
-      "title": "Luce DFlash: Qwen3.6-27B at up to 2x throughput on a single RTX 3090",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxn7x2/local_model_on_coding_has_reached_a_certain/",
-      "pushed_at": "2026-04-28",
-      "title": "Local model on coding has reached a certain threshold to be feasible for real work",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxch39/the_4b_class_of_2026_benchmark/",
-      "pushed_at": "2026-04-28",
-      "title": "The 4B class of 2026 (benchmark)",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "pushed_at": "2026-04-28",
-      "title": "deepseek-ai/DeepSeek-V3",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1sx6rna/six_months_ago_my_organic_revenue_was_basically/",
-      "pushed_at": "2026-04-28",
-      "title": "Six months ago my organic revenue was basically zero. Here's what changed.",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1sxmvq0/i_built_an_aipowered_rpg_worldbuilding_platform/",
-      "pushed_at": "2026-04-28",
-      "title": "I built an AI-powered RPG worldbuilding platform as a side project. It's live and people are signing up",
-      "score": 7
-    },
-    {
-      "url": "https://www.therundown.ai/p/deepseek-resurfaces-with-cheap-capable-v4",
-      "pushed_at": "2026-04-28",
-      "title": "DeepSeek resurfaces with cheap, capable V4",
-      "score": 7
-    },
-    {
-      "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
-      "pushed_at": "2026-04-28",
-      "title": "Introducing talkie: a 13B vintage language model from 1930",
-      "score": 7
-    },
-    {
-      "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
-      "pushed_at": "2026-04-28",
-      "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
-      "score": 7
-    },
-    {
-      "url": "https://www.npmjs.com/package/lightport",
-      "pushed_at": "2026-04-28",
-      "title": "Show HN: Lightport – open-source AI gateway",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/49Agents/49Agents",
-      "pushed_at": "2026-04-28",
-      "title": "Show HN: 49Agents – Infinite canvas IDE for AI agents",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1swzjnu/to_16gb_vram_users_plug_in_your_old_gpu/",
-      "pushed_at": "2026-04-28",
-      "title": "To 16GB VRAM users, plug in your old GPU",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1swy9ap/metas_2_billion_manus_acquisition_blocked_by_china/",
-      "pushed_at": "2026-04-28",
-      "title": "Meta’s $2 billion Manus acquisition blocked by China.",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxgq6l/end2end_tutorial_on_finetuning_the_whole_journey/",
-      "pushed_at": "2026-04-28",
-      "title": "End-2-end tutorial on fine-tuning, the whole journey",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sx7w55/gbnf_grammar_tweak_for_faster_qwen36_35ba3b_and/",
-      "pushed_at": "2026-04-28",
-      "title": "GBNF grammar tweak for faster Qwen3.6 35B-A3B and Qwen3.6 27B",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxqa2c/im_done_with_using_local_llms_for_coding/",
-      "pushed_at": "2026-04-28",
-      "title": "I'm done with using local LLMs for coding",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sx5771/got_openais_privacy_filter_model_running_ondevice/",
-      "pushed_at": "2026-04-28",
-      "title": "Got OpenAI's privacy filter model running on-device via ExecuTorch",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sx5h1t/how_to_run_a_local_coding_agent_with_gemma_4_and/",
-      "pushed_at": "2026-04-28",
-      "title": "How to run a local coding agent with Gemma 4 and Pi | Patrick Loeber",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxpk08/for_nonhallucinating_work_mimo_25_delivers/",
-      "pushed_at": "2026-04-28",
-      "title": "For Non-hallucinating work, MiMo 2.5 delivers",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "pushed_at": "2026-04-28",
-      "title": "TauricResearch/TradingAgents",
-      "score": 7
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-      "pushed_at": "2026-04-28",
-      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3785955616152839?f=rss",
-      "pushed_at": "2026-04-28",
-      "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3784480103455748?f=rss",
-      "pushed_at": "2026-04-28",
-      "title": "「寻明生科」完成3500万美元A+轮融资，首个抗体药物即将进入临床｜36氪首发",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1664000?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-04-28",
-      "title": "这届年轻人用 AI 造的「新物种」：活过来的画框、会叹气的台灯、会写信的龟背竹……",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1663891?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-04-28",
-      "title": "首发实测｜期待已久的HappyHorse 1.0，在千问能免费体验了",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1663082?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-04-28",
-      "title": "所有人都在骂爱奇艺AI艺人库，但他们压根不需要你喜欢",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/penpot/penpot",
-      "pushed_at": "2026-04-28",
-      "title": "penpot/penpot",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "pushed_at": "2026-04-28",
-      "title": "donnemartin/system-design-primer",
-      "score": 6
-    },
-    {
       "url": "https://github.com/marras0914/cordon",
       "pushed_at": "2026-04-29",
       "title": "Show HN: Cordon – Security gateway for MCP tool calls with HITL approvals",
@@ -14981,6 +14705,96 @@
       "pushed_at": "2026-07-26",
       "title": "英伟达以10亿美元投资获得Naver的4.5%股份",
       "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v800e0/i_added_receipt_scanning_to_my_grocery_budgeting/",
+      "pushed_at": "2026-07-28",
+      "title": "I added receipt scanning to my grocery budgeting app. Snap the receipt and it logs the whole trip for you",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1v8ghva/i_built_a_way_for_people_to_earn_money_from_the/",
+      "pushed_at": "2026-07-28",
+      "title": "I built a way for people to earn money from the AI models they already self-host",
+      "score": 6
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
+      "pushed_at": "2026-07-28",
+      "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
+      "score": 8
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
+      "pushed_at": "2026-07-28",
+      "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+      "pushed_at": "2026-07-28",
+      "title": "moonshotai/Kimi-K3",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+      "pushed_at": "2026-07-28",
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/NanoNets/ami",
+      "pushed_at": "2026-07-28",
+      "title": "Show HN: Ami – A local, open-source agent that does your busywork across apps",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/prabhuavula7/scout",
+      "pushed_at": "2026-07-28",
+      "title": "Show HN: Scout, understand any Enterprise Platform in minutes",
+      "score": 8
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "pushed_at": "2026-07-28",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "score": 5
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "pushed_at": "2026-07-28",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3913320648971395?f=rss",
+      "pushed_at": "2026-07-28",
+      "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3912546487637378?f=rss",
+      "pushed_at": "2026-07-28",
+      "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3914513838200195?f=rss",
+      "pushed_at": "2026-07-28",
+      "title": "英伟达拟为OpenAI提供2500亿美元担保，撬动5000亿算力基建",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1673165?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-28",
+      "title": "Opus 5 砍掉超 80% 系统提示词，我们用 AI 的方式也该变了 ｜附指南",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1673151?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-28",
+      "title": "最直白、最不绕弯子告诉你：为什么到处都是「AI手机」？｜AG&I",
+      "score": 7
     }
   ]
 }
