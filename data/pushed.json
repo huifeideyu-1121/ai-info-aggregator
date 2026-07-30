@@ -1,102 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://github.com/marras0914/cordon",
-      "pushed_at": "2026-04-29",
-      "title": "Show HN: Cordon – Security gateway for MCP tool calls with HITL approvals",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/umbecanessa/neural-ledger-system",
-      "pushed_at": "2026-04-29",
-      "title": "Show HN: An agent that remembers across sessions (no chat history)",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxzqry/qwen_36_27b_bf16_vs_q4_k_m_vs_q8_0_gguf_evaluation/",
-      "pushed_at": "2026-04-29",
-      "title": "Qwen 3.6 27B BF16 vs Q4_K_M vs Q8_0 GGUF evaluation",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sy7srk/qwen_3635ba3b_kv_cache_bench_f16_vs_q8_0_vs/",
-      "pushed_at": "2026-04-29",
-      "title": "Qwen 3.6-35B-A3B KV cache bench: f16 vs q8_0 vs turbo3 vs turbo4 from 0 to 1M context on M5 Max",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/microsoft/VibeVoice",
-      "pushed_at": "2026-04-29",
-      "title": "microsoft/VibeVoice",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/fspecii/ace-step-ui",
-      "pushed_at": "2026-04-29",
-      "title": "fspecii/ace-step-ui",
-      "score": 8
-    },
-    {
-      "url": "https://www.ifanr.com/1664039?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-04-29",
-      "title": "OpenAI 和微软官宣「分手」，七年 CP 终成塑料",
-      "score": 8
-    },
-    {
-      "url": "https://www.ifanr.com/1664182?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-04-29",
-      "title": "9秒删光公司数据库，我花最贵的钱，买了一个「删库跑路」的AI",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1symbuf/made_a_global_text_filler_finally_opensourced_it/",
-      "pushed_at": "2026-04-29",
-      "title": "Made a global text filler. Finally open-sourced it after a month of daily use.",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1syj175/i_built_a_site_that_gives_confidently_wrong/",
-      "pushed_at": "2026-04-29",
-      "title": "I built a site that gives confidently wrong answers to any question",
-      "score": 7
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today",
-      "pushed_at": "2026-04-29",
-      "title": "[AINews] not much happened today",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/jftuga/mac-screen-search",
-      "pushed_at": "2026-04-29",
-      "title": "Show HN: mac-screen-search: CLI find, highlight, redact text on screen, in files",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/hunvreus/pi-hosts",
-      "pushed_at": "2026-04-29",
-      "title": "Show HN: Pi-hosts – Give the Pi coding agent access to your servers",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sy0qj5/qwen3627b_iq4_xs_full_vram_with_110k_context/",
-      "pushed_at": "2026-04-29",
-      "title": "Qwen3.6-27B IQ4_XS FULL VRAM with 110k context",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sy54d1/lemonade_omnirouter_unifying_the_best_local_ai/",
-      "pushed_at": "2026-04-29",
-      "title": "Lemonade OmniRouter: unifying the best local AI engines for omni-modality",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/iamgio/quarkdown",
-      "pushed_at": "2026-04-29",
-      "title": "iamgio/quarkdown",
-      "score": 7
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1szik62/i_got_tired_of_agents_that_cant_see_the_world_so/",
       "pushed_at": "2026-04-30",
       "title": "I got tired of agents that can't see the world, so we built an open protocol for agent sensors",
@@ -14902,6 +14806,150 @@
       "url": "https://www.ifanr.com/1673220?utm_source=rss&utm_medium=rss&utm_campaign=",
       "pushed_at": "2026-07-28",
       "title": "刚刚，北大校友翁荔官宣离职，AI 时代最好的「对齐」是照顾好自己",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1va02ay/i_audited_549_vibecoded_side_projects_on_github/",
+      "pushed_at": "2026-07-29",
+      "title": "I audited 549 vibe-coded side projects on GitHub. Here are the 5 mistakes almost every one of them makes.",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1va9fag/air_write_accessibility_tool_for_writing_words/",
+      "pushed_at": "2026-07-29",
+      "title": "Air Write: accessibility tool for writing words and letters in the air with the phone, like a wand!",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vaats2/i_built_an_ai_powered_language_learning_app/",
+      "pushed_at": "2026-07-29",
+      "title": "I built an AI powered language learning app (without creepy AI characters) Called it Speaka.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vaagc5/i_built_hsum_after_reading_about_cerebrass/",
+      "pushed_at": "2026-07-29",
+      "title": "I built hSUM after reading about Cerebras’s internal knowledge system",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1va9xvj/i_just_got_my_first_paying_customer_when_i_had/",
+      "pushed_at": "2026-07-29",
+      "title": "I just got my first paying customer when I had almost given up",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1va9lop/aiterm_two_weeks_of_shipping_only_fixes_and_the/",
+      "pushed_at": "2026-07-29",
+      "title": "AITerm - two weeks of shipping only fixes, and the worst bug was in the code that tells you an update is ready",
+      "score": 5
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
+      "pushed_at": "2026-07-29",
+      "title": "[AINews] AI is eating Finance; AIE NYC now open",
+      "score": 7
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+      "pushed_at": "2026-07-29",
+      "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
+      "score": 5
+    },
+    {
+      "url": "https://leaderboard.far.ai/",
+      "pushed_at": "2026-07-29",
+      "title": "Show HN: AI Security Leaderboard – comparing cyber and CBRN safeguards",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Shpigford/nurb",
+      "pushed_at": "2026-07-29",
+      "title": "Show HN: Nurb – Agentic CAD for 3D printing",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/PrithviSeran/hunch-mcp",
+      "pushed_at": "2026-07-29",
+      "title": "Show HN: Hunch – A local MCP that lets your LLM use your Mac in the background",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/hello245m/free-stockdb",
+      "pushed_at": "2026-07-29",
+      "title": "hello245m/free-stockdb",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "pushed_at": "2026-07-29",
+      "title": "huggingface/speech-to-speech",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "pushed_at": "2026-07-29",
+      "title": "virgiliojr94/book-to-skill",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "pushed_at": "2026-07-29",
+      "title": "paperswithbacktest/awesome-systematic-trading",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "pushed_at": "2026-07-29",
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "pushed_at": "2026-07-29",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "pushed_at": "2026-07-29",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "score": 6
+    },
+    {
+      "url": "https://trends.vc/whatsapp-commerce-tools-platform-risk-cash-on-delivery-confirmation-agent-squeeze/",
+      "pushed_at": "2026-07-29",
+      "title": "WhatsApp Commerce Tools: Platform Risk, Cash-on-Delivery Confirmation, Agent Squeeze",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3916108853521792?f=rss",
+      "pushed_at": "2026-07-29",
+      "title": "华辰芯光完成超亿元融资，全栈技术能力突破高端激光芯片封锁",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3915175290901889?f=rss",
+      "pushed_at": "2026-07-29",
+      "title": "柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3878652674715905?f=rss",
+      "pushed_at": "2026-07-29",
+      "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3916870770388356?f=rss",
+      "pushed_at": "2026-07-29",
+      "title": "上半年有色金属价格集体上涨，核心小金属价格飙涨",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1673412?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-07-29",
+      "title": "苹果这块 AI 屏幕，想让 Siri 接管你家的一切",
       "score": 5
     }
   ]
