@@ -1,150 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t228g6/i_built_a_chrome_extension_that_turns_web_pages/",
-      "pushed_at": "2026-05-02",
-      "title": "I built a Chrome extension that turns web pages into editable PPT slides. ~50% install rate. But no clear idea who the users are.",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t1ypp9/i_built_an_opensource_android_app_store_focused/",
-      "pushed_at": "2026-05-02",
-      "title": "I built an open-source Android app store focused on verifiable trust (beta)",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1t24w3d/spent_2k_on_a_domain_before_having_a_product/",
-      "pushed_at": "2026-05-02",
-      "title": "Spent $2k on a domain before having a product. Would you have done it?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1t1bhxf/my_cofounder_uses_clay_and_ai_agents_for_outreach/",
-      "pushed_at": "2026-05-02",
-      "title": "My co-founder uses Clay and AI agents for outreach. I send Instagram DMs manually. Mine worked better.",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1t1h1p7/struggling_with_pricing_strategy/",
-      "pushed_at": "2026-05-02",
-      "title": "Struggling with pricing strategy",
-      "score": 6
-    },
-    {
-      "url": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
-      "pushed_at": "2026-05-02",
-      "title": "Sightings",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/p32929/rotato",
-      "pushed_at": "2026-05-02",
-      "title": "Show HN: Rotato – Node.js proxy that rotates LLM API keys on 429 errors",
-      "score": 6
-    },
-    {
-      "url": "https://sentient-os.ai",
-      "pushed_at": "2026-05-02",
-      "title": "Show HN: Sentient OS – On-device intelligence layer for your entire digital life",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1x9jv/i_built_a_transformer_in_c17_from_scratch_no/",
-      "pushed_at": "2026-05-02",
-      "title": "I built a transformer in C++17 from scratch — no PyTorch, no BLAS, no dependencies. Trains on CPU. 0.83M params, full analytical backprop, 76 min to val loss 1.64.",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1n6o8/we_are_finally_there_qwen3627b_agentic_search_957/",
-      "pushed_at": "2026-05-02",
-      "title": "We are finally there: Qwen3.6-27B + agentic search; 95.7% SimpleQA on a single 3090, fully local",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t24y4p/i_made_a_visualizer_for_hugging_face_models/",
-      "pushed_at": "2026-05-02",
-      "title": "I made a visualizer for Hugging Face models",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1judm/qwen3627b_at_72_toks_on_rtx_3090_on_windows_using/",
-      "pushed_at": "2026-05-02",
-      "title": "Qwen3.6-27B at 72 tok/s on RTX 3090 on Windows using native vLLM (no WSL, no Docker), portable launcher and installer",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1mmnd/release_finally_my_first_tts_model_is_out/",
-      "pushed_at": "2026-05-02",
-      "title": "[RELEASE] - Finally, my first TTS model is out! 🎙️ Flare-TTS 28M",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t227hk/ban_phrases_on_llamacpp_with_this_script/",
-      "pushed_at": "2026-05-02",
-      "title": "Ban phrases on llama.cpp with this script.",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t208qv/implemented_turboquant_and_results_dont_fully/",
-      "pushed_at": "2026-05-02",
-      "title": "Implemented TurboQuant and results don’t fully match paper",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1t4nw/kv_cache_quantization_ignorance_or_malice/",
-      "pushed_at": "2026-05-02",
-      "title": "Kv cache quantization: ignorance, or malice?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1w920/warpdrv_my_opensource_llamacpp_launcher_for/",
-      "pushed_at": "2026-05-02",
-      "title": "Warpdrv - my open-source Llama.cpp launcher for daily-driving Qwen 35b + 27b on Strix Halo + RTX Pro.",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1itn1/unsloth_solved_bug_in_mistral_medium_35/",
-      "pushed_at": "2026-05-02",
-      "title": "Unsloth solved bug in Mistral Medium 3.5 implementation",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1lfhj/minimax_m27_awq4bit_on_2x_spark_vs_2x_rtx_6000/",
-      "pushed_at": "2026-05-02",
-      "title": "MiniMax M2.7 AWQ-4bit on 2x Spark vs 2x RTX 6000 96GB - performance and energy efficiency",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1nts8/whats_your_tps_on_3090_qwen_36_27b_in_real_tasks/",
-      "pushed_at": "2026-05-02",
-      "title": "What's your tps on 3090 + Qwen 3.6 27B in real tasks?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1l7xj/hybrid_ondevice_inference_on_android_llamacpp/",
-      "pushed_at": "2026-05-02",
-      "title": "Hybrid on-device inference on Android: llama.cpp + LiteRT + NPU/GPU routing",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/simstudioai/sim",
-      "pushed_at": "2026-05-02",
-      "title": "simstudioai/sim",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3789475357400068?f=rss",
-      "pushed_at": "2026-05-02",
-      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
-      "score": 6
-    },
-    {
-      "url": "http://www.geekpark.net/news/363696",
-      "pushed_at": "2026-05-02",
-      "title": "iPhone Air 销量疲软，安卓厂商集体叫停超薄旗舰；佳能或将推出 Pocket 相机；腾讯增持游戏科学，持股达 24%",
-      "score": 5
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1t30xda/i_built_tutortrack_to_help_tutors_launch_manage/",
       "pushed_at": "2026-05-03",
       "title": "I built TutorTrack to help tutors launch, manage, and grow their tutoring practice",
@@ -14645,6 +14501,90 @@
       "pushed_at": "2026-07-31",
       "title": "早报｜旗舰手机核心三件套成本超4000元/理想回应i6自动泊车反复调整/Kimi完成超35亿美元F轮融资",
       "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vbwy72/i_built_a_browser_extension_that_pays_you_cash/",
+      "pushed_at": "2026-08-01",
+      "title": "I built a browser extension that pays you cash back for waiting on ChatGPT",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vbv91f/just_made_my_first_mrr_feels_unreal/",
+      "pushed_at": "2026-08-01",
+      "title": "Just made my first MRR, feels unreal.",
+      "score": 6
+    },
+    {
+      "url": "https://www.therundown.ai/p/openai-s-models-cut-their-own-costs",
+      "pushed_at": "2026-08-01",
+      "title": "OpenAI's models cut their own costs",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
+      "pushed_at": "2026-08-01",
+      "title": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+      "pushed_at": "2026-08-01",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "score": 9
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+      "pushed_at": "2026-08-01",
+      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+      "pushed_at": "2026-08-01",
+      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "pushed_at": "2026-08-01",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3919386961177985?f=rss",
+      "pushed_at": "2026-08-01",
+      "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3919225763540611?f=rss",
+      "pushed_at": "2026-08-01",
+      "title": "开云的转折：在中国，做一个AI乐观派",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3918250549931394?f=rss",
+      "pushed_at": "2026-08-01",
+      "title": "中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3919473270812290?f=rss",
+      "pushed_at": "2026-08-01",
+      "title": "欧盟8月2日起执行《人工智能法》相关规定，新增AI透明度要求",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3919459572608384?f=rss",
+      "pushed_at": "2026-08-01",
+      "title": "铭普光磁：拟定增募资不超12.83亿元，用于高速光模块智能制造项目等",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1673553?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-01",
+      "title": "实测 DeepSeek V4 正式版：3 块钱干完 5 件事，AI「智价比」之战开打了",
+      "score": 9
     }
   ]
 }
