@@ -1,378 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.bensbites.com/p/elon-doubled-limits",
-      "pushed_at": "2026-05-07",
-      "title": "Elon doubled limits",
-      "score": 5
-    },
-    {
-      "url": "https://www.therundown.ai/p/anthropic-spacex-ai-become-unlikely-compute-partners",
-      "pushed_at": "2026-05-07",
-      "title": "Anthropic, SpaceX(AI) become unlikely compute partners",
-      "score": 6
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
-      "pushed_at": "2026-05-07",
-      "title": "[AINews] Anthropic-SpaceXai's 300MW/$5B/yr deal for Colossus I, ARR growth is 8000% annualized",
-      "score": 8
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/code-with-claude-the-5-biggest-updates",
-      "pushed_at": "2026-05-07",
-      "title": "Code with Claude: The 5 biggest updates explained",
-      "score": 5
-    },
-    {
-      "url": "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything",
-      "pushed_at": "2026-05-07",
-      "title": "Notes on the xAI/Anthropic data center deal",
-      "score": 6
-    },
-    {
-      "url": "https://disputron.ai",
-      "pushed_at": "2026-05-07",
-      "title": "Show HN: Disputron – AI small claims court for petty disputes",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/lightfeed/resurf",
-      "pushed_at": "2026-05-07",
-      "title": "Show HN: Resurf – realistic, reproducible test framework for AI browser agents",
-      "score": 6
-    },
-    {
-      "url": "https://www.swipecopilot.com/",
-      "pushed_at": "2026-05-07",
-      "title": "Show HN: Swipe Copilot – Less time on Tinder, more dates worth going on",
-      "score": 7
-    },
-    {
-      "url": "https://pokecartcheck.com/",
-      "pushed_at": "2026-05-07",
-      "title": "Show HN: Pokemon Cartridge Authenticity Checker",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/addyosmani/agent-skills",
-      "pushed_at": "2026-05-07",
-      "title": "addyosmani/agent-skills",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/InsForge/InsForge",
-      "pushed_at": "2026-05-07",
-      "title": "InsForge/InsForge",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/anthropics/financial-services",
-      "pushed_at": "2026-05-07",
-      "title": "anthropics/financial-services",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/cheahjs/free-llm-api-resources",
-      "pushed_at": "2026-05-07",
-      "title": "cheahjs/free-llm-api-resources",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/bytedance/deer-flow",
-      "pushed_at": "2026-05-07",
-      "title": "bytedance/deer-flow",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "pushed_at": "2026-05-07",
-      "title": "D4Vinci/Scrapling",
-      "score": 7
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "pushed_at": "2026-05-07",
-      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-      "score": 7
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-      "pushed_at": "2026-05-07",
-      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3786528811572481?f=rss",
-      "pushed_at": "2026-05-07",
-      "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3799089350712324?f=rss",
-      "pushed_at": "2026-05-07",
-      "title": "氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3797155747748867?f=rss",
-      "pushed_at": "2026-05-07",
-      "title": "斯坦福博士后创立的柔性触觉传感器公司获超亿元融资，低成本触觉手套将量产落地｜硬氪首发",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3798462137637892?f=rss",
-      "pushed_at": "2026-05-07",
-      "title": "8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3799402405338119?f=rss",
-      "pushed_at": "2026-05-07",
-      "title": "深圳机器人产业产值超2400亿元",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3799401290308612?f=rss",
-      "pushed_at": "2026-05-07",
-      "title": "预测平台Kalshi完成10亿美元F轮融资，估值达220亿美元",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3799397980101637?f=rss",
-      "pushed_at": "2026-05-07",
-      "title": "SpaceX 冲刺上市，资本开支飙升数百亿",
-      "score": 5
-    },
-    {
-      "url": "http://www.geekpark.net/news/363804",
-      "pushed_at": "2026-05-07",
-      "title": "比 OpenClaw 更火的 「Agent 员工」赛道，杀出一个新王者｜AI 上新",
-      "score": 7
-    },
-    {
-      "url": "http://www.geekpark.net/news/363777",
-      "pushed_at": "2026-05-07",
-      "title": "平头哥发布首款智能网卡「磐脉 920」，补齐 AI 算力最后一块短板",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t7ah4h/built_a_platform_that_turns_any_document_into/",
-      "pushed_at": "2026-05-08",
-      "title": "built a platform that turns any document into explainer videos (ANY DOC).",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t7ijjv/41_selftaught_just_shipped_my_first_saas_would/",
-      "pushed_at": "2026-05-08",
-      "title": "41, self-taught, just shipped my first SaaS — would love to know if this idea is actually useful or if I've built something only I would use",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t75cv1/free_simple_chess_analysis_app/",
-      "pushed_at": "2026-05-08",
-      "title": "Free & simple chess analysis app",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t7e1gk/how_many_hours_of_your_life_does_your_morning/",
-      "pushed_at": "2026-05-08",
-      "title": "How many hours of your life does your morning coffee cost? I built a free app to find out — and it changed how I spend money.",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t7o708/i_built_a_video_editor_that_runs_entirely_in_your/",
-      "pushed_at": "2026-05-08",
-      "title": "I built a video editor that runs entirely in your browser - No uploads, no watermarks and free 4k.",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t7j3l8/sharing_my_success_story_how_i_built_apifreellm/",
-      "pushed_at": "2026-05-08",
-      "title": "Sharing my success story: how I built apifreellm -> 1700+ of net revenue so far",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t7m1g5/an_easter_egg_on_my_site_brought_me_more/",
-      "pushed_at": "2026-05-08",
-      "title": "An easter egg on my site brought me more marketing wins than Google Ads and SEO combined",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t6wzy5/i_built_a_claude_code_skill_that_acts_as_my_ai/",
-      "pushed_at": "2026-05-08",
-      "title": "I built a Claude Code skill that acts as my AI video editor",
-      "score": 8
-    },
-    {
-      "url": "https://www.therundown.ai/p/openai-closes-reasoning-gap-in-voice-agents",
-      "pushed_at": "2026-05-08",
-      "title": "OpenAI closes reasoning gap in voice agents",
-      "score": 6
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
-      "pushed_at": "2026-05-08",
-      "title": "[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs",
-      "score": 8
-    },
-    {
-      "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
-      "pushed_at": "2026-05-08",
-      "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t7g70j/vllm_rocm_has_been_added_to_lemonade_as_an/",
-      "pushed_at": "2026-05-08",
-      "title": "vLLM ROCm has been added to Lemonade as an experimental backend",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t7l56a/qwen_35ba3b_is_very_usable_with_12gb_of_vram/",
-      "pushed_at": "2026-05-08",
-      "title": "Qwen 35B-A3B is very usable with 12GB of VRAM",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t7kgy4/new_moe_from_ai2_emo/",
-      "pushed_at": "2026-05-08",
-      "title": "new MoE from ai2, EMO",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t7kyju/got_mtp_turboquant_running_qwen3627b_80_ts_at/",
-      "pushed_at": "2026-05-08",
-      "title": "Got MTP + TurboQuant running — Qwen3.6-27B -- 80+ t/s at 262K context on a single RTX 4090",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t79ayh/zlab_released_gemma426ba4bitdflash_anybody_tried/",
-      "pushed_at": "2026-05-08",
-      "title": "z-lab released gemma-4-26B-A4B-it-DFlash. Anybody tried it yet?",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t7bfpw/reports_suggest_deepseek_is_seeking_735_billion/",
-      "pushed_at": "2026-05-08",
-      "title": "Reports suggest DeepSeek is seeking $7.35 billion in funding and plans to release its V4.1 update next month.",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t796qe/gemma_4_26b_hits_600_toks_on_one_rtx_5090/",
-      "pushed_at": "2026-05-08",
-      "title": "Gemma 4 26B Hits 600 Tok/s on One RTX 5090",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6se6r/multitoken_prediction_mtp_for_llamacpp_gemma_4/",
-      "pushed_at": "2026-05-08",
-      "title": "Multi-Token Prediction (MTP) for LLaMA.cpp - Gemma 4 speedup by 40%",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t72tk9/ds4_a_deepseek_4_flash_specific_inference_engine/",
-      "pushed_at": "2026-05-08",
-      "title": "DS4: a DeepSeek 4 flash specific inference engine for 128gb MacBooks",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t7et9q/testing_local_llms_in_practice_code_generation/",
-      "pushed_at": "2026-05-08",
-      "title": "Testing Local LLMs in Practice: Code Generation, Quality vs. Speed",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/z-lab/dflash",
-      "pushed_at": "2026-05-08",
-      "title": "z-lab/dflash",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/vercel-labs/open-agents",
-      "pushed_at": "2026-05-08",
-      "title": "vercel-labs/open-agents",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/decolua/9router",
-      "pushed_at": "2026-05-08",
-      "title": "decolua/9router",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/aaif-goose/goose",
-      "pushed_at": "2026-05-08",
-      "title": "aaif-goose/goose",
-      "score": 7
-    },
-    {
-      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-      "pushed_at": "2026-05-08",
-      "title": "The “people’s airline” and the enterprise AI gold rush",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3800495686163721?f=rss",
-      "pushed_at": "2026-05-08",
-      "title": "「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3799028783439111?f=rss",
-      "pushed_at": "2026-05-08",
-      "title": "小红书四年AI 路：FOMO、犹豫，到突然加速",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3799984046333186?f=rss",
-      "pushed_at": "2026-05-08",
-      "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3799129165863937?f=rss",
-      "pushed_at": "2026-05-08",
-      "title": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3800643284245513?f=rss",
-      "pushed_at": "2026-05-08",
-      "title": "高盛：美国数据中心用电需求或在两年内翻倍",
-      "score": 5
-    },
-    {
-      "url": "https://www.ifanr.com/1665181?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-08",
-      "title": "AI 硬件时代，手机不会轻易的狗带｜AI 器物志",
-      "score": 6
-    },
-    {
-      "url": "https://www.ifanr.com/1665148?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-08",
-      "title": "ChatGPT，别再「稳稳接住我」了｜附指南",
-      "score": 5
-    },
-    {
-      "url": "https://www.ifanr.com/1665134?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-08",
-      "title": "独家｜苹果带摄像头的AirPods或被迫暂停，部分产线「原地解散」",
-      "score": 6
-    },
-    {
-      "url": "https://www.ifanr.com/1665115?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-08",
-      "title": "终于能听 GPT-5 给我说人话了",
-      "score": 8
-    },
-    {
-      "url": "http://www.geekpark.net/news/363854",
-      "pushed_at": "2026-05-08",
-      "title": "550 亿美元！马斯克的「芯片工厂」开始成为现实",
-      "score": 8
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1t82ef8/100_paid_users_in_month_one_for_a_mac_app_solo/",
       "pushed_at": "2026-05-09",
       "title": "100+ paid users in month one for a Mac app. solo dev. zero ads. here's the playbook.",
@@ -14068,6 +13696,48 @@
       "url": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
       "pushed_at": "2026-08-05",
       "title": "[AINews] Megakernels are so dead and so back",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "pushed_at": "2026-08-07",
+      "title": "esengine/DeepSeek-Reasonix",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/addyosmani/agent-skills",
+      "pushed_at": "2026-08-07",
+      "title": "addyosmani/agent-skills",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vhld2h/i_built_a_free_onecommand_installer_for_claude/",
+      "pushed_at": "2026-08-07",
+      "title": "I built a free one-command installer for Claude Code, plus a sibling that finally renders Hebrew/Arabic/Persian right in the terminal",
+      "score": 7
+    },
+    {
+      "url": "http://www.geekpark.net/news/368503",
+      "pushed_at": "2026-08-07",
+      "title": "对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场",
+      "score": 7
+    },
+    {
+      "url": "http://www.geekpark.net/news/368495",
+      "pushed_at": "2026-08-07",
+      "title": "谷歌「地基元老」Jeff Dean 离职创业，新公司瞄准 AI4S",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vgznlf/i_built_an_ai_that_redesigns_your_room_using/",
+      "pushed_at": "2026-08-07",
+      "title": "I built an AI that redesigns your room using products you can actually buy",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "pushed_at": "2026-08-07",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
       "score": 5
     }
   ]
