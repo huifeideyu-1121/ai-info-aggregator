@@ -1,210 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t82ef8/100_paid_users_in_month_one_for_a_mac_app_solo/",
-      "pushed_at": "2026-05-09",
-      "title": "100+ paid users in month one for a Mac app. solo dev. zero ads. here's the playbook.",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t8j2v3/was_tired_of_chasing_users_so_i_built_something/",
-      "pushed_at": "2026-05-09",
-      "title": "Was tired of chasing users, so I built something that makes them come to me instead",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t8h920/i_built_a_tool_i_thought_useful_but_i_get_zero/",
-      "pushed_at": "2026-05-09",
-      "title": "I built a tool I thought useful but I get zero engagement",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t82zbx/update_my_nologin_chat_project_just_crossed_180k/",
-      "pushed_at": "2026-05-09",
-      "title": "Update: my no-login chat project just crossed 180K Google clicks in 28 days",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t8ps2d/how_do_i_get_my_first_paid_user/",
-      "pushed_at": "2026-05-09",
-      "title": "How do I get my first paid user?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t8lqz5/im_building_a_windows_desktop_app_that_converts/",
-      "pushed_at": "2026-05-09",
-      "title": "I'm building a Windows desktop app that converts images to SVG vectors using AI — free demo available",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t8oc0c/update_on_the_launch_directory_i_posted_here_last/",
-      "pushed_at": "2026-05-09",
-      "title": "Update on the launch directory I posted here last week. 65 products, 100 signups, 30 free spots left.",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t7zul8/i_published_800_seo_pages_for_a_side_project/",
-      "pushed_at": "2026-05-09",
-      "title": "I published ~800 SEO pages for a side project. After a month, Google had indexed only 120.",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t8lzmx/open_source_parla_voice_to_text_app_for_windows/",
-      "pushed_at": "2026-05-09",
-      "title": "[OPEN SOURCE] Parla: Voice to text app for Windows (yet)",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t8l8wc/app_walkthrough_video_created_with_inshot_canva/",
-      "pushed_at": "2026-05-09",
-      "title": "App walkthrough video created with Inshot, Canva and Elevenlabs voice for narration",
-      "score": 5
-    },
-    {
-      "url": "https://www.bensbites.com/p/bens-builds-3-an-email-app",
-      "pushed_at": "2026-05-09",
-      "title": "Ben's Builds #3 - an email app",
-      "score": 5
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
-      "pushed_at": "2026-05-09",
-      "title": "[AINews] Anthropic growing 10x/year while everyone else is laying off >10% of their workforce",
-      "score": 7
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=48078195",
-      "pushed_at": "2026-05-09",
-      "title": "Show HN: Sigma Guard – deterministic contradiction checks for graph memory",
-      "score": 8
-    },
-    {
-      "url": "https://chonklm.com",
-      "pushed_at": "2026-05-09",
-      "title": "Show HN: ChonkLM – Tiny language models running offline in the browser",
-      "score": 5
-    },
-    {
-      "url": "https://wuphf.team",
-      "pushed_at": "2026-05-09",
-      "title": "Show HN: My AI agents bully each other to prevent context drift",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t82zxv/80_toksec_and_128k_context_on_12gb_vram_with/",
-      "pushed_at": "2026-05-09",
-      "title": "80 tok/sec and 128K context on 12GB VRAM with Qwen3.6 35B A3B and llama.cpp MTP",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t88zvv/beellamacpp_advanced_dflash_turboquant_with/",
-      "pushed_at": "2026-05-09",
-      "title": "BeeLlama.cpp: advanced DFlash & TurboQuant with support of reasoning and vision. Qwen 3.6 27B Q5 with 200k context on 3090, 2-3x faster than baseline (peak 135 tps!)",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t8k6fg/running_minimax_27_at_100k_context_on_strix_halo/",
-      "pushed_at": "2026-05-09",
-      "title": "Running Minimax 2.7 at 100k context on strix halo",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t86j45/more_qwen3627b_mtp_success_but_on_dual_mi50s/",
-      "pushed_at": "2026-05-09",
-      "title": "More Qwen3.6-27B MTP success but on dual Mi50s",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t81u76/deepseek_rejects_alibaba_prioritizing_corporate/",
-      "pushed_at": "2026-05-09",
-      "title": "DeepSeek Rejects Alibaba: Prioritizing Corporate Independence Over Big Tech Ecosystems",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t8ho70/ds4_webui/",
-      "pushed_at": "2026-05-09",
-      "title": "ds4 webui",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t8db1j/model_add_sarvam_moe_architecture_support_by/",
-      "pushed_at": "2026-05-09",
-      "title": "model: add sarvam_moe architecture support by sumitchatterjee13 · Pull Request #20275 · ggml-org/llama.cpp",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t88r26/the_many_sides_of_mimo_v25_pro/",
-      "pushed_at": "2026-05-09",
-      "title": "The many sides of Mimo v2.5 Pro",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "pushed_at": "2026-05-09",
-      "title": "CloakHQ/CloakBrowser",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/awslabs/aidlc-workflows",
-      "pushed_at": "2026-05-09",
-      "title": "awslabs/aidlc-workflows",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/lobehub/lobehub",
-      "pushed_at": "2026-05-09",
-      "title": "lobehub/lobehub",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "pushed_at": "2026-05-09",
-      "title": "datawhalechina/hello-agents",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/flutter/skills",
-      "pushed_at": "2026-05-09",
-      "title": "flutter/skills",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3801461350702855?f=rss",
-      "pushed_at": "2026-05-09",
-      "title": "AI开始接管年轻人的「精神自留地」",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3797202414820359?f=rss",
-      "pushed_at": "2026-05-09",
-      "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3801348046151428?f=rss",
-      "pushed_at": "2026-05-09",
-      "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3801731549371905?f=rss",
-      "pushed_at": "2026-05-09",
-      "title": "百度正式发布文心大模型5.1",
-      "score": 6
-    },
-    {
-      "url": "https://www.ifanr.com/1661163?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-09",
-      "title": "播放破亿的 AI 短片，名场面是一个「穿帮镜头」| 对话《纸手机》主创",
-      "score": 6
-    },
-    {
-      "url": "http://www.geekpark.net/news/363933",
-      "pushed_at": "2026-05-09",
-      "title": "被 AI 重新激活的「无屏手环」，成了大厂争抢的运动健康新赛道",
-      "score": 5
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1t9fyeb/update_my_hantavirus_saturday_side_project_hit_4k/",
       "pushed_at": "2026-05-10",
       "title": "[Update] My HantaVirus Saturday side project hit 4k visitors in 29 hours. The traffic breakdown is wild.",
@@ -13763,6 +13559,30 @@
       "pushed_at": "2026-08-07",
       "title": "AI Agent 手机下半场，「国标」L3 只是起点",
       "score": 5
+    },
+    {
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "pushed_at": "2026-08-08",
+      "title": "PrimeIntellect-ai/prime-agent",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/unclebob/swarm-forge",
+      "pushed_at": "2026-08-08",
+      "title": "unclebob/swarm-forge",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vj6xwv/feeling_useless_as_developer/",
+      "pushed_at": "2026-08-08",
+      "title": "Feeling useless as developer",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vir8wt/now_you_can_organize_your_hoard_room_by_room/",
+      "pushed_at": "2026-08-08",
+      "title": "Now you can organize your hoard room by room.",
+      "score": 6
     }
   ]
 }
