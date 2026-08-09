@@ -1,138 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t9fyeb/update_my_hantavirus_saturday_side_project_hit_4k/",
-      "pushed_at": "2026-05-10",
-      "title": "[Update] My HantaVirus Saturday side project hit 4k visitors in 29 hours. The traffic breakdown is wild.",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1t9d82g/bootstrapped_a_greek_company_intelligence_tool_40/",
-      "pushed_at": "2026-05-10",
-      "title": "Bootstrapped a Greek company intelligence tool. 40 paying users in 3 months. Looking for UI/UX feedback.",
-      "score": 7
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=48088819",
-      "pushed_at": "2026-05-10",
-      "title": "Show HN: I trained a chess engine to play like humans",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/plus8bit/agent-postmortem-skill",
-      "pushed_at": "2026-05-10",
-      "title": "Show HN: Agent Postmortem Skill – Force AI coding agents to prove their work",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t99upf/getting_a_feel_for_how_fast_x_tokenssecond_really/",
-      "pushed_at": "2026-05-10",
-      "title": "Getting a feel for how fast X tokens/second really is.",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/",
-      "pushed_at": "2026-05-10",
-      "title": "MTP benchmark results: the nature of the generative task dictates whether you will benefit (coding) or get slower inference (creative) from speculative inference. No other factor comes close.",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9em98/deepseekv4flash_w4a16fp8_with_mtp_selfspeculation/",
-      "pushed_at": "2026-05-10",
-      "title": "DeepSeek-V4-Flash W4A16+FP8 with MTP self-speculation: 85 tok/s @ 524k on 2× RTX PRO 6000 Max-Q",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9cle9/anybody_else_noticing_how_good_gemma426ba4b_is/",
-      "pushed_at": "2026-05-10",
-      "title": "Anybody else noticing how good gemma-4-26b-a4b is with one-shotting three.js?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t92hff/hello_from_10km_high_thanks_to_qwen_36_35b_a3b/",
-      "pushed_at": "2026-05-10",
-      "title": "Hello from 10KM high! - Thanks to Qwen 3.6 35b a3b!",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9lbcm/ran_some_llamacpp_rpc_test_to_see_if_its_worth_it/",
-      "pushed_at": "2026-05-10",
-      "title": "Ran some Llama.cpp RPC test to see if its worth it. And if 10Gbe needed.",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9jub0/sharing_cull_my_opensource_dataset_tool_for_image/",
-      "pushed_at": "2026-05-10",
-      "title": "Sharing \"cull\" : my open-source dataset tool for image scraping & classification & captioning pipeline",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9k8gy/i_built_an_open_source_hyperparameter_search_tool/",
-      "pushed_at": "2026-05-10",
-      "title": "I built an open source hyperparameter search tool for diffusion fine-tunes- pick the winner based on scoring",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/",
-      "pushed_at": "2026-05-10",
-      "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t96l6r/ncclfree_tensor_parallelism_on_dual_blackwell/",
-      "pushed_at": "2026-05-10",
-      "title": "NCCL-Free Tensor Parallelism on Dual Blackwell PCIe llama.cpp b9095 released!",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t96kfh/speeding_up_local_llm_for_usable_coding_agent/",
-      "pushed_at": "2026-05-10",
-      "title": "Speeding up local LLM for usable coding agent",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t95k73/ds4/",
-      "pushed_at": "2026-05-10",
-      "title": "DS4",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/bytedance/UI-TARS-desktop",
-      "pushed_at": "2026-05-10",
-      "title": "bytedance/UI-TARS-desktop",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/rohitg00/agentmemory",
-      "pushed_at": "2026-05-10",
-      "title": "rohitg00/agentmemory",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/datawhalechina/easy-vibe",
-      "pushed_at": "2026-05-10",
-      "title": "datawhalechina/easy-vibe",
-      "score": 4
-    },
-    {
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "pushed_at": "2026-05-10",
-      "title": "rowboatlabs/rowboat",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "pushed_at": "2026-05-10",
-      "title": "ChromeDevTools/chrome-devtools-mcp",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "pushed_at": "2026-05-10",
-      "title": "Lordog/dive-into-llms",
-      "score": 7
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1taftta/i_built_idrobe_a_digital_wardrobe_that_lets_you/",
       "pushed_at": "2026-05-11",
       "title": "I built iDrobe — a digital wardrobe that lets you try on your clothes virtually with AI",
@@ -13583,6 +13451,36 @@
       "pushed_at": "2026-08-08",
       "title": "Now you can organize your hoard room by room.",
       "score": 6
+    },
+    {
+      "url": "https://veruscite-data.com/login?next=%2Fdashboard",
+      "pushed_at": "2026-08-09",
+      "title": "Show HN: VerusCite, a tool to check for hallucinations in academic articles",
+      "score": 8
+    },
+    {
+      "url": "http://www.geekpark.net/news/368579",
+      "pushed_at": "2026-08-09",
+      "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vk443h/i_built_an_app_for_personality_improvement_out_of/",
+      "pushed_at": "2026-08-09",
+      "title": "I built an app for personality improvement out of pure frustration",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vjzi9s/i_built_an_app_that_looks_at_your_fridge_and/",
+      "pushed_at": "2026-08-09",
+      "title": "I built an app that looks at your fridge and tells you what you can cook",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/JustVugg/lumabri",
+      "pushed_at": "2026-08-09",
+      "title": "Show HN: Lumabri – What if LLMs worked like Napster?",
+      "score": 5
     }
   ]
 }
