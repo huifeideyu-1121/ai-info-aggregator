@@ -1,204 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1taftta/i_built_idrobe_a_digital_wardrobe_that_lets_you/",
-      "pushed_at": "2026-05-11",
-      "title": "I built iDrobe — a digital wardrobe that lets you try on your clothes virtually with AI",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1taiov5/i_found_a_massive_leak_in_dubai_real_estate_sales/",
-      "pushed_at": "2026-05-11",
-      "title": "I found a massive leak in Dubai real estate sales. I built a SaaS on nights & weekends to fix it. Need advice on getting the first 5 B2B users.",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ta5sb2/shipped_sinain_today_ambient_memory_for_macos_so/",
-      "pushed_at": "2026-05-11",
-      "title": "Shipped sinain today — ambient memory for macOS, so I stop re-pasting context into Claude Code",
-      "score": 9
-    },
-    {
-      "url": "https://www.therundown.ai/p/google-deepmind-powerful-ai-co-mathematician",
-      "pushed_at": "2026-05-11",
-      "title": "Google DeepMind’s powerful AI co-mathematician",
-      "score": 7
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-quests-token-leaderboards",
-      "pushed_at": "2026-05-11",
-      "title": "🎙️ How I AI: Quests, token leaderboards, and the elite AI adoption playbook & Notion’s spec-driven development",
-      "score": 6
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/spec-driven-development-the-ai-engineering",
-      "pushed_at": "2026-05-11",
-      "title": "Spec-driven development: The AI engineering workflow at Notion | Ryan Nystrom",
-      "score": 8
-    },
-    {
-      "url": "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything",
-      "pushed_at": "2026-05-11",
-      "title": "Using LLM in the shebang line of a script",
-      "score": 9
-    },
-    {
-      "url": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
-      "pushed_at": "2026-05-11",
-      "title": "Quoting New York Times Editors’ Note",
-      "score": 5
-    },
-    {
-      "url": "https://tryorigami.app",
-      "pushed_at": "2026-05-11",
-      "title": "Show HN: Origami – A simple workspace-oriented terminal manager",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/Mnexa-AI/e2a",
-      "pushed_at": "2026-05-11",
-      "title": "Show HN: E2a – Open-source email gateway for AI agents",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/aadya940/orbit-ui",
-      "pushed_at": "2026-05-11",
-      "title": "Show HN: n8n like workflows for AI agents that control a real VM",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/ab-613/opengravity",
-      "pushed_at": "2026-05-11",
-      "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1taeg8h/computer_build_using_intel_optane_persistent/",
-      "pushed_at": "2026-05-11",
-      "title": "Computer build using Intel Optane Persistent Memory - Can run 1 trillion parameter model at over 4 tokens/sec",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ta4rvs/mtp_on_unsloth/",
-      "pushed_at": "2026-05-11",
-      "title": "MTP on Unsloth",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tagtpv/i_catalogued_every_way_local_models_break_json/",
-      "pushed_at": "2026-05-11",
-      "title": "I catalogued every way local models break JSON output and built a repair library, here's what I found across 288 model calls",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1taihoo/b9109_preemptive_fix_for_mtp_mmproj_fix_soon_it/",
-      "pushed_at": "2026-05-11",
-      "title": "B9109: preemptive fix for mtp & mmproj fix soon? It appears so",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9voxs/exllamav3_major_updates/",
-      "pushed_at": "2026-05-11",
-      "title": "ExLlamaV3 Major Updates!",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tage06/prompt_caching_but_for_rl_training_75x_speedup_on/",
-      "pushed_at": "2026-05-11",
-      "title": "prompt caching, but for rl training - 7.5x speedup on long-prompt/short-response workloads",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ta7p6e/anyone_with_4x_5060ti_based_setups/",
-      "pushed_at": "2026-05-11",
-      "title": "Anyone with 4x 5060ti based setups?",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9tsro/markdown_browser_for_llms/",
-      "pushed_at": "2026-05-11",
-      "title": "Markdown browser for LLMs",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/jundot/omlx",
-      "pushed_at": "2026-05-11",
-      "title": "jundot/omlx",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/lsdefine/GenericAgent",
-      "pushed_at": "2026-05-11",
-      "title": "lsdefine/GenericAgent",
-      "score": 9
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-      "pushed_at": "2026-05-11",
-      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3804795647729411?f=rss",
-      "pushed_at": "2026-05-11",
-      "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3804282431659779?f=rss",
-      "pushed_at": "2026-05-11",
-      "title": "硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3805024994549251?f=rss",
-      "pushed_at": "2026-05-11",
-      "title": "Alphabet探索首次日元债券发售以支持AI扩张",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3805023424339456?f=rss",
-      "pushed_at": "2026-05-11",
-      "title": "OpenAI收购咨询公司Tomoro并成立新实体，加速企业级AI部署",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3805011485581065?f=rss",
-      "pushed_at": "2026-05-11",
-      "title": "阿里发布AI店小蜜，平均询单转化提升超10%",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1665436?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-11",
-      "title": "下个月的苹果 WWDC，假如 iCloud 变成 iClaw……?",
-      "score": 5
-    },
-    {
-      "url": "https://www.ifanr.com/1665401?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-11",
-      "title": "中国拿下这届 AI 顶会半壁江山，清华一家单挑斯坦福加 MIT",
-      "score": 5
-    },
-    {
-      "url": "https://www.ifanr.com/1665285?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-11",
-      "title": "我买了这些畅销书，但作者不是人",
-      "score": 8
-    },
-    {
-      "url": "http://www.geekpark.net/news/363963",
-      "pushed_at": "2026-05-11",
-      "title": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
-      "score": 5
-    },
-    {
-      "url": "http://www.geekpark.net/news/363937",
-      "pushed_at": "2026-05-11",
-      "title": "OTA 升级后续航减 200 KM，央视揭秘新能源汽车「锁电」真相；黄仁勋：别怕 AI，今天是应届生最好时机：微信测试「组合支付」功能｜极客早知道",
-      "score": 6
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1tb3g2r/turns_out_the_adult_content_industry_is_a/",
       "pushed_at": "2026-05-12",
       "title": "Turns out the adult content industry is a minefield for solo founders.",
@@ -13480,6 +13282,78 @@
       "url": "https://github.com/JustVugg/lumabri",
       "pushed_at": "2026-08-09",
       "title": "Show HN: Lumabri – What if LLMs worked like Napster?",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vky1si/i_created_a_bookmarklet_game_with_approximately/",
+      "pushed_at": "2026-08-10",
+      "title": "I created a Bookmarklet Game with approximately voice chat for any website - Metaverse?",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vki6ad/made_a_zerobloat_open_source_system_design_and/",
+      "pushed_at": "2026-08-10",
+      "title": "made a zero-bloat, open source system design and architecture diagramming tool",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vkptc4/i_spent_6_months_building_an_app_for_wedding/",
+      "pushed_at": "2026-08-10",
+      "title": "I spent 6 months building an app for wedding guests (solo, nights and weekends). it's live, and I'd love brutal feedback",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/Jackalope-Dev/allmcps-server",
+      "pushed_at": "2026-08-10",
+      "title": "Show HN: allmcps-server – MCP server for MCP servers",
+      "score": 6
+    },
+    {
+      "url": "https://graph2agent.github.io/",
+      "pushed_at": "2026-08-10",
+      "title": "Show HN: Graph2agent; Mermaid diagrams, explained for agents",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "pushed_at": "2026-08-10",
+      "title": "vitali87/code-graph-rag",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "pushed_at": "2026-08-10",
+      "title": "msitarzewski/agency-agents",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "pushed_at": "2026-08-10",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "pushed_at": "2026-08-10",
+      "title": "Comfy-Org/ComfyUI",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "pushed_at": "2026-08-10",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1673846?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-10",
+      "title": "AI 开始帮写朋友圈了，但我更想念「古法手作」文字",
+      "score": 8
+    },
+    {
+      "url": "http://www.geekpark.net/news/368625",
+      "pushed_at": "2026-08-10",
+      "title": "顶尖 AI 人才，不敢结婚",
       "score": 5
     }
   ]
