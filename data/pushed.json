@@ -1,294 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tb3g2r/turns_out_the_adult_content_industry_is_a/",
-      "pushed_at": "2026-05-12",
-      "title": "Turns out the adult content industry is a minefield for solo founders.",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tb22sw/i_refused_to_pay_for_wispr_flow_voicetotext_so_i/",
-      "pushed_at": "2026-05-12",
-      "title": "I refused to pay for Wispr Flow (voice-to-text) so I spent two weeks rebuilding it. Free, runs locally, macOS only.",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tbg0lq/i_used_claude_to_build_a_live_election_dashboard/",
-      "pushed_at": "2026-05-12",
-      "title": "I used Claude to build a live election dashboard in 2 days. It handled 430K requests from 24K visitors without spending money",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tbioy6/ive_been_building_a_finance_app_solo_its_finally/",
-      "pushed_at": "2026-05-12",
-      "title": "I've been building a finance app solo — it's finally ready for real testers — here's what I built and why",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tbhdrq/i_built_a_cost_tracking_cli_for_claude_code/",
-      "pushed_at": "2026-05-12",
-      "title": "I built a cost tracking CLI for Claude Code sessions",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tbgnzf/built_a_9pass_antillmdetection_api_after_my/",
-      "pushed_at": "2026-05-12",
-      "title": "Built a 9-pass anti-LLM-detection API after my account got called a bot",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tbfm3t/built_a_critic_that_reads_the_live_job_market/",
-      "pushed_at": "2026-05-12",
-      "title": "Built a critic that reads the live job market before reading your CV — free, no login",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tb4o95/is_it_easier_to_build_a_business_right_now_or_is/",
-      "pushed_at": "2026-05-12",
-      "title": "Is it easier to build a business right now or is that just what twitter wants us to believe",
-      "score": 5
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
-      "pushed_at": "2026-05-12",
-      "title": "[AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD",
-      "score": 7
-    },
-    {
-      "url": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
-      "pushed_at": "2026-05-12",
-      "title": "llm 0.32a2",
-      "score": 6
-    },
-    {
-      "url": "https://display.dev/",
-      "pushed_at": "2026-05-12",
-      "title": "Show HN: Display.dev, agent-native way to publish HTML or MD behind company auth",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/yashau/dexgram",
-      "pushed_at": "2026-05-12",
-      "title": "Show HN: Dexgram – Telegram to Codex Desktop Bridge for Windows",
-      "score": 6
-    },
-    {
-      "url": "https://codeberg.org/RalphWorkflow/Ralph-Workflow",
-      "pushed_at": "2026-05-12",
-      "title": "Show HN: Ralph Workflow - Simple Agent-Agnostic AI Orchestrator based on Ralph.",
-      "score": 5
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=48112832",
-      "pushed_at": "2026-05-12",
-      "title": "Show HN: Feeding agents with session recording data",
-      "score": 7
-    },
-    {
-      "url": "https://aion.quest/",
-      "pushed_at": "2026-05-12",
-      "title": "Show HN: Game evolves itself with your wishes",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/",
-      "pushed_at": "2026-05-12",
-      "title": "I got a real transformer language model running locally on a stock Game Boy Color!",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb9b0r/needle_we_distilled_gemini_tool_calling_into_a/",
-      "pushed_at": "2026-05-12",
-      "title": "Needle: We Distilled Gemini Tool Calling Into a 26M Model",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tayu5t/stop_wasting_electricity/",
-      "pushed_at": "2026-05-12",
-      "title": "Stop wasting electricity",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb6nkx/lets_build_claude_code_from_scratch/",
-      "pushed_at": "2026-05-12",
-      "title": "Let's build claude code from scratch!",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tansuo/found_a_way_to_cool_the_dgx/",
-      "pushed_at": "2026-05-12",
-      "title": "Found a way to cool the DGX",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbht4h/my_first_official_ai_research_paper_accepted_on/",
-      "pushed_at": "2026-05-12",
-      "title": "My First Official AI Research Paper Accepted on SSRN",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb3sja/magicquant_v20_hybrid_mixed_gguf_models_unsloth/",
-      "pushed_at": "2026-05-12",
-      "title": "MagicQuant (v2.0) - Hybrid Mixed GGUF Models + Unsloth Dynamic Learned Quant Configurations + Benchmark table with collapsed winners and more",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb0uln/examples_add_llamaeval_by_ggerganov_pull_request/",
-      "pushed_at": "2026-05-12",
-      "title": "examples : add llama-eval by ggerganov · Pull Request #21152 · ggml-org/llama.cpp",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb9pwn/luce_dflash_pflash_on_amd_strix_halo_qwen3627b_at/",
-      "pushed_at": "2026-05-12",
-      "title": "Luce DFlash + PFlash on AMD Strix Halo: Qwen3.6-27B at 2.23x decode and 3.05x prefill vs llama.cpp HIP",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb64km/1m_datasets_on_hf/",
-      "pushed_at": "2026-05-12",
-      "title": "1M datasets on HF !",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb160j/gemma_4_mtp_vs_dflash_on_1x_h100_dense_vs_moe/",
-      "pushed_at": "2026-05-12",
-      "title": "Gemma 4 MTP vs DFlash on 1x H100: dense vs MoE results",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb8d57/agentic_harness_for_theoretical_physics_research/",
-      "pushed_at": "2026-05-12",
-      "title": "Agentic harness for theoretical physics research",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbbh82/attention_drift_what_autoregressive_speculative/",
-      "pushed_at": "2026-05-12",
-      "title": "Attention Drift: What Autoregressive Speculative Decoding Models Learn",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb3zxp/local_llm_autocomplete_agentic_coding_on_a_single/",
-      "pushed_at": "2026-05-12",
-      "title": "Local LLM autocomplete + agentic coding on a single 16GB GPU + 64GB RAM",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbgtux/i_built_derpy_turtle_the_kokoro_trainer_a_gui_for/",
-      "pushed_at": "2026-05-12",
-      "title": "I built Derpy Turtle: The Kokoro Trainer, a GUI for training better Kokoro voices with RVC",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tax6hj/models_and_quants_quality_test_results_the/",
-      "pushed_at": "2026-05-12",
-      "title": "Models and Quants quality test results - the chessboard svg (Qwen3.6 27B/35B-A3B/Zaya1)",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1taz3eu/qwen36_27b_q5_k_m_mtp_256k_context_5090/",
-      "pushed_at": "2026-05-12",
-      "title": "Qwen3.6 27b q5_k_M MTP - 256k context - 5090",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/yikart/AiToEarn",
-      "pushed_at": "2026-05-12",
-      "title": "yikart/AiToEarn",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "pushed_at": "2026-05-12",
-      "title": "tinyhumansai/openhuman",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/millionco/react-doctor",
-      "pushed_at": "2026-05-12",
-      "title": "millionco/react-doctor",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "pushed_at": "2026-05-12",
-      "title": "AUTOMATIC1111/stable-diffusion-webui",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "pushed_at": "2026-05-12",
-      "title": "rasbt/LLMs-from-scratch",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "pushed_at": "2026-05-12",
-      "title": "NousResearch/hermes-agent",
-      "score": 7
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
-      "pushed_at": "2026-05-12",
-      "title": "Dessn raises $6M for its production-focused design tool",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3805672617959173?f=rss",
-      "pushed_at": "2026-05-12",
-      "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
-      "score": 8
-    },
-    {
-      "url": "https://www.ifanr.com/1665569?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-12",
-      "title": "Seedance 2.0 最强对手偷跑了",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1665516?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-12",
-      "title": "Markdown 已死，HTML 当立？",
-      "score": 5
-    },
-    {
-      "url": "http://www.geekpark.net/news/364060",
-      "pushed_at": "2026-05-12",
-      "title": "谷歌开了一场「读作 Android，写作 Gemini」的硬件发布会",
-      "score": 5
-    },
-    {
-      "url": "http://www.geekpark.net/news/364059",
-      "pushed_at": "2026-05-12",
-      "title": "在中国市场搞「付费订阅」，豆包咋想的？",
-      "score": 7
-    },
-    {
-      "url": "http://www.geekpark.net/news/364058",
-      "pushed_at": "2026-05-12",
-      "title": "对话维他动力余轶南：融资 5 亿，如何跨过从 Demo 到量产的 5 个月",
-      "score": 7
-    },
-    {
-      "url": "http://www.geekpark.net/news/364057",
-      "pushed_at": "2026-05-12",
-      "title": "传可灵计划独立融资上市：300 亿美元的快手长出 200 亿美元的 AI 视频子公司",
-      "score": 9
-    },
-    {
-      "url": "http://www.geekpark.net/news/364044",
-      "pushed_at": "2026-05-12",
-      "title": "OpenAI 前 CTO，拿出了一个「最人性」的 AI",
-      "score": 6
-    },
-    {
-      "url": "http://www.geekpark.net/news/364035",
-      "pushed_at": "2026-05-12",
-      "title": "0.2 元 / 通，淘天用 AI 店小蜜重新定义了电商客服价格",
-      "score": 8
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1tc99y5/i_built_a_craigslist_scraper_that_alerts_me_when/",
       "pushed_at": "2026-05-13",
       "title": "I built a Craigslist scraper that alerts me when used cars are priced under market and turned it into a SaaS",
@@ -13355,6 +13067,30 @@
       "pushed_at": "2026-08-10",
       "title": "顶尖 AI 人才，不敢结婚",
       "score": 5
+    },
+    {
+      "url": "https://www.bensbites.com/p/make-it-readable",
+      "pushed_at": "2026-08-11",
+      "title": "Make it readable",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/harveyai/harvey-labs",
+      "pushed_at": "2026-08-11",
+      "title": "harveyai/harvey-labs",
+      "score": 8
+    },
+    {
+      "url": "http://www.geekpark.net/news/368690",
+      "pushed_at": "2026-08-11",
+      "title": "AI 硬件都在做加法，阅星曈靠一块「减法屏」拿下近 5000 万融资",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vlp7it/guys_my_app_just_passed_3500_users/",
+      "pushed_at": "2026-08-11",
+      "title": "Guys my app just passed 3,500 users!",
+      "score": 6
     }
   ]
 }
