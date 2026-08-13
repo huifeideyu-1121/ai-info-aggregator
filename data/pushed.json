@@ -1,264 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tctwtp/sold_my_first_product_after_working_on_it_for_15/",
-      "pushed_at": "2026-05-14",
-      "title": "Sold my first product after working on it for 1.5 years",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tdcgbh/i_built_an_opensource_selfupdating_wiki_for_your/",
-      "pushed_at": "2026-05-14",
-      "title": "I built an open-source, self-updating wiki for your codebase",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tddpdn/agents_aggregator_live_tailing_multiple_coding/",
-      "pushed_at": "2026-05-14",
-      "title": "Agents aggregator - Live tailing multiple coding agents, view all your sessions",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1td5cii/60ish_mrr_saas_just_discovered_my_payment/",
-      "pushed_at": "2026-05-14",
-      "title": "60ish mrr saas, just discovered my payment processor is rejecting most of my customers",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tcmppj/i_made_usd_1000_from_a_useless_app_in_a_saturated/",
-      "pushed_at": "2026-05-14",
-      "title": "I made USD 1000 from a “useless” app in a saturated market. Here’s my journey.",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tcydts/i_sent_600_cold_emails_to_ontario_small/",
-      "pushed_at": "2026-05-14",
-      "title": "I sent 600 cold emails to Ontario small businesses and got 0 replies -- here's what the data actually says",
-      "score": 6
-    },
-    {
-      "url": "https://www.bensbites.com/p/agents-feedback-tip",
-      "pushed_at": "2026-05-14",
-      "title": "Agents feedback tip",
-      "score": 5
-    },
-    {
-      "url": "https://www.therundown.ai/p/the-enterprise-shift-openai-saw-coming",
-      "pushed_at": "2026-05-14",
-      "title": "The enterprise shift OpenAI saw coming",
-      "score": 8
-    },
-    {
-      "url": "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything",
-      "pushed_at": "2026-05-14",
-      "title": "datasette-ip-rate-limit 0.1a0",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/nimeshnayaju/markdown-parser",
-      "pushed_at": "2026-05-14",
-      "title": "Show HN: Parse LLM Markdown streams incrementally on the server or client",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/lucastononro/tiny-claude-recycler",
-      "pushed_at": "2026-05-14",
-      "title": "Show HN: Save tokens from Claude subscriptions now allowed",
-      "score": 6
-    },
-    {
-      "url": "https://velda.io",
-      "pushed_at": "2026-05-14",
-      "title": "Show HN: Velda – Run jobs with serverless GPUs, without container images",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/contextbridge/planbridge",
-      "pushed_at": "2026-05-14",
-      "title": "Show HN: PlanBridge: open-source tool for precise feedback on coding agent plans",
-      "score": 7
-    },
-    {
-      "url": "https://orobot.io/",
-      "pushed_at": "2026-05-14",
-      "title": "Show HN: Browse 61 3D Printable Robots",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1td53ii/the_rtx_5000_pro_48gb_arrived_and_it_is_better/",
-      "pushed_at": "2026-05-14",
-      "title": "The RTX 5000 PRO (48GB) arrived and it is better than I expected.",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdb4ic/a_first_comprehensive_study_of_turboquant/",
-      "pushed_at": "2026-05-14",
-      "title": "A First Comprehensive Study of TurboQuant: Accuracy and Performance",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1td6ia5/i_tracked_eu_gpu_prices_across_15_stores_for_50/",
-      "pushed_at": "2026-05-14",
-      "title": "I tracked EU GPU prices across 15 stores for 50+ days - RTX 5090 is the only card not dropping in price",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tcxb77/nvfp4_kimi26_and_kimi_25_released_by_nvidia/",
-      "pushed_at": "2026-05-14",
-      "title": "NVFP4 Kimi2.6 and Kimi 2.5 released by Nvidia",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1td3fhc/inclusionairing261t_hugging_face/",
-      "pushed_at": "2026-05-14",
-      "title": "inclusionAI/Ring-2.6-1T · Hugging Face",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tcwqdd/scenema_audio_zeroshot_expressive_voice_cloning/",
-      "pushed_at": "2026-05-14",
-      "title": "Scenema Audio: Zero-shot expressive voice cloning and speech generation",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdegh0/i_trained_qwen35_to_jailbreak_itself_with_rl_then/",
-      "pushed_at": "2026-05-14",
-      "title": "I trained Qwen3.5 to jailbreak itself with RL, then used the failures to improve its defenses",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tckzy2/multitoken_prediction_mtp_for_qwen_on_llamacpp/",
-      "pushed_at": "2026-05-14",
-      "title": "Multi-Token Prediction (MTP) for Qwen on LLaMA.cpp + TurboQuant",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1td7gp8/introducing_cyankiwi_awq_4bit_quantization_2605/",
-      "pushed_at": "2026-05-14",
-      "title": "Introducing cyankiwi AWQ 4-bit Quantization — 26.05 update",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tcu5r8/automated_ai_researcher_running_locally_with/",
-      "pushed_at": "2026-05-14",
-      "title": "Automated AI researcher running locally with llama.cpp",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1td6et1/linux_why_does_llamacpp_rocm_consume_so_much_vram/",
-      "pushed_at": "2026-05-14",
-      "title": "Linux - Why does llama.cpp ROCm consume SO much VRAM for KV cache compared to Vulkan?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tcrrfq/the_the_future_is_fictional_problem_of_many_local/",
-      "pushed_at": "2026-05-14",
-      "title": "The \"the future is fictional\" problem of many local LLMs",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1td8vfh/developing_open_source_llm_from_ground_up_from/",
-      "pushed_at": "2026-05-14",
-      "title": "Developing open source LLM from ground up from pretrain - rlhf(PPO/GRPO)",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tcsqwk/built_an_opensource_oneprompttocinematicreel/",
-      "pushed_at": "2026-05-14",
-      "title": "Built an open-source one-prompt-to-cinematic-reel pipeline on a single GPU — FLUX.2 [klein] for character keyframes, Wan2.2-I2V for animation, vision critic with auto-retry, music + 9-language narration in the same pipeline",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1td9stc/llamacpp_constantly_reprocessing_huge_prompts/",
-      "pushed_at": "2026-05-14",
-      "title": "llama.cpp constantly reprocessing huge prompts with opencode/pi.dev",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/influxdata/telegraf",
-      "pushed_at": "2026-05-14",
-      "title": "influxdata/telegraf",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "pushed_at": "2026-05-14",
-      "title": "K-Dense-AI/scientific-agent-skills",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "pushed_at": "2026-05-14",
-      "title": "danielmiessler/Personal_AI_Infrastructure",
-      "score": 4
-    },
-    {
-      "url": "https://github.com/ArthurBrussee/brush",
-      "pushed_at": "2026-05-14",
-      "title": "ArthurBrussee/brush",
-      "score": 7
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-      "pushed_at": "2026-05-14",
-      "title": "What happens when AI starts building itself?",
-      "score": 5
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
-      "pushed_at": "2026-05-14",
-      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
-      "score": 6
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "pushed_at": "2026-05-14",
-      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3808710182034944?f=rss",
-      "pushed_at": "2026-05-14",
-      "title": "腾讯，把AI塞入一切",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3807831328300549?f=rss",
-      "pushed_at": "2026-05-14",
-      "title": "36氪首发 | 九号领投一家AI智能影像设备公司，在巨头夹缝中年增长近4倍",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3809748579704323?f=rss",
-      "pushed_at": "2026-05-14",
-      "title": "Figma第一季度营收达3.334亿美元，同比增长46%",
-      "score": 5
-    },
-    {
-      "url": "https://www.ifanr.com/1665672?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-14",
-      "title": "杀死 ChatGPT 聊天框的，是「鼠标」",
-      "score": 5
-    },
-    {
-      "url": "https://www.ifanr.com/1665838?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-14",
-      "title": "黄仁勋的 Token 经济，李彦宏的 DAA，AI 度量衡之争才刚开始",
-      "score": 8
-    },
-    {
-      "url": "http://www.geekpark.net/news/364208",
-      "pushed_at": "2026-05-14",
-      "title": "DeepSeek 融资后，大模型领域会有什么新格局？",
-      "score": 5
-    },
-    {
-      "url": "http://www.geekpark.net/news/364177",
-      "pushed_at": "2026-05-14",
-      "title": "投中了理想、MiniMax 后，他说，AI 时代仍然要找「让人汗毛直竖」的创业者",
-      "score": 5
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1te0rou/left_my_95_to_build_something_real_2_months_in_27/",
       "pushed_at": "2026-05-15",
       "title": "Left my 9-5 to build something real. 2 months in, 27 users, 0 paid. Roast me or help me - I'll take either",
@@ -12899,6 +12641,84 @@
       "pushed_at": "2026-08-12",
       "title": "AI 入口，开始收费",
       "score": 8
+    },
+    {
+      "url": "https://github.com/MSKazemi/yazses",
+      "pushed_at": "2026-08-13",
+      "title": "Show HN: YazSes – offline hold-to-talk voice dictation for Linux/macOS/Windows",
+      "score": 5
+    },
+    {
+      "url": "https://miragebrowser.xyz/",
+      "pushed_at": "2026-08-13",
+      "title": "Show HN: Mirage Browser, the deadest of internets. ~1000 tok/s 1998 internet",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/",
+      "pushed_at": "2026-08-13",
+      "title": "Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnod14/dotsstudiodots3noteprev_hugging_face/",
+      "pushed_at": "2026-08-13",
+      "title": "dots-studio/dots3-note-prev · Hugging Face",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnltec/gemma_4_12b_q3_855_coding_performance_from/",
+      "pushed_at": "2026-08-13",
+      "title": "Gemma 4 12B Q3: +8.55% Coding Performance From Tensor-Level Quantization Allocation",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "pushed_at": "2026-08-13",
+      "title": "NVIDIA-NeMo/Switchyard",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/embabel/embabel-agent",
+      "pushed_at": "2026-08-13",
+      "title": "embabel/embabel-agent",
+      "score": 4
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "pushed_at": "2026-08-13",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "pushed_at": "2026-08-13",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1675083?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-13",
+      "title": "首发体验 | DeepSeek Harness 来了，它不想做下一个Codex",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1675007?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-13",
+      "title": "具身智能迎来「DeepSeek 时刻」：国产机器人用更低成本反超 Figure AI",
+      "score": 8
+    },
+    {
+      "url": "http://www.geekpark.net/news/368777",
+      "pushed_at": "2026-08-13",
+      "title": "实测正式版 DeepSeek V4 Pro，补齐 Agent 能力｜AI 上新",
+      "score": 9
+    },
+    {
+      "url": "http://www.geekpark.net/news/368766",
+      "pushed_at": "2026-08-13",
+      "title": "「美国豆包手机」全系涨价，新东西全留给了 Gemini",
+      "score": 5
     }
   ]
 }
