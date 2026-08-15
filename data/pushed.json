@@ -1,156 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tf06q9/made_13k_in_the_first_30_days_launch/",
-      "pushed_at": "2026-05-16",
-      "title": "Made 1.3K in the first 30 days launch",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tf19d7/claude_take_the_wheel/",
-      "pushed_at": "2026-05-16",
-      "title": "Claude take the wheel",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tf3rao/i_got_47_signups_in_2_weeks_by_commenting_on_wsb/",
-      "pushed_at": "2026-05-16",
-      "title": "I got 47 signups in 2 weeks by commenting on WSB with real data. No ads. No budget. Here's exactly what I did.",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tf725l/i_built_a_reallife_pokédex_where_you_collect/",
-      "pushed_at": "2026-05-16",
-      "title": "I built a real-life Pokédex where you collect nationalities of people you meet",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tf5n2d/got_my_second_subscription_since_launch_i_so_much/",
-      "pushed_at": "2026-05-16",
-      "title": "Got my second subscription since launch! I so much hope that my product will help other founders! 🫠",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tf9e5u/ever_considered_ascii/",
-      "pushed_at": "2026-05-16",
-      "title": "Ever considered ascii?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tep54e/organic_seo_no_longer_holding_value/",
-      "pushed_at": "2026-05-16",
-      "title": "Organic SEO no longer holding value",
-      "score": 5
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
-      "pushed_at": "2026-05-16",
-      "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
-      "score": 9
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=48164588",
-      "pushed_at": "2026-05-16",
-      "title": "Show HN: QuantTakeoff – Construction PDFs to takeoff and 3D scene",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf3p6c/local_qwen_36_vs_frontier_models_on_a_coding/",
-      "pushed_at": "2026-05-16",
-      "title": "Local Qwen 3.6 vs frontier models on a coding primitive: single-file HTML canvas driving animation - results and GIFs",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1teqnf2/thats_a_good_news/",
-      "pushed_at": "2026-05-16",
-      "title": "That's a good news...",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf52m2/gemma4ortenzyathecreativewordsmith31bituncensoredh/",
-      "pushed_at": "2026-05-16",
-      "title": "gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic is Out Now, A Writing Finetune that Aims to Improve Gemma 4 31B it Writing Quality with More Natural English and Better Prose, Good for Creative Writings, Translations and RPs!",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf6qeb/qwen35122bq5mtp_qwen35122bq6mtp/",
-      "pushed_at": "2026-05-16",
-      "title": "Qwen3.5-122B-Q5-MTP - Qwen3.5-122B-Q6-MTP",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1temio0/qwen3635ba3b_and_9b_are_officially_on_the_public/",
-      "pushed_at": "2026-05-16",
-      "title": "Qwen3.6-35B-A3B and 9B are officially on the public Terminal-Bench 2.0 leaderboard!",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf2cxh/how_i_started_programming_differently_over_the/",
-      "pushed_at": "2026-05-16",
-      "title": "How I started programming differently over the last year. What about you?",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tez37r/qwen_27b_mtp_config_llamacpp_single_3090/",
-      "pushed_at": "2026-05-16",
-      "title": "Qwen 27b MTP Config, Llama.cpp Single 3090",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf15eh/github_richardr1126openreader_an_opensource/",
-      "pushed_at": "2026-05-16",
-      "title": "GitHub - richardr1126/openreader: An open-source read-along document reader server with high-quality TTS options, synchronized highlighting, and audiobook export for EPUB, PDF, DOCX, TXT, and MD.",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf7auf/now_that_mtp_is_merged_whats_the_best_outputs/",
-      "pushed_at": "2026-05-16",
-      "title": "Now that MTP is merged... What's the best outputs you're getting on Qwen 3.6 35B on 2x3090s?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1teqjjl/reduce_your_gpu_power_limit/",
-      "pushed_at": "2026-05-16",
-      "title": "Reduce your GPU power limit",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf954z/anyone_else_running_one_of_the_prerelease/",
-      "pushed_at": "2026-05-16",
-      "title": "Anyone else running one of the pre-release branches of MTP support to maintain the higher speeds?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tewitj/extension_idea_llamaserver_with_custom_samplers/",
-      "pushed_at": "2026-05-16",
-      "title": "Extension idea: llama-server with custom samplers",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/anthropics/skills",
-      "pushed_at": "2026-05-16",
-      "title": "anthropics/skills",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
-      "pushed_at": "2026-05-16",
-      "title": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
-      "pushed_at": "2026-05-16",
-      "title": "joeseesun/qiaomu-anything-to-notebooklm",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3810520138243593?f=rss",
-      "pushed_at": "2026-05-16",
-      "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
-      "score": 7
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1tftey0/small_update_since_previous_post_my_random_chat/",
       "pushed_at": "2026-05-17",
       "title": "Small update since previous post — my random chat project just crossed 350K Google Search clicks.",
@@ -12586,6 +12436,54 @@
       "url": "https://github.com/3b1b/manim",
       "pushed_at": "2026-08-14",
       "title": "3b1b/manim",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/cactus-compute/needle",
+      "pushed_at": "2026-08-15",
+      "title": "cactus-compute/needle",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "pushed_at": "2026-08-15",
+      "title": "cathrynlavery/diagram-design",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/github/spec-kit",
+      "pushed_at": "2026-08-15",
+      "title": "github/spec-kit",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+      "pushed_at": "2026-08-15",
+      "title": "deepseek-ai/awesome-deepseek-agent",
+      "score": 8
+    },
+    {
+      "url": "http://www.geekpark.net/news/368851",
+      "pushed_at": "2026-08-15",
+      "title": "当 AI 开始批量写 HTML，WorkBuddy 想解决「生成之后」的问题",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vpbwkv/i_gave_claude_a_motion_design_editor_this_is_what/",
+      "pushed_at": "2026-08-15",
+      "title": "I gave Claude a motion design editor. This is what it made",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vpelzb/i_made_an_ai_generated_cowboy_ad_for_my_free/",
+      "pushed_at": "2026-08-15",
+      "title": "I made an AI generated Cowboy ad for my free browser game as a joke but it brought in 70 new players",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vpbekh/my_side_hustle_dictation_tool_achieved_a_big/",
+      "pushed_at": "2026-08-15",
+      "title": "My side hustle Dictation tool achieved a big milestone, emotionally 😭",
       "score": 5
     }
   ]
