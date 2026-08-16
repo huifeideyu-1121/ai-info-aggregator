@@ -1,192 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tftey0/small_update_since_previous_post_my_random_chat/",
-      "pushed_at": "2026-05-17",
-      "title": "Small update since previous post — my random chat project just crossed 350K Google Search clicks.",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tg4ukv/im_building_a_finance_app_that_tells_you_the/",
-      "pushed_at": "2026-05-17",
-      "title": "I’m building a finance app that tells you the stories about your money. Useful or gimmicky?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tg4rpn/built_a_screenshottoreact_converter_got_real/",
-      "pushed_at": "2026-05-17",
-      "title": "Built a screenshot-to-React converter, got real users, but it didn't take off. Can I have honest feedback?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tg4ibt/built_2_ai_document_tools_one_for_contractors_one/",
-      "pushed_at": "2026-05-17",
-      "title": "Built 2 AI document tools — one for contractors, one for real estate agents — looking for feedback",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tfcyue/5_years_of_codegres_from_a_garage_dream_to_1m_app/",
-      "pushed_at": "2026-05-17",
-      "title": "5 Years of Codegres: From a Garage Dream to 1M+ App Downloads",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tfn2vg/who_actually_needs_data_analysis_aside_from_tech/",
-      "pushed_at": "2026-05-17",
-      "title": "Who actually needs data analysis aside from tech?",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/alamops/agetor",
-      "pushed_at": "2026-05-17",
-      "title": "Show HN: Agetor - An open-source Harness Orchestrator",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/theo-kirby/chassis",
-      "pushed_at": "2026-05-17",
-      "title": "Show HN: Multi-agent orchestration layer for experimentation",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/zoharbabin/due-diligence-agents",
-      "pushed_at": "2026-05-17",
-      "title": "Show HN: Due Diligence Agents – 13 AI agents for M&A contract analysis",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/MohammdKopa/kami-subs",
-      "pushed_at": "2026-05-17",
-      "title": "Show HN: Kami Subs – Live AI subtitles overlay for any browser video",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfzsd6/m5_vs_dgx_spark_vs_strix_halo_vs_rtx_6000/",
-      "pushed_at": "2026-05-17",
-      "title": "M5 vs DGX Spark vs Strix Halo vs RTX 6000",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tft1il/llama_avoid_copying_logits_during_prompt_decode/",
-      "pushed_at": "2026-05-17",
-      "title": "llama: avoid copying logits during prompt decode in MTP by am17an · Pull Request #23198 · ggml-org/llama.cpp",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfmocw/85_gpuhours_comparing_5_abliteration_methods_on/",
-      "pushed_at": "2026-05-17",
-      "title": "85 GPU-hours comparing 5 abliteration methods on Qwen3.6-27B: benchmarks, safety, weight forensics - Abliterlitics",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tftaaa/the_power_of_structured_workflows_and_small_local/",
-      "pushed_at": "2026-05-17",
-      "title": "The power of structured workflows and small local models",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tflngz/dual_gpu_llamacpp_speedup/",
-      "pushed_at": "2026-05-17",
-      "title": "Dual GPU llama.cpp speedup",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tftg09/rocm_713_nightly_adds_strix_halo_optimizations/",
-      "pushed_at": "2026-05-17",
-      "title": "ROCm 7.13 nightly adds strix halo optimizations",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg4mw0/benchmarking_vllm_vs_sglang_vs_llamacpp_on_a/",
-      "pushed_at": "2026-05-17",
-      "title": "Benchmarking vLLM vs SGLang vs llama.cpp on a mixed Blackwell/Ada cluster",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg37t6/pushing_the_limit_minimax_m27_q8_0_128k_on_2x3090/",
-      "pushed_at": "2026-05-17",
-      "title": "Pushing the limit: minimax m2.7 q8_0 128k on 2x3090, 256GB DDR4",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfqfvt/developers_who_use_local_ai_q4_0_vs_q8_0_kv_quant/",
-      "pushed_at": "2026-05-17",
-      "title": "Developers who use local AI - Q4_0 vs Q8_0 KV quant?",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfxah9/moving_from_composer_2kimi_26_to_qwen3635ba3b/",
-      "pushed_at": "2026-05-17",
-      "title": "Moving from Composer 2/Kimi 2.6 to Qwen3.6:35b-a3b",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfin40/jackrongqwopus359bcodergguf_hugging_face/",
-      "pushed_at": "2026-05-17",
-      "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF · Hugging Face",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg0me5/grafting_vision_onto_text_models_for_fun_and/",
-      "pushed_at": "2026-05-17",
-      "title": "Grafting vision onto text models for fun and profit.",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg4ux6/followup_adding_ollama_support_to_my_opensource/",
-      "pushed_at": "2026-05-17",
-      "title": "Follow-up: adding Ollama support to my open-source cursor-aware AI app - looking for beta testers with vision-capable local models",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfsmov/mirothinker17_an_openweight_deep_research_agent/",
-      "pushed_at": "2026-05-17",
-      "title": "MiroThinker-1.7, an open-weight deep research agent (Qwen3 MoE base) — mini is 30B/3B active, curious what tok/s people get on consumer hardware",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfpwc6/recent_developments_in_llm_architectures_kv/",
-      "pushed_at": "2026-05-17",
-      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tg3ssd/llms_on_android_snapdragon_8_elite_moe_experience/",
-      "pushed_at": "2026-05-17",
-      "title": "LLM's on Android (Snapdragon 8 Elite) MOE Experience",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/colbymchenry/codegraph",
-      "pushed_at": "2026-05-17",
-      "title": "colbymchenry/codegraph",
-      "score": 9
-    },
-    {
-      "url": "https://36kr.com/p/3812925591887368?f=rss",
-      "pushed_at": "2026-05-17",
-      "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3812800346742274?f=rss",
-      "pushed_at": "2026-05-17",
-      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3814021584068105?f=rss",
-      "pushed_at": "2026-05-17",
-      "title": "阳狮集团宣布以22亿美元全现金收购LiveRamp",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3813992251989504?f=rss",
-      "pushed_at": "2026-05-17",
-      "title": "数据中心运营商DayOne正考虑在新加坡和美国双重上市",
-      "score": 8
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1tglk9l/got_my_first_paying_users_honestly_did_not_expect/",
       "pushed_at": "2026-05-19",
       "title": "Got my first paying users. Honestly did not expect it to feel this weird.",
@@ -12484,6 +12298,60 @@
       "url": "https://www.reddit.com/r/SideProject/comments/1vpbekh/my_side_hustle_dictation_tool_achieved_a_big/",
       "pushed_at": "2026-08-15",
       "title": "My side hustle Dictation tool achieved a big milestone, emotionally 😭",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "pushed_at": "2026-08-16",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vq6v5x/i_open_sourced_the_bridge_i_use_to_let_normal/",
+      "pushed_at": "2026-08-16",
+      "title": "I open sourced the bridge I use to let normal ChatGPT operate my Mac",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "pushed_at": "2026-08-16",
+      "title": "MakazhanAlpamys/Soup",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "pushed_at": "2026-08-16",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vq9ool/my_chrome_extension_went_from_60_to_3500_users_in/",
+      "pushed_at": "2026-08-16",
+      "title": "My Chrome extension went from 60 to 3,500 users in 4 days (and I got a bit lucky)",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1675326?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-16",
+      "title": "我用 161 个新闻源「养」了个 AI 主编，它比我更懂什么叫「大新闻」｜附教程",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vpyoat/made_a_mosaic_generator_for_my_wifes_anniversary/",
+      "pushed_at": "2026-08-16",
+      "title": "Made a mosaic generator for my wife's anniversary, nobody wanted it as a SaaS, then stumbled into the real use cas",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vpy8lg/first_paying_customer_after_20_nightsandweekends/",
+      "pushed_at": "2026-08-16",
+      "title": "First paying customer after 20 nights-and-weekends",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vq9g3k/shipped_a_shared_calendar_lists_app_for_families/",
+      "pushed_at": "2026-08-16",
+      "title": "Shipped: a shared calendar + lists app for families - getquok.com",
       "score": 5
     }
   ]
