@@ -1,108 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmq4s6/hipengine_fast_native_qwen_36_inference_for_rdna3/",
-      "pushed_at": "2026-05-24",
-      "title": "hipEngine: Fast Native Qwen 3.6 Inference for RDNA3 (Strix Halo, 7900 XTX)",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tm93ng/how_i_do_use_the_recent_llamacpp_native_tools_to/",
-      "pushed_at": "2026-05-24",
-      "title": "How I do use the recent llama.cpp native tools to do web rag a.k.a. web_fetch (or anything else for the matter) directly from inside the llama-server's webui",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tmf3ct/after_6_months_of_building_cate_v1_is_finally_out/",
-      "pushed_at": "2026-05-24",
-      "title": "After 6 months of building, Cate v1 is finally out",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmf63y/bitcpmcann_native_158bit_large_language_model/",
-      "pushed_at": "2026-05-24",
-      "title": "BitCPM-CANN: Native 1.58-Bit Large Language Model Training on Ascend NPU",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "pushed_at": "2026-05-24",
-      "title": "mukul975/Anthropic-Cybersecurity-Skills",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/NVlabs/LongLive",
-      "pushed_at": "2026-05-24",
-      "title": "NVlabs/LongLive",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tmi2ck/spike_use_your_web_ai_subscriptions_as_a_free/",
-      "pushed_at": "2026-05-24",
-      "title": "Spike – Use your Web AI subscriptions as a free local API for your projects",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tms2rr/i_got_tired_of_starting_over_when_hitting_usage/",
-      "pushed_at": "2026-05-24",
-      "title": "I got tired of starting over when hitting usage limits",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tminlo/i_built_a_git_like_interface_for_ai_agents/",
-      "pushed_at": "2026-05-24",
-      "title": "I built a Git like interface for AI Agent's memory/context with ClaudeCode, OpenCode, Copilot CLI .",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/acatovic/ai-game-studio",
-      "pushed_at": "2026-05-24",
-      "title": "Show HN: Simple Sprite Sheet Generation",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tm0k2l/tts_benchmark_comparison_all_known_tts_up_until/",
-      "pushed_at": "2026-05-24",
-      "title": "TTS Benchmark Comparison (all known TTS up until May 2026)",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/presenton/presenton",
-      "pushed_at": "2026-05-24",
-      "title": "presenton/presenton",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tmftei/14_users_after_4_weeks_i_am_happy/",
-      "pushed_at": "2026-05-24",
-      "title": "14 Users after 4 weeks: I am happy",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/AlexWasHeree/NoteCast",
-      "pushed_at": "2026-05-24",
-      "title": "Show HN: Local note engine uses LLM to organize notes into a knowledge graph",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/kimjune01/swebench-verified",
-      "pushed_at": "2026-05-24",
-      "title": "Show HN: 97% on SWE-bench Verified with subscription-token agents",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmeknt/gpu_vram_only_for_small_models_with_llamacpp_is/",
-      "pushed_at": "2026-05-24",
-      "title": "GPU VRAM only for small models with llama.cpp: is it possible?",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3823926520435075?f=rss",
-      "pushed_at": "2026-05-24",
-      "title": "内外资机构密集调研，瞄准A股景气赛道",
-      "score": 5
-    },
-    {
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnn29i/update_on_12x32gb_sxm_v100_cluster_local_ai_for/",
       "pushed_at": "2026-05-26",
       "title": "Update on 12x32gb sxm v100 cluster / local AI for legal drafting",
@@ -11291,6 +11189,24 @@
       "pushed_at": "2026-08-22",
       "title": "PostHog/posthog",
       "score": 4
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vwkafd/i_made_an_agent_that_can_doomscroll_on_instagram/",
+      "pushed_at": "2026-08-23",
+      "title": "I made an agent that can doomscroll on instagram and find viral videos for my product",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vweiu8/i_got_tired_of_juggling_5_different_apps_to_learn/",
+      "pushed_at": "2026-08-23",
+      "title": "I got tired of juggling 5 different apps to learn a language, so I built one that does it all",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1676208?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-23",
+      "title": "AI 即将接管流量，而广告正在疯狂「末日反扑」",
+      "score": 5
     }
   ]
 }
