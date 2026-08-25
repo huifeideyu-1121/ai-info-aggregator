@@ -1,240 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnn29i/update_on_12x32gb_sxm_v100_cluster_local_ai_for/",
-      "pushed_at": "2026-05-26",
-      "title": "Update on 12x32gb sxm v100 cluster / local AI for legal drafting",
-      "score": 9
-    },
-    {
-      "url": "https://www.ifanr.com/1666847?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-26",
-      "title": "将 600 亿参数大模型装进手机的瓶颈，终于被中国 AI 公司突破了",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tn43cd/faurya_privacyfirst_analytics_that_connects/",
-      "pushed_at": "2026-05-26",
-      "title": "Faurya - privacy-first analytics that connects traffic sources to Stripe revenue.",
-      "score": 8
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
-      "pushed_at": "2026-05-26",
-      "title": "🎙️ How I AI: How the engineer behind Claude Cowork actually uses Claude Cowork & What launched at Google I/O 2026",
-      "score": 8
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=48271937",
-      "pushed_at": "2026-05-26",
-      "title": "Show HN: Unsiloed AI – #1 on olmOCR-Bench",
-      "score": 8
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=48271766",
-      "pushed_at": "2026-05-26",
-      "title": "Show HN: AI skills for program / project / delivery managers",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnfqng/cuda_add_fast_walshhadamard_transform_by_am17an/",
-      "pushed_at": "2026-05-26",
-      "title": "CUDA: add fast walsh-hadamard transform by am17an · Pull Request #23615 · ggml-org/llama.cpp",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmyln6/1000_tps_generation_on_qwen36_27b_with_v100s/",
-      "pushed_at": "2026-05-26",
-      "title": "1000 tps generation on Qwen3.6 27B with V100s",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn6v0r/oscar_rotationzoo_offline_spectral/",
-      "pushed_at": "2026-05-26",
-      "title": "OSCAR RotationZoo - Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "pushed_at": "2026-05-26",
-      "title": "anthropics/knowledge-work-plugins",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3824073646624899?f=rss",
-      "pushed_at": "2026-05-26",
-      "title": "36氪首发 | 3D打印齿科龙头要切入桌面全彩造物，获君联、达晨等3亿+融资",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3825353629782912?f=rss",
-      "pushed_at": "2026-05-26",
-      "title": "多家人工智能企业月内斩获亿元级融资",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3825360953971593?f=rss",
-      "pushed_at": "2026-05-26",
-      "title": "“零一汽车”完成2亿美元B2轮融资",
-      "score": 8
-    },
-    {
-      "url": "https://www.ifanr.com/1666548?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-05-26",
-      "title": "DeepSeek 要用蜜雪冰城的打法，做中国版 Claude Code",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tn7ssn/i_built_smartie_an_opensource_screen_recorder/",
-      "pushed_at": "2026-05-26",
-      "title": "I built SMARTIE - an open-source screen recorder that automatically adds smart effects to a video (from scratch)",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn0jyp/server_fix_checkpoints_creation_by_jacekpoplawski/",
-      "pushed_at": "2026-05-26",
-      "title": "server: fix checkpoints creation by jacekpoplawski · Pull Request #22929 · ggml-org/llama.cpp",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/earendil-works/pi",
-      "pushed_at": "2026-05-26",
-      "title": "earendil-works/pi",
-      "score": 7
-    },
-    {
-      "url": "https://www.qbitai.com/2026/05/424277.html",
-      "pushed_at": "2026-05-26",
-      "title": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tnha90/i_built_coauthored_by_claude_a_realtime_3d_orbit/",
-      "pushed_at": "2026-05-26",
-      "title": "I built (Co-authored by claude) a real-time 3D orbit tracker with an AI agent as a portfolio project - https://satlas.app",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tnj22g/built_a_gemini_watermark_remover_1500_daily/",
-      "pushed_at": "2026-05-26",
-      "title": "Built a Gemini watermark remover — 1500 daily visitors in 3 months, here's what worked",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tnnljx/i_built_a_website_that_shows_where_your_federal/",
-      "pushed_at": "2026-05-26",
-      "title": "I built a website that shows where your federal taxes go + lets you run “what if” tax scenarios",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tn8vdj/built_a_voice_of_customer_tool_for_my_first_client/",
-      "pushed_at": "2026-05-26",
-      "title": "Built a voice of customer tool for my first client!",
-      "score": 6
-    },
-    {
-      "url": "https://www.therundown.ai/p/google-tops-openai-math-breakthrough-9-to-1",
-      "pushed_at": "2026-05-26",
-      "title": "Google tops OpenAI's math breakthrough — 9 to 1",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/tantara/openbrief",
-      "pushed_at": "2026-05-26",
-      "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnbz23/is_qwen36_current_king_for_local_agentic_use/",
-      "pushed_at": "2026-05-26",
-      "title": "Is Qwen3.6 current king for local agentic use?",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnbskt/full_attention_strikes_back_transferring_full/",
-      "pushed_at": "2026-05-26",
-      "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tne40m/llamacpp_split_mode_tensor_fix_incoming/",
-      "pushed_at": "2026-05-26",
-      "title": "Llama.cpp : Split Mode Tensor Fix Incoming?",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn0t7u/qwen_36_benchmarks_on_2x_rtx_pro_6000/",
-      "pushed_at": "2026-05-26",
-      "title": "Qwen 3.6 benchmarks on 2x RTX PRO 6000",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/blakeblackshear/frigate",
-      "pushed_at": "2026-05-26",
-      "title": "blakeblackshear/frigate",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3824164325412992?f=rss",
-      "pushed_at": "2026-05-26",
-      "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3824158896312709?f=rss",
-      "pushed_at": "2026-05-26",
-      "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tnf59v/tired_of_chatgpt_inventing_taken_domain_names_so/",
-      "pushed_at": "2026-05-26",
-      "title": "Tired of ChatGPT inventing taken domain names so i built a tool that only shows available ones",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tnl7rg/what_ive_learned_after_100_users/",
-      "pushed_at": "2026-05-26",
-      "title": "what I've learned after 100 users",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tnk4yj/built_an_ai_wedding_planner_app_so_i_dont_have_to/",
-      "pushed_at": "2026-05-26",
-      "title": "Built an AI wedding planner app, so I don't have to help my GF planning our own wedding - would love a roast",
-      "score": 5
-    },
-    {
-      "url": "https://inktag.io",
-      "pushed_at": "2026-05-26",
-      "title": "Show HN: Built a tool to create brand-consistent images using AI",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/manaflow-ai/cmux",
-      "pushed_at": "2026-05-26",
-      "title": "manaflow-ai/cmux",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3824601267196037?f=rss",
-      "pushed_at": "2026-05-26",
-      "title": "消除“罪证”：给写作去除“AI味”的不完全手册（2026版）",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3824154127093892?f=rss",
-      "pushed_at": "2026-05-26",
-      "title": "圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3824089662853513?f=rss",
-      "pushed_at": "2026-05-26",
-      "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
-      "score": 5
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1toa1yo/4_weeks_of_building_a_gumroad_product_from/",
       "pushed_at": "2026-05-27",
       "title": "4 weeks of building a Gumroad product from scratch. Real numbers, slow progress, still here.",
@@ -11266,6 +11032,72 @@
       "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
       "pushed_at": "2026-08-24",
       "title": "How to encourage smarter AI use in the classroom",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/openclaw/openclaw",
+      "pushed_at": "2026-08-25",
+      "title": "openclaw/openclaw",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "pushed_at": "2026-08-25",
+      "title": "AgriciDaniel/claude-obsidian",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "pushed_at": "2026-08-25",
+      "title": "tashfeenahmed/freellmapi",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "pushed_at": "2026-08-25",
+      "title": "tinyhumansai/openhuman",
+      "score": 8
+    },
+    {
+      "url": "http://www.geekpark.net/news/369324",
+      "pushed_at": "2026-08-25",
+      "title": "《有头有脸的大模型公司，集体搞起「匿名公测」》",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vxuug4/i_got_my_first_sale/",
+      "pushed_at": "2026-08-25",
+      "title": "I got my first sale🥳",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "pushed_at": "2026-08-25",
+      "title": "NousResearch/hermes-agent",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "pushed_at": "2026-08-25",
+      "title": "anthropics/claude-plugins-community",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "pushed_at": "2026-08-25",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "score": 7
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "pushed_at": "2026-08-25",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "score": 5
+    },
+    {
+      "url": "http://www.geekpark.net/news/369344",
+      "pushed_at": "2026-08-25",
+      "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
       "score": 5
     }
   ]
