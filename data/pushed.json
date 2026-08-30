@@ -1,162 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1trw4ue/i_pentested_a_handful_of_vibe_coded_apps_from/",
-      "pushed_at": "2026-05-31",
-      "title": "I pen-tested a handful of vibe coded apps from this sub. What I found should genuinely scare you.",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ts93bn/website_gets_about_1000_visitors_daily_but_i_am/",
-      "pushed_at": "2026-05-31",
-      "title": "Website gets about 1000 visitors daily, but I am struggling to monetize",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ts2ojr/finally_got_my_first_sale_with_my_saas_small_win/",
-      "pushed_at": "2026-05-31",
-      "title": "Finally got my first sale with my SaaS - small win but feels huge",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tsczgq/solo_side_project_update_228k_clicks_118m/",
-      "pushed_at": "2026-05-31",
-      "title": "Solo side project update: 22.8k clicks, 1.18M impressions, and a lot of questions",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ts9be6/i_built_a_daily_ai_brief_that_tracks_every_saas/",
-      "pushed_at": "2026-05-31",
-      "title": "I built a daily AI brief that tracks every SaaS product release and tells you which ones actually matter",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tsccxa/tried_to_scale_to_10k_emails_day_and_almost/",
-      "pushed_at": "2026-05-31",
-      "title": "tried to scale to 10k emails/ day and almost killed my agency",
-      "score": 8
-    },
-    {
-      "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
-      "pushed_at": "2026-05-31",
-      "title": "How we contain Claude across products",
-      "score": 7
-    },
-    {
-      "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
-      "pushed_at": "2026-05-31",
-      "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/thaw-ai/thaw",
-      "pushed_at": "2026-05-31",
-      "title": "Show HN: Thaw – Git branch for a running LLM (fork agents, skip prefill)",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/",
-      "pushed_at": "2026-05-31",
-      "title": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsbl9j/cost_analysis_of_my_64k_local_llm_server/",
-      "pushed_at": "2026-05-31",
-      "title": "Cost Analysis of my $6.4k Local LLM Server",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trkze4/i_compared_all_specs_of_the_major_gpusmachines/",
-      "pushed_at": "2026-05-31",
-      "title": "I compared all specs of the major GPUs/machines that are being used here, because bandwidth is not everything. Some of ya'll need a reality check.",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trvo30/gryphepantheonreasoning27b_hugging_face/",
-      "pushed_at": "2026-05-31",
-      "title": "Gryphe/Pantheon-Reasoning-27B · Hugging Face",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trve9e/open_source_turning_vocal_imitations_into_sound/",
-      "pushed_at": "2026-05-31",
-      "title": "Open source : Turning vocal imitations into sound effects. (New UX for sound generation)",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trms2k/all_dgx_spark_clones_side_by_side_in_one_image/",
-      "pushed_at": "2026-05-31",
-      "title": "All DGX Spark clones side by side in one image",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trw5ym/fulloch_v2_100_local_voice_assistant_for_home/",
-      "pushed_at": "2026-05-31",
-      "title": "Fulloch V2: 100% Local Voice Assistant for Home Assistant & Obsidian (Runs on 16GB VRAM)",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trq8kq/this_new_moss_tts_15_is_damn_good_with_voice/",
-      "pushed_at": "2026-05-31",
-      "title": "this new Moss tts 1.5 is damn good with voice cloning",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts049w/cant_get_over_250tps_on_rtx5090_with_qwen354b/",
-      "pushed_at": "2026-05-31",
-      "title": "Can't get over 250TPS on RTX5090 with Qwen3.5-4B",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tryukc/qwen_36_coding_choice27b_vs_35b_quants/",
-      "pushed_at": "2026-05-31",
-      "title": "Qwen 3.6 coding choice–27B vs 35B quants",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/anthropics/claude-code",
-      "pushed_at": "2026-05-31",
-      "title": "anthropics/claude-code",
-      "score": 4
-    },
-    {
-      "url": "https://github.com/cursor/plugins",
-      "pushed_at": "2026-05-31",
-      "title": "cursor/plugins",
-      "score": 4
-    },
-    {
-      "url": "https://github.com/run-llama/liteparse",
-      "pushed_at": "2026-05-31",
-      "title": "run-llama/liteparse",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/galilai-group/stable-worldmodel",
-      "pushed_at": "2026-05-31",
-      "title": "galilai-group/stable-worldmodel",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/Biohub/esm",
-      "pushed_at": "2026-05-31",
-      "title": "Biohub/esm",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "pushed_at": "2026-05-31",
-      "title": "Crosstalk-Solutions/project-nomad",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3831135917107075?f=rss",
-      "pushed_at": "2026-05-31",
-      "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
-      "score": 7
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1tt4sbf/built_my_girlfriend_a_cozy_book_tracker_app_now/",
       "pushed_at": "2026-06-01",
       "title": "Built my girlfriend a cozy book tracker app, now it's bringing in paying users :)",
@@ -10504,6 +10348,42 @@
       "url": "https://adriselab.com/blog/what-is-an-ai-performance-marketer",
       "pushed_at": "2026-08-29",
       "title": "Show HN: AdRiseLab – I built an AI media buyer for my own Meta ads",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "pushed_at": "2026-08-30",
+      "title": "abhigyanpatwari/GitNexus",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w1lgjd/i_built_a_vs_code_extension_for_managing_prompt/",
+      "pushed_at": "2026-08-30",
+      "title": "I Built a VS Code extension for managing prompt libraries without context switching",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w22hll/i_built_a_receipt_splitter_and_spent_way_too_much/",
+      "pushed_at": "2026-08-30",
+      "title": "I built a receipt splitter and spent way too much time making the scanner work on terrible receipts",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w22fb6/i_built_ride_collective_a_place_for_motorcycle/",
+      "pushed_at": "2026-08-30",
+      "title": "I built Ride Collective. A place for Motorcycle riders to share their rides and get inspiration for their next ride. I need your unfiltered feedback.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w1zx3v/i_opensourced_the_boring_parts_of_my_local_ai/",
+      "pushed_at": "2026-08-30",
+      "title": "I open-sourced the boring parts of my local AI Android app",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/cursor/plugins",
+      "pushed_at": "2026-08-30",
+      "title": "cursor/plugins",
       "score": 5
     }
   ]
