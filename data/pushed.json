@@ -1,162 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tt4sbf/built_my_girlfriend_a_cozy_book_tracker_app_now/",
-      "pushed_at": "2026-06-01",
-      "title": "Built my girlfriend a cozy book tracker app, now it's bringing in paying users :)",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tsujcq/i_built_an_tool_to_apply_to_jobs_for_me_while_i/",
-      "pushed_at": "2026-06-01",
-      "title": "I built an tool to apply to jobs for me while I sleep (lol) Went from 1 interview a month to 19 in a week.",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tt92y5/i_made_a_chrome_extension_that_lets_you_gamble_on/",
-      "pushed_at": "2026-06-01",
-      "title": "I made a chrome extension that lets you gamble on anything you see while doomscrolling",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tt4ldu/i_got_tired_of_saying_i_dont_know_to_my_cousins/",
-      "pushed_at": "2026-06-01",
-      "title": "I got tired of saying \"I don't know\" to my cousin's questions, so I built something that turns them into comics",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tt8kze/i_built_a_whatsapp_bot_that_turns_invoice_dave/",
-      "pushed_at": "2026-06-01",
-      "title": "I built a WhatsApp bot that turns \"invoice Dave £450 for the kitchen rewire\" into a proper VAT invoice. Just went live after a few sleepless nights",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ttb6uu/built_my_first_saas_to_simplify_my_trading/",
-      "pushed_at": "2026-06-01",
-      "title": "Built my first SaaS to simplify my trading process and passed a 50K prop firm challenge using it",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ttbpf2/i_got_tired_of_every_asr_tool_being_too_bloated/",
-      "pushed_at": "2026-06-01",
-      "title": "I got tired of every ASR tool being too bloated for Linux. So I built an open source, native C++ toggle & cli (embedded via whisper.cpp C API, no daemon, no bloat, nothing)",
-      "score": 8
-    },
-    {
-      "url": "https://pictolab.io/",
-      "pushed_at": "2026-06-01",
-      "title": "Show HN: Pictolab (online HDR image editor)",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsz4ji/yt_pewdiepie_released_his_harnesswebui/",
-      "pushed_at": "2026-06-01",
-      "title": "(YT) PewDiePie released his harness/webui",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tt6oja/i_ported_nvidia_parakeet_speechtotext_to_ggml/",
-      "pushed_at": "2026-06-01",
-      "title": "I ported NVIDIA Parakeet (speech-to-text) to ggml: same output as NeMo, faster, GGUF-quantized, no Python",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tss9nq/stepfun_37_flash_is_very_good/",
-      "pushed_at": "2026-06-01",
-      "title": "Stepfun 3.7 Flash is very good",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsvs3j/13_abliterated_gemma_4_e2b_variants_44_gpu_hours/",
-      "pushed_at": "2026-06-01",
-      "title": "13 abliterated Gemma 4 E2B variants, 44 GPU hours, Benchmark and Comparison - Abliterlitics",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tt4pag/llama_studio_v020/",
-      "pushed_at": "2026-06-01",
-      "title": "Llama Studio v0.2.0",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsyzeb/we_might_have_a_winner_with_the_upcoming_n1x/",
-      "pushed_at": "2026-06-01",
-      "title": "We might have a winner with the upcoming N1X",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsxul2/added_an_old_2070_super_to_my_rig_and_i_cant_go/",
-      "pushed_at": "2026-06-01",
-      "title": "Added an old 2070 Super to my rig and I can't go back...worse, now I need more",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tszlsa/qwen3635b_vs_gemma426b_on_7900_xtx/",
-      "pushed_at": "2026-06-01",
-      "title": "Qwen3.6-35B vs Gemma4-26B on 7900 XTX",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsifgs/dell_confirms_xps_laptop_with_nvidia_n1x_at/",
-      "pushed_at": "2026-06-01",
-      "title": "Dell confirms XPS laptop with NVIDIA N1X at Computex ( basically a DGX Spark GB10 for consumers with Windows )",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tt50bu/whats_actually_happening_when_a_model_spills_out/",
-      "pushed_at": "2026-06-01",
-      "title": "Whats actually happening when a model spills out of VRAM into system memory?",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tss1ca/flash_attention_for_llamacpp_on_rdna3_47_less_kv/",
-      "pushed_at": "2026-06-01",
-      "title": "Flash Attention for llama.cpp on RDNA3: 47% less KV VRAM than Vulkan f16 K, KLD almost losselss on F16 K / q4_0 V. Part 1.",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsrpn4/think_toggle_button_for_llamacp_web_chat_for/",
-      "pushed_at": "2026-06-01",
-      "title": "<Think> toggle button for llama.cp web chat for QWEN3.6",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "pushed_at": "2026-06-01",
-      "title": "OpenBMB/VoxCPM",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "pushed_at": "2026-06-01",
-      "title": "FareedKhan-dev/train-llm-from-scratch",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/OpenMOSS/MOSS-TTS",
-      "pushed_at": "2026-06-01",
-      "title": "OpenMOSS/MOSS-TTS",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/dreammis/social-auto-upload",
-      "pushed_at": "2026-06-01",
-      "title": "dreammis/social-auto-upload",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3833848949745542?f=rss",
-      "pushed_at": "2026-06-01",
-      "title": "华泰证券：建筑建材板块深挖科技链新材料、存量翻新新模式和老树开新花三条主线",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3833804846769794?f=rss",
-      "pushed_at": "2026-06-01",
-      "title": "下半年车市进入智驾“下半场”，高阶辅助驾驶下探至15万元级市场",
-      "score": 5
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1tu5qr0/simple_program_that_converts_a_3d_obj_file_to_an/",
       "pushed_at": "2026-06-02",
       "title": "simple program that converts a 3D obj file to an ASCII Art animation in the terminal",
@@ -10384,6 +10228,54 @@
       "url": "https://github.com/cursor/plugins",
       "pushed_at": "2026-08-30",
       "title": "cursor/plugins",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w2tzu7/i_made_my_first_python_library_it_doesnt_have_a/",
+      "pushed_at": "2026-08-31",
+      "title": "I made my first python library (it doesn't have a ton of features but i think it can be useful for some people)",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "pushed_at": "2026-08-31",
+      "title": "THU-MAIC/OpenMAIC",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/p-e-w/heretic",
+      "pushed_at": "2026-08-31",
+      "title": "p-e-w/heretic",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "pushed_at": "2026-08-31",
+      "title": "Understanding ChatGPT Work",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w2hel8/i_code_at_4_am_in_cuba_because_thats_when_the/",
+      "pushed_at": "2026-08-31",
+      "title": "I code at 4 AM in Cuba because that's when the internet works. No Stripe, no PayPal, 0 users. Building in public anyway.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w2r13p/im_a_nurse_not_a_developer_this_is_my_first_ever/",
+      "pushed_at": "2026-08-31",
+      "title": "I'm a nurse, not a developer. This is my first ever finished side project: a Chrome extension that blurs distractions instead of blocking them",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w2ysub/carried_this_chess_game_idea_for_6_years_ai/",
+      "pushed_at": "2026-08-31",
+      "title": "Carried this chess game idea for 6 years. AI finally let me build it — here's the story, 4 months in",
+      "score": 5
+    },
+    {
+      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "pushed_at": "2026-08-31",
+      "title": "Agency and Agents",
       "score": 5
     }
   ]
