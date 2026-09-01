@@ -1,180 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tu5qr0/simple_program_that_converts_a_3d_obj_file_to_an/",
-      "pushed_at": "2026-06-02",
-      "title": "simple program that converts a 3D obj file to an ASCII Art animation in the terminal",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tu7wdw/introducing_rowanai_an_ai_relationship_coach_that/",
-      "pushed_at": "2026-06-02",
-      "title": "Introducing RowanAI — an AI relationship coach that actually remembers the people you're dating",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tu6zj9/i_built_coil_a_free_open_source_gpu_monitor_for/",
-      "pushed_at": "2026-06-02",
-      "title": "I built coil — a free open source GPU monitor for the terminal. Press S and it exports your stats as a Windows XP screenshot.",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tu9y9p/i_rebuilt_choose_your_own_adventure_as_a_nightly/",
-      "pushed_at": "2026-06-02",
-      "title": "I rebuilt Choose Your Own Adventure as a nightly bedtime email where your kid is the hero",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tu3t6v/swiftui_videos_for_app_demos_and_promos_example/",
-      "pushed_at": "2026-06-02",
-      "title": "SwiftUI videos for app demos and promos [example inside]",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tu9rkz/14_yo_solo_dev_i_built_the_site_i_couldnt_find/",
-      "pushed_at": "2026-06-02",
-      "title": "14 y/o solo dev — I built the site I couldn't find anywhere",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tu9qob/stripe_mcp_for_churn_analysis/",
-      "pushed_at": "2026-06-02",
-      "title": "Stripe MCP for Churn Analysis",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1ttyne7/i_failed_on_my_second_saas_building_i_dropped_my/",
-      "pushed_at": "2026-06-02",
-      "title": "I failed on my second SaaS building, I dropped my SaaS after 0 dollar revenue.",
-      "score": 5
-    },
-    {
-      "url": "https://www.latent.space/p/video-agents",
-      "pushed_at": "2026-06-02",
-      "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine",
-      "score": 5
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-codex-goals-explained-and",
-      "pushed_at": "2026-06-02",
-      "title": "🎙️ How I AI: Codex Goals explained & Claude Opus 4.8 review & Building an iPhone app with zero technical skills",
-      "score": 6
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/building-an-iphone-app-with-zero",
-      "pushed_at": "2026-06-02",
-      "title": "Building an iPhone app with zero technical skills | Bryce Rattner Keithley",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/cnygaard/glq",
-      "pushed_at": "2026-06-02",
-      "title": "Show HN: Glq LLM quantization using E8 lattice",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ttvpmt/llama_limit_max_outputs_of_llama_context_by/",
-      "pushed_at": "2026-06-02",
-      "title": "llama: limit max outputs of `llama_context` by am17an · Pull Request #23861 · ggml-org/llama.cpp",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tu44z9/icym_llamacpp_b9455_sm_tensor_kv_cache_fix_is/",
-      "pushed_at": "2026-06-02",
-      "title": "ICYM: llama.cpp b9455 --SM Tensor KV Cache Fix is MERGED",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tu625w/stepfun_37_flash_soniclike_platformer/",
-      "pushed_at": "2026-06-02",
-      "title": "Stepfun 3.7 Flash: Sonic-like platformer",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tu4w64/qwen_36_27b_kick_balls/",
-      "pushed_at": "2026-06-02",
-      "title": "Qwen 3.6 27B kick balls",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tts4f7/mellum_2_12b_a25b/",
-      "pushed_at": "2026-06-02",
-      "title": "Mellum 2 12B A2.5B",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tttevw/mistralrs_v082_up_to_28x_faster_cuda_inference/",
-      "pushed_at": "2026-06-02",
-      "title": "mistral.rs v0.8.2: up to 2.8x faster CUDA inference than llama.cpp on GB10, B200, and H100",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ttr60r/cheap_v100_32gb/",
-      "pushed_at": "2026-06-02",
-      "title": "Cheap V100 32gb",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ttlyt4/a_1b_humanizer_that_matches_human_writing_on_an/",
-      "pushed_at": "2026-06-02",
-      "title": "A 1B humanizer that matches human writing on an AI detector",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/nesquena/hermes-webui",
-      "pushed_at": "2026-06-02",
-      "title": "nesquena/hermes-webui",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/supermemoryai/supermemory",
-      "pushed_at": "2026-06-02",
-      "title": "supermemoryai/supermemory",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/nicobailon/pi-subagents",
-      "pushed_at": "2026-06-02",
-      "title": "nicobailon/pi-subagents",
-      "score": 7
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-      "pushed_at": "2026-06-02",
-      "title": "This AI weather startup is out-forecasting government agencies",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3834400181741440?f=rss",
-      "pushed_at": "2026-06-02",
-      "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
-      "score": 9
-    },
-    {
-      "url": "https://36kr.com/p/3834544830721671?f=rss",
-      "pushed_at": "2026-06-02",
-      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3834427736024965?f=rss",
-      "pushed_at": "2026-06-02",
-      "title": "硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3834310434875011?f=rss",
-      "pushed_at": "2026-06-02",
-      "title": "连续完成五源、峰瑞两轮数千万元融资，清华00后团队要解决Token账单焦虑｜智能涌现首发",
-      "score": 9
-    },
-    {
-      "url": "https://www.ifanr.com/1667604?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-02",
-      "title": "世界模型赛道，VAST 选了一条还没有人走过的路",
-      "score": 7
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1tv0b7s/you_cant_vibecode_an_audience/",
       "pushed_at": "2026-06-03",
       "title": "You can't vibe-code an audience",
@@ -10276,6 +10102,54 @@
       "url": "https://www.oneusefulthing.org/p/agency-and-agents",
       "pushed_at": "2026-08-31",
       "title": "Agency and Agents",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/unclecode/crawl4ai",
+      "pushed_at": "2026-09-01",
+      "title": "unclecode/crawl4ai",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1677378?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-09-01",
+      "title": "500 万人围观，AI 终于造出了「无限泔水机」",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "pushed_at": "2026-09-01",
+      "title": "pollen-robotics/microduck_rl",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w38rm1/2140_of_you_are_building_productivity_tools_they/",
+      "pushed_at": "2026-09-01",
+      "title": "2,140 of you are building productivity tools. They get 1.8 mentions each, the worst of any category in this sub",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "pushed_at": "2026-09-01",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w3qqjk/whats_your_ideal_place_to_live/",
+      "pushed_at": "2026-09-01",
+      "title": "What's your ideal place to live?",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/nanlogic/saccade",
+      "pushed_at": "2026-09-01",
+      "title": "Show HN: Saccade – Live semantic browser truth for AI agents",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "pushed_at": "2026-09-01",
+      "title": "punkpeye/awesome-mcp-servers",
       "score": 5
     }
   ]
