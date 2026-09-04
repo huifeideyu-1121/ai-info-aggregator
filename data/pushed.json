@@ -1,216 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1twszph/update_i_built_a_job_search_engine_out_of_spite/",
-      "pushed_at": "2026-06-05",
-      "title": "UPDATE: I built a job search engine out of spite (Indeed fired my pregnant wife)",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tx4r1n/couldnt_find_a_opensource_frameio_alternative_for/",
-      "pushed_at": "2026-06-05",
-      "title": "Couldn't find a Opensource Frame.io alternative for client approval so I built myself with more features.",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1twyezf/we_opensourced_our_texttopiano_generation/",
-      "pushed_at": "2026-06-05",
-      "title": "We open-sourced our text-to-piano generation pipeline. feedback welcome",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1twj7pw/i_kept_getting_annoyed_that_every_free_online/",
-      "pushed_at": "2026-06-05",
-      "title": "i kept getting annoyed that every \"free\" online tool makes you upload your files, so i built a pile of tools that don't",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1twr9a0/built_a_browser_runtime_for_agents_to_handle/",
-      "pushed_at": "2026-06-05",
-      "title": "Built a browser runtime for agents to handle messy web workflows without taking over your tabs",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1twxeap/i_tracked_100_youtube_niches_for_months_heres/",
-      "pushed_at": "2026-06-05",
-      "title": "I tracked 100 YouTube niches for months — here's what actually pays in 2026 (with real CPM data)",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1twl650/i_have_built_deliverymanai_that_builds_entire/",
-      "pushed_at": "2026-06-05",
-      "title": "I have built Deliveryman.ai that builds entire cold email infrastructure + sending.",
-      "score": 6
-    },
-    {
-      "url": "https://www.bensbites.com/p/build-tools-to-build-more",
-      "pushed_at": "2026-06-05",
-      "title": "Build tools, to build more",
-      "score": 6
-    },
-    {
-      "url": "https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
-      "pushed_at": "2026-06-05",
-      "title": "Ideogram and Reve rethink how AI images get made",
-      "score": 6
-    },
-    {
-      "url": "https://www.latent.space/p/andon",
-      "pushed_at": "2026-06-05",
-      "title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
-      "score": 6
-    },
-    {
-      "url": "https://www.g-spot.dev/",
-      "pushed_at": "2026-06-05",
-      "title": "Show HN: G-Spot – GitHub Gmail GNotes Gmemory Gent",
-      "score": 7
-    },
-    {
-      "url": "https://knowable.ca/",
-      "pushed_at": "2026-06-05",
-      "title": "Show HN: Knowable, the AI tutor that follows your work on paper",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/schildep/verified-polygon-intersection",
-      "pushed_at": "2026-06-05",
-      "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/mirkolenz/llmhop",
-      "pushed_at": "2026-06-05",
-      "title": "Show HN: LLMhop – A tiny, stateless router for LLMs with a NixOS module",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/fundamental-research-labs/mog",
-      "pushed_at": "2026-06-05",
-      "title": "Show HN: SheetMog – OSS Excel alternative and headless SDK",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twptw2/kvarn_new_kvcache_quant_from_huawei_35_kv_cache/",
-      "pushed_at": "2026-06-05",
-      "title": "KVarN: new KV-cache quant from Huawei. 3–5× KV cache compression with actual speed-up instead of slow-down, and unlike TurboQuant it holds up on reasoning (Apache 2.0, vLLM single flag)",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twla1k/nvidianvidianemotron3ultra550ba55bbf16_hugging/",
-      "pushed_at": "2026-06-05",
-      "title": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16 · Hugging Face",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twtlhe/nemotron_3_ultra_550_billion_parameters_55b/",
-      "pushed_at": "2026-06-05",
-      "title": "Nemotron 3 Ultra. 550 billion parameters, 55B active. 1 million context",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tx2mot/higgs_audio_v3_tts_4b_built_for_voice_chat/",
-      "pushed_at": "2026-06-05",
-      "title": "Higgs Audio v3 TTS 4B. Built for voice chat. Support 100 languages and inline control.",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tx12t1/beellama_v031_latest_llamacpp_with_extras_dflash/",
-      "pushed_at": "2026-06-05",
-      "title": "BeeLlama v0.3.1 – latest llama.cpp with extras! DFlash, MTP, q6_0 cache, TurboQuant. Single RTX 3090: Qwen 3.6 27B & Gemma 4 31B up to 177.8 tps (4.93x over baseline)",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twid14/gemma_4_qat_confirmed_to_release_soon/",
-      "pushed_at": "2026-06-05",
-      "title": "Gemma 4 QAT confirmed to release soon!",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twz9ur/cyankiwi_awq_4bit_2605_update_nvfp4_fp8_dynamic/",
-      "pushed_at": "2026-06-05",
-      "title": "cyankiwi AWQ 4-bit — 26.05 update, NVFP4 + FP8 Dynamic quantization and benchmarks across Qwen3.6 4-bit quants",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twu9r6/qwen_36_27b_30gb_same_top_p_98358_0033_vs_ud_q8_k/",
-      "pushed_at": "2026-06-05",
-      "title": "Qwen 3.6 27B 30GB Same top p: 98.358 ± 0.033 % vs UD Q8 K XL 33GB Same top p: 97.426 ± 0.041 %",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twt7n4/i_accidentally_crippled_my_4x_rtx_3090_llm_rig/",
-      "pushed_at": "2026-06-05",
-      "title": "I accidentally crippled my 4x RTX 3090 LLM rig with a hidden PCIe 2.0 x4 slot and fixing it doubled Mistral 128B performance",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twuczn/run_your_largest_local_models_from_your_iphone/",
-      "pushed_at": "2026-06-05",
-      "title": "Run (your largest) local models from your iPhone",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twwve0/dynamic_kv_cache_quantization_and_loadondemand/",
-      "pushed_at": "2026-06-05",
-      "title": "Dynamic KV Cache Quantization and Load-on-demand mmproj/MTP: my llama.cpp wishlist",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-      "pushed_at": "2026-06-05",
-      "title": "opendataloader-project/opendataloader-pdf",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/lyogavin/airllm",
-      "pushed_at": "2026-06-05",
-      "title": "lyogavin/airllm",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "pushed_at": "2026-06-05",
-      "title": "HKUDS/Vibe-Trading",
-      "score": 7
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "pushed_at": "2026-06-05",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3838488706370054?f=rss",
-      "pushed_at": "2026-06-05",
-      "title": "实现芯片设计验证自动化，提升开发效率10倍以上，「智维创芯」完成数千万元天使轮融资｜36氪首发",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3837269482091656?f=rss",
-      "pushed_at": "2026-06-05",
-      "title": "深圳具身公司获得汇川、中国电信亿元融资，“视触觉”传感器出货量行业第一｜硬氪首发",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3839497486223621?f=rss",
-      "pushed_at": "2026-06-05",
-      "title": "聪明钱提前布局AI上游环节，部分基础材料成新宠",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3839477398685953?f=rss",
-      "pushed_at": "2026-06-05",
-      "title": "Quobly完成1.15亿欧元A轮融资",
-      "score": 8
-    },
-    {
-      "url": "https://www.ifanr.com/1667995?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-05",
-      "title": "今年最值得升级的生产力工具，可能是一整张 AI 工位",
-      "score": 7
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1txwmgk/folks_been_working_really_hard_for_the_last_5/",
       "pushed_at": "2026-06-06",
       "title": "folks, been working really hard for the last 5 months and got my first 200 customers",
@@ -9815,6 +9605,84 @@
       "pushed_at": "2026-09-03",
       "title": "affaan-m/ECC",
       "score": 4
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w650lb/from_15k_to_256_million_in_just_4_months_heres/",
+      "pushed_at": "2026-09-04",
+      "title": "from 15k to 2.56 Million in just 4 months. Here's how I'd do it again (from a fellow dev)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w6afny/need_feedback_built_a_cool_way_to_visualize_your/",
+      "pushed_at": "2026-09-04",
+      "title": "Need feedback, Built a cool way to visualize your Claude Code history",
+      "score": 8
+    },
+    {
+      "url": "https://www.latent.space/p/astra",
+      "pushed_at": "2026-09-04",
+      "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
+      "score": 9
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "pushed_at": "2026-09-04",
+      "title": "GPT‑6 Astra",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/antoniociccia/aidcrew",
+      "pushed_at": "2026-09-04",
+      "title": "Show HN: Aidcrew a team of coding agents, each on its own model, in one terminal",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/sergebulaev/linkedin-skills",
+      "pushed_at": "2026-09-04",
+      "title": "Show HN: I processed 100k+ LinkedIn posts into open-source Claude Code skills",
+      "score": 5
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=49555446",
+      "pushed_at": "2026-09-04",
+      "title": "Show HN: Agentray, a macOS agent whose interface is a folder",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/JosPMSilva/ADDOM",
+      "pushed_at": "2026-09-04",
+      "title": "Show HN: Addom – Open-source, telemetry-free AI coding harness and editor",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "pushed_at": "2026-09-04",
+      "title": "debpalash/VoiceStudio",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/superlinked/sie",
+      "pushed_at": "2026-09-04",
+      "title": "superlinked/sie",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "pushed_at": "2026-09-04",
+      "title": "Imbad0202/academic-research-skills",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "pushed_at": "2026-09-04",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1678380?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-09-04",
+      "title": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+      "score": 5
     }
   ]
 }
