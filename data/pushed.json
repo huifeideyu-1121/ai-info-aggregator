@@ -1,240 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1txwmgk/folks_been_working_really_hard_for_the_last_5/",
-      "pushed_at": "2026-06-06",
-      "title": "folks, been working really hard for the last 5 months and got my first 200 customers",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1txqobz/i_built_a_narrated_cinematic_web_storybook_in_one/",
-      "pushed_at": "2026-06-06",
-      "title": "i built a narrated, cinematic web storybook in one sitting, and every asset in it is ai generated",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1txgul1/i_built_an_ai_study_app_solo_and_got_it_to_1500/",
-      "pushed_at": "2026-06-06",
-      "title": "I built an AI study app solo and got it to 1,500 users. Here's what I learned",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ty1smx/i_built_a_free_seo_ai_visibility_security_audit/",
-      "pushed_at": "2026-06-06",
-      "title": "I built a free SEO + AI visibility + security audit tool. Honest truth: you could do this yourself with ChatGPT — here's why ours still works better Body:",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ty1qp3/i_built_a_chrome_extension_that_replaces_every/",
-      "pushed_at": "2026-06-06",
-      "title": "I built a Chrome extension that replaces every online PDF tool — merge, split, watermark, compress — all 100% local.",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ty1hzh/i_got_tired_of_calling_my_shop_managers_every_day/",
-      "pushed_at": "2026-06-06",
-      "title": "I got tired of calling my shop managers every day so I built my own dashboard",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ty1hpb/i_built_frisk_swap_githubcom_for_friskitdev_on/",
-      "pushed_at": "2026-06-06",
-      "title": "I built frisk: swap \"github.com\" for \"friskit.dev\" on any repo URL to security-scan it (no clone, no CLI, no login)",
-      "score": 7
-    },
-    {
-      "url": "https://www.latent.space/p/bad-envs",
-      "pushed_at": "2026-06-06",
-      "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
-      "score": 5
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
-      "pushed_at": "2026-06-06",
-      "title": "[AINews] not much happened today",
-      "score": 9
-    },
-    {
-      "url": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
-      "pushed_at": "2026-06-06",
-      "title": "Quoting Andreas Kling",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/gmlion/TuringLLM",
-      "pushed_at": "2026-06-06",
-      "title": "Show HN: TuringLLM – a LLM-powered Universal Turing machine",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/ExpressGradient/lazarus",
-      "pushed_at": "2026-06-06",
-      "title": "Show HN: Lazarus, a coding agent for long-horizon tasks",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txpeo0/gemma_4_with_quantizationaware_training/",
-      "pushed_at": "2026-06-06",
-      "title": "Gemma 4 with quantization-aware training",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txxgpq/openlumara_a_different_kind_of_ai_agent_written/",
-      "pushed_at": "2026-06-06",
-      "title": "OpenLumara - A different kind of AI agent, written from scratch, not vibecoded. Extremely token-efficient, super small system prompt, made for local models. Everything is modular.",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txnhqp/unsloth_just_dropped_mtp_gguf_weights_for_gemma_4/",
-      "pushed_at": "2026-06-06",
-      "title": "Unsloth just dropped MTP GGUF weights for Gemma 4!",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txwbge/dotstts_2b_sota_tts_from_rednote/",
-      "pushed_at": "2026-06-06",
-      "title": "dots.tts 2B🎙️ SOTA TTS from RedNote",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txro73/psa_gemma_4_12b_is_not_completely_broken_for/",
-      "pushed_at": "2026-06-06",
-      "title": "PSA: Gemma 4 12B is NOT completely broken for coding and tool calling, you need a special chat template",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txxd7c/gemma_4_qat_benchmark_results_amd_7900_xtx_faster/",
-      "pushed_at": "2026-06-06",
-      "title": "Gemma 4 QAT benchmark results (AMD 7900 XTX): faster, less VRAM, no quality loss",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txpqru/maybe_kv_cache_offload_to_ram_isnt_bad/",
-      "pushed_at": "2026-06-06",
-      "title": "Maybe KV cache offload to RAM isn't bad",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txlhxu/i_implemented_kvarn_in_my_llamacpp_fork_and_ran/",
-      "pushed_at": "2026-06-06",
-      "title": "I implemented KVarN in my llama.cpp fork and ran KLD benchmarks. It's promising!",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txmg8q/fyi_llamacpp_server_can_hot_swap_models_nowadays/",
-      "pushed_at": "2026-06-06",
-      "title": "FYI llamacpp server can hot swap models now-a-days in under 30sec",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txwff3/running_qwen3635ba3b_on_a_laptop_rtx_4060_8gb/",
-      "pushed_at": "2026-06-06",
-      "title": "Running Qwen3.6-35B-A3B on a laptop RTX 4060 (8GB) — what worked, what didn't, and a surprising speculative-decoding result",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txdcj9/gemma_4_12b_is_my_new_main_squeeze/",
-      "pushed_at": "2026-06-06",
-      "title": "Gemma 4 12B is my new main squeeze",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txhk6y/new_model_supralabs_just_released_a_new_model/",
-      "pushed_at": "2026-06-06",
-      "title": "[NEW MODEL] SupraLabs just released a new model! - Supra-50M-Reasoning",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txuqw8/what_exactly_is_quantization_aware_training/",
-      "pushed_at": "2026-06-06",
-      "title": "What exactly is quantization aware training?",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txtuzk/sycl_port_multicolumn_mmvq_from_cuda_backend_45/",
-      "pushed_at": "2026-06-06",
-      "title": "sycl : port multi-column MMVQ from CUDA backend (~45% speculative decoding speedup on Intel Arc) by masonmilby · Pull Request #21845 · ggml-org/llama.cpp",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txpoe1/model_granite4_vision_by_gabelhart_pull_request/",
-      "pushed_at": "2026-06-06",
-      "title": "model: Granite4 Vision by gabe-l-hart · Pull Request #23545 · ggml-org/llama.cpp",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "pushed_at": "2026-06-06",
-      "title": "PaddlePaddle/PaddleOCR",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/lfnovo/open-notebook",
-      "pushed_at": "2026-06-06",
-      "title": "lfnovo/open-notebook",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/github/copilot-sdk",
-      "pushed_at": "2026-06-06",
-      "title": "github/copilot-sdk",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/openclaw/openclaw-windows-node",
-      "pushed_at": "2026-06-06",
-      "title": "openclaw/openclaw-windows-node",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "pushed_at": "2026-06-06",
-      "title": "mvanhorn/last30days-skill",
-      "score": 8
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-      "pushed_at": "2026-06-06",
-      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-      "score": 5
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "pushed_at": "2026-06-06",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "score": 6
-    },
-    {
-      "url": "https://www.ecommercebytes.com/2026/06/05/ebay-june-seller-update-impacts-coins-trading-cards-payment-disputes/",
-      "pushed_at": "2026-06-06",
-      "title": "eBay June Seller Update Impacts Coins, Trading Cards, Payment Disputes",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3839575253993985?f=rss",
-      "pushed_at": "2026-06-06",
-      "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3838835333253385?f=rss",
-      "pushed_at": "2026-06-06",
-      "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3835460873385348?f=rss",
-      "pushed_at": "2026-06-06",
-      "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1668088?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-06",
-      "title": "垃圾桶里捡零件，弹幕里接需求，B 站有群人在用 AI 野生造产品",
-      "score": 6
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1tyktsg/my_side_project_started_making_money_and_i_went/",
       "pushed_at": "2026-06-07",
       "title": "My side project started making money and I went from hobby to legit business in one afternoon",
@@ -9683,6 +9449,54 @@
       "pushed_at": "2026-09-04",
       "title": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
       "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w7gcjq/ive_been_building_a_deployment_platform_where_ai/",
+      "pushed_at": "2026-09-05",
+      "title": "I’ve been building a deployment platform where AI coding agents can deploy and recover their own apps",
+      "score": 8
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "pushed_at": "2026-09-05",
+      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "pushed_at": "2026-09-05",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "score": 9
+    },
+    {
+      "url": "https://huggingface.co/jadidbourbaki/time-wizard",
+      "pushed_at": "2026-09-05",
+      "title": "Show HN: Time Wizard",
+      "score": 6
+    },
+    {
+      "url": "https://tesoro.help/",
+      "pushed_at": "2026-09-05",
+      "title": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/magnitudedev/magnitude",
+      "pushed_at": "2026-09-05",
+      "title": "magnitudedev/magnitude",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/f/prompts.chat",
+      "pushed_at": "2026-09-05",
+      "title": "f/prompts.chat",
+      "score": 8
+    },
+    {
+      "url": "http://www.geekpark.net/news/369850",
+      "pushed_at": "2026-09-05",
+      "title": "梅卡曼德上市，具身智能又跑出一家百亿公司",
+      "score": 8
     }
   ]
 }
