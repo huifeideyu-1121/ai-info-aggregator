@@ -1,126 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tzrf7m/i_made_a_free_coop_survival_game_to_play_with_my/",
-      "pushed_at": "2026-06-08",
-      "title": "I Made A Free Co-op Survival Game To Play With My Kids",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tzoo6t/i_love_being_a_cs_major/",
-      "pushed_at": "2026-06-08",
-      "title": "I LOVE BEING A CS MAJOR",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1tzrbg5/autoclip_autoclipdev_is_the_ai_clip_generator_i/",
-      "pushed_at": "2026-06-08",
-      "title": "AutoClip (autoclip.dev) is the AI clip generator I built for long Twitch and YouTube VODs",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tzfoxt/built_an_llm_product_to_solve_ai_privacy_problem/",
-      "pushed_at": "2026-06-08",
-      "title": "Built an LLM product to solve AI privacy problem, how do I sell this as an indie dev?",
-      "score": 5
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
-      "pushed_at": "2026-06-08",
-      "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/jaroslavszkandera/luminous",
-      "pushed_at": "2026-06-08",
-      "title": "Show HN: Luminous – fast image viewer in Rust, SAM 3 and CLIP support",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/ninoxAI/nightwatch",
-      "pushed_at": "2026-06-08",
-      "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzbcyp/llamacpp_gemma4_mtp_support_merged/",
-      "pushed_at": "2026-06-08",
-      "title": "llama.cpp Gemma4 MTP support merged!",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/",
-      "pushed_at": "2026-06-08",
-      "title": "Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tz5ffp/you_dont_need_a_gpu_to_run_gemma426ba4b/",
-      "pushed_at": "2026-06-08",
-      "title": "You don't need a GPU to run gemma-4-26B-A4B",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzjahj/nvfp4_on_llamacpp/",
-      "pushed_at": "2026-06-08",
-      "title": "NVFP4 on llama.cpp?",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tz7s8n/clustering_3x_jetson_nano_orin_supers/",
-      "pushed_at": "2026-06-08",
-      "title": "Clustering 3x Jetson Nano Orin Supers",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzeir9/how_are_you_all_managing_multiple_mcp_servers_on/",
-      "pushed_at": "2026-06-08",
-      "title": "How are you all managing multiple MCP servers on startup?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzq1qb/hear_me_out_pi_fans_lurking_here/",
-      "pushed_at": "2026-06-08",
-      "title": "Hear Me Out, Pi Fans Lurking Here",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/openai/plugins",
-      "pushed_at": "2026-06-08",
-      "title": "openai/plugins",
-      "score": 4
-    },
-    {
-      "url": "https://github.com/santifer/career-ops",
-      "pushed_at": "2026-06-08",
-      "title": "santifer/career-ops",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/microsoft/mxc",
-      "pushed_at": "2026-06-08",
-      "title": "microsoft/mxc",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/p/3843764238174729?f=rss",
-      "pushed_at": "2026-06-08",
-      "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
-      "score": 5
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3843739015907847?f=rss",
-      "pushed_at": "2026-06-08",
-      "title": "算力引爆MLCC超级周期，“电子工业大米”或结构性缺货",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3843726272039428?f=rss",
-      "pushed_at": "2026-06-08",
-      "title": "数字“超级大脑”大幅提升光学材料筛选速度",
-      "score": 5
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1tzztv9/my_side_project_went_viral_then_someone_cloned/",
       "pushed_at": "2026-06-09",
       "title": "My side project went viral, then someone cloned the source and shared it publicly",
@@ -9370,6 +9250,18 @@
       "url": "https://www.reddit.com/r/SideProject/comments/1w8hdnu/i_built_a_live_whats_trending_leaderboard_across/",
       "pushed_at": "2026-09-06",
       "title": "I built a live \"what's trending\" leaderboard across YouTube and the App Store, entirely through AI pair-programming",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/blader/humanizer",
+      "pushed_at": "2026-09-07",
+      "title": "blader/humanizer",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1678567?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-09-07",
+      "title": "AI 降低了创造的门槛，B 站则想放大创造的回声",
       "score": 5
     }
   ]
