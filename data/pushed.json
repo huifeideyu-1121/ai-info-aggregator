@@ -1,258 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u1i4eq/i_spent_30_minutes_making_this_and_won_25k_usd/",
-      "pushed_at": "2026-06-10",
-      "title": "I spent 30 minutes making this and won 2.5k USD worth of OpenAI Codex credits",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u1h3h5/built_a_freelance_rate_calculator_that_shows_the/",
-      "pushed_at": "2026-06-10",
-      "title": "Built a freelance rate calculator that shows the number most freelancers never calculate",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u1kabh/adding_ai_to_our_product_raised_the_support/",
-      "pushed_at": "2026-06-10",
-      "title": "Adding \"AI\" to our product raised the support burden instead of lowering it",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u1bscw/launched_a_home_inventory_app_in_march_and_still/",
-      "pushed_at": "2026-06-10",
-      "title": "Launched a home inventory app in March and still working on it every spare minute",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u1b464/i_spent_the_last_18_months_building_what_is/",
-      "pushed_at": "2026-06-10",
-      "title": "I spent the last 18 months building what is probably one of the most comprehensive analytics and alerts platforms for Polymarket",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u1lw5e/i_built_a_selfhosted_trading_bot_for_coinbase/",
-      "pushed_at": "2026-06-10",
-      "title": "I built a self-hosted trading bot for Coinbase & Alpaca — your API keys never leave your machine",
-      "score": 6
-    },
-    {
-      "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
-      "pushed_at": "2026-06-10",
-      "title": "[AINews] FrontierCode: Benchmarking for Code Quality over Slop",
-      "score": 5
-    },
-    {
-      "url": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
-      "pushed_at": "2026-06-10",
-      "title": "Claude Fable 5 review: what the new Mythos model gets right (and very wrong)",
-      "score": 6
-    },
-    {
-      "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
-      "pushed_at": "2026-06-10",
-      "title": "Initial impressions of Claude Fable 5",
-      "score": 9
-    },
-    {
-      "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
-      "pushed_at": "2026-06-10",
-      "title": "Setting a custom price for a model in AgentsView",
-      "score": 8
-    },
-    {
-      "url": "https://craftbot.live",
-      "pushed_at": "2026-06-10",
-      "title": "Show HN: The agent that builds and operates its own SaaS tools",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/yeet-src/claudefeed",
-      "pushed_at": "2026-06-10",
-      "title": "Show HN: Live audit log of every command, file, network connection by Claude",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/localcodeai/localcode",
-      "pushed_at": "2026-06-10",
-      "title": "Show HN: LocalCode – turn plain English into CLI commands with Apple's local AI",
-      "score": 6
-    },
-    {
-      "url": "https://messagevisor.com/",
-      "pushed_at": "2026-06-10",
-      "title": "Show HN: Messagevisor – Git-based internationalization and l10n management",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1ci1r/releasing_cohere_north_mini_code/",
-      "pushed_at": "2026-06-10",
-      "title": "Releasing Cohere North Mini Code",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u19k2h/unsloth_gemma_4_qat_mtp_assistant_models_now/",
-      "pushed_at": "2026-06-10",
-      "title": "Unsloth Gemma 4 QAT MTP assistant models now available",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u16eyk/people_are_making_singleslot_half_height_pcie/",
-      "pushed_at": "2026-06-10",
-      "title": "People are making single-slot, half height pcie v100 with nvlink in China",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1516w/apple_announced_new_on_device_inference_engine/",
-      "pushed_at": "2026-06-10",
-      "title": "Apple announced new on device inference engine for Apple Silicon",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1dw38/zaiorgscail2_hugging_face/",
-      "pushed_at": "2026-06-10",
-      "title": "zai-org/SCAIL-2 · Hugging Face",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1edjb/oscar_rotationzoo_offline_spectral/",
-      "pushed_at": "2026-06-10",
-      "title": "OSCAR RotationZoo - Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u11wvo/jetson_orin_nx_build_for_hermes_agent_benchmarking/",
-      "pushed_at": "2026-06-10",
-      "title": "Jetson Orin NX Build for Hermes Agent + Benchmarking",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1blp1/watch_agents_fight_a_live_challenge_to_speed_up/",
-      "pushed_at": "2026-06-10",
-      "title": "Watch agents fight: a live challenge to speed up Gemma 4 E4B inference on a single A10G",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1l9u4/furiosa_ai_selling_inference_chip_to_consumer/",
-      "pushed_at": "2026-06-10",
-      "title": "Furiosa AI selling inference chip to consumer market will be a game changer to local llm",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u19a8d/texttospeech_tts_benchmark_revamped_with/",
-      "pushed_at": "2026-06-10",
-      "title": "Text-to-Speech (TTS) Benchmark Revamped with Objective Standards and Blind Voting (46 models and counting)",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u19vn2/our_icml_paper_on_predictable_hallucination/",
-      "pushed_at": "2026-06-10",
-      "title": "Our ICML paper on predictable hallucination (information-budget abstention gate), + ntkMirror: a training-free open-weight implementation we're releasing today",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1ggo9/newer_qwen_models_are_worse_at_summarization/",
-      "pushed_at": "2026-06-10",
-      "title": "Newer Qwen models are worse at summarization?",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1m8bd/finetuned_qwen257b_to_96_of_claude_haiku_on_a/",
-      "pushed_at": "2026-06-10",
-      "title": "Fine-tuned Qwen2.5-7B to 96% of Claude Haiku on a domain-specific task using ~$3 of API calls and zero human labelers",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/google/skills",
-      "pushed_at": "2026-06-10",
-      "title": "google/skills",
-      "score": 4
-    },
-    {
-      "url": "https://github.com/phuryn/pm-skills",
-      "pushed_at": "2026-06-10",
-      "title": "phuryn/pm-skills",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "pushed_at": "2026-06-10",
-      "title": "Andyyyy64/whichllm",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/luongnv89/claude-howto",
-      "pushed_at": "2026-06-10",
-      "title": "luongnv89/claude-howto",
-      "score": 9
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
-      "pushed_at": "2026-06-10",
-      "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
-      "score": 6
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "pushed_at": "2026-06-10",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3845645258541319?f=rss",
-      "pushed_at": "2026-06-10",
-      "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
-      "score": 9
-    },
-    {
-      "url": "https://36kr.com/p/3845356968839680?f=rss",
-      "pushed_at": "2026-06-10",
-      "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3845295918909954?f=rss",
-      "pushed_at": "2026-06-10",
-      "title": "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3845293120621057?f=rss",
-      "pushed_at": "2026-06-10",
-      "title": "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司",
-      "score": 8
-    },
-    {
-      "url": "https://36kr.com/p/3843971153267208?f=rss",
-      "pushed_at": "2026-06-10",
-      "title": "生殖学博士入局脑机接口，想做一款缓解女性经期情绪问题的脑机\"发箍\"｜早期项目",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3846572673255684?f=rss",
-      "pushed_at": "2026-06-10",
-      "title": "超微电脑计划进行70亿美元的股权融资，用于购买AI服务器组件",
-      "score": 6
-    },
-    {
-      "url": "https://www.ifanr.com/1668500?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-10",
-      "title": "坏了，苹果 AI 真成了？｜iOS 27 上手体验",
-      "score": 5
-    },
-    {
-      "url": "https://www.ifanr.com/1668443?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-10",
-      "title": "iPhone 一夜变成 AiPhone，但 AI 手机的未来不在手机里",
-      "score": 5
-    },
-    {
-      "url": "https://www.ifanr.com/1668423?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-10",
-      "title": "微信发布Skill 文档，数百万小程序，一夜之间变成了 AI 的手和脚",
-      "score": 6
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1u236x4/ive_been_working_solo_on_this_for_2_years_the/",
       "pushed_at": "2026-06-11",
       "title": "I've been working solo on this for 2 years. The movie & TV tracker I always wished existed!",
@@ -9082,6 +8830,24 @@
       "url": "https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=",
       "pushed_at": "2026-09-08",
       "title": "GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/bytedance/deer-flow",
+      "pushed_at": "2026-09-09",
+      "title": "bytedance/deer-flow",
+      "score": 7
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=49617427",
+      "pushed_at": "2026-09-09",
+      "title": "Show HN: Browser LLM Fit",
+      "score": 5
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "pushed_at": "2026-09-09",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "score": 5
     }
   ]
