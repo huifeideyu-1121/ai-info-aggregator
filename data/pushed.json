@@ -1,78 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://github.com/activeloopai/hivemind",
-      "pushed_at": "2026-06-12",
-      "title": "activeloopai/hivemind",
-      "score": 8
-    },
-    {
-      "url": "https://www.ifanr.com/1668621?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-12",
-      "title": "Codex 大降价要来了，这份官方指南手把手教你高效榨干额度",
-      "score": 8
-    },
-    {
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-      "pushed_at": "2026-06-12",
-      "title": "Claude Fable is relentlessly proactive",
-      "score": 7
-    },
-    {
-      "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
-      "pushed_at": "2026-06-12",
-      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3849404234667016?f=rss",
-      "pushed_at": "2026-06-12",
-      "title": "AI机器人企业Theker获路威酩轩等投资方8500万美元融资",
-      "score": 7
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "pushed_at": "2026-06-12",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/newsflashes/3849400241018115?f=rss",
-      "pushed_at": "2026-06-12",
-      "title": "从“被投者”到“投资者”，硬科技企业密集设立产业基金",
-      "score": 6
-    },
-    {
-      "url": "https://www.ifanr.com/1667844?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-12",
-      "title": "苹果想用一副眼镜，改变你的脸｜WWDC 26",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u3556s/built_a_chrome_extension_because_i_kept_pausing/",
-      "pushed_at": "2026-06-12",
-      "title": "Built a Chrome extension because I kept pausing videos to Google words I didn't understand.",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u3f08x/solo_building_a_personal_finance_app_a_few/",
-      "pushed_at": "2026-06-12",
-      "title": "Solo building a personal finance app. A few testers have given real feedback. Looking for more who will actually use it",
-      "score": 5
-    },
-    {
-      "url": "https://www.ecommercebytes.com/2026/06/11/amazon-to-use-ai-to-enforce-new-product-title-limits/",
-      "pushed_at": "2026-06-12",
-      "title": "Amazon to Use AI to Enforce New Product Title Limits",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "pushed_at": "2026-06-12",
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 4
-    },
-    {
       "url": "https://github.com/NVIDIA/SkillSpector",
       "pushed_at": "2026-06-13",
       "title": "NVIDIA/SkillSpector",
@@ -8656,6 +8584,42 @@
       "url": "https://github.com/hydraterm/hydra-local",
       "pushed_at": "2026-09-10",
       "title": "Show HN: Hydra – Open-source agentic terminal with a PTY daemon",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/Tencent/teamai-cli",
+      "pushed_at": "2026-09-11",
+      "title": "Tencent/teamai-cli",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "pushed_at": "2026-09-11",
+      "title": "vastsa/PI-Desktop",
+      "score": 7
+    },
+    {
+      "url": "https://trends.vc/agent-job-boards-payroll-gap-wallet-lockout-human-sign-off/",
+      "pushed_at": "2026-09-11",
+      "title": "Agent Job Boards: Payroll Gap, Wallet Lockout, Human Sign-Off",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+      "pushed_at": "2026-09-11",
+      "title": "[AINews] not much happened today",
+      "score": 5
+    },
+    {
+      "url": "https://natively.io",
+      "pushed_at": "2026-09-11",
+      "title": "Show HN: Natively – comms for agents built by agents",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-09-11",
+      "title": "早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」",
       "score": 5
     }
   ]
