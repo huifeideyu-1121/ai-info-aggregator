@@ -1,120 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "pushed_at": "2026-06-13",
-      "title": "NVIDIA/SkillSpector",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/hexo-ai/sia",
-      "pushed_at": "2026-06-13",
-      "title": "hexo-ai/sia",
-      "score": 9
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "pushed_at": "2026-06-13",
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u4a7g3/my_just_add_subtitles_side_quest_turned_into_an/",
-      "pushed_at": "2026-06-13",
-      "title": "My \"just add subtitles\" side quest turned into an entire video editor for captions",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u44fj6/feral_v020_opensource_local_ai_workspace_llamacpp/",
-      "pushed_at": "2026-06-13",
-      "title": "Feral v0.2.0 - open-source local AI workspace (llama.cpp + BYOK + agent runtime), now on Windows, macOS and Linux. No telemetry, no subscription, MIT/Apache-2.0",
-      "score": 8
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "pushed_at": "2026-06-13",
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/chatwoot/chatwoot",
-      "pushed_at": "2026-06-13",
-      "title": "chatwoot/chatwoot",
-      "score": 7
-    },
-    {
-      "url": "https://github.com/kenn-io/agentsview",
-      "pushed_at": "2026-06-13",
-      "title": "kenn-io/agentsview",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1668803?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-13",
-      "title": "华为发布鸿蒙 7：AI 时代，追赶者正在反超",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1668716?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-13",
-      "title": "用了两天 iOS 27，我「AI」上了 Siri",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u43tuh/made_a_directory_for_local_pottery_and_ceramics/",
-      "pushed_at": "2026-06-13",
-      "title": "made a directory for local pottery and ceramics classes. small but extremely engaged audience, no idea how to grow or monetise it",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u3rguf/got_more_paid_users_after_google_ai_recommended_me/",
-      "pushed_at": "2026-06-13",
-      "title": "Got more paid users after Google AI recommended me",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u4ajii/im_building_an_app_that_records_your_parents/",
-      "pushed_at": "2026-06-13",
-      "title": "I'm building an app that records your parents' voice and stories before it's too late!",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u406nk/i_built_a_free_editor_for_html_slide_decks_from/",
-      "pushed_at": "2026-06-13",
-      "title": "I built a free editor for HTML slide decks from Claude/GPT — edit them like PowerPoint, right in your browser, no sign-up, data stays in your browser",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u4bhhe/hit_1000_downloads_on_my_gift_recommendation_app/",
-      "pushed_at": "2026-06-13",
-      "title": "Hit 1,000 downloads on my gift recommendation app, here's what I learned building it",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/Kareem-Rashed/rubric-eval",
-      "pushed_at": "2026-06-13",
-      "title": "Show HN: Rubric – test what your LLM agent did, not just what it said",
-      "score": 5
-    },
-    {
-      "url": "https://chromewebstore.google.com/detail/dr-lens-—-domain-rating-i/babgbadloikchhadbpmcmhokbbcokmao",
-      "pushed_at": "2026-06-13",
-      "title": "Show HN: DR Lens – Ahrefs Domain Rating in Chrome Toolbar",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-      "pushed_at": "2026-06-13",
-      "title": "alchaincyf/zhangxuefeng-skill",
-      "score": 5
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "pushed_at": "2026-06-13",
-      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-      "score": 5
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1u4zsbg/made_a_simple_tool_that_converts_recipe_videos/",
       "pushed_at": "2026-06-14",
       "title": "Made a simple tool that converts recipe videos into written recipes. 600 daily users now and I'm completely unprepared",
@@ -8620,6 +8506,72 @@
       "url": "https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=",
       "pushed_at": "2026-09-11",
       "title": "早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/AlexsJones/llmfit",
+      "pushed_at": "2026-09-12",
+      "title": "AlexsJones/llmfit",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/nashsu/llm_wiki",
+      "pushed_at": "2026-09-12",
+      "title": "nashsu/llm_wiki",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/vercel-labs/skills",
+      "pushed_at": "2026-09-12",
+      "title": "vercel-labs/skills",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+      "pushed_at": "2026-09-12",
+      "title": "So you want to use OpenRouter?",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
+      "pushed_at": "2026-09-12",
+      "title": "Quoting Boris Cherny",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-09-12",
+      "title": "GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个",
+      "score": 7
+    },
+    {
+      "url": "https://www.bensbites.com/p/telling-ai-to-design-is-hard",
+      "pushed_at": "2026-09-12",
+      "title": "Telling AI to design is hard",
+      "score": 5
+    },
+    {
+      "url": "https://provetogether.ai/",
+      "pushed_at": "2026-09-12",
+      "title": "Show HN: ProveTogether Moltbook but for Math",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/say4n/pi-sync",
+      "pushed_at": "2026-09-12",
+      "title": "Show HN: Pi-sync` syncs your pi agent configuration across hosts",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/Avtandil-abu/jira-ai-auditor",
+      "pushed_at": "2026-09-12",
+      "title": "Show HN: Jira Project Health Auditor (MCP Server)",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "pushed_at": "2026-09-12",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
       "score": 5
     }
   ]
