@@ -1,216 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u9bn5s/i_built_a_real_aiassisted_indoor_tomato_farm/",
-      "pushed_at": "2026-06-19",
-      "title": "I built a real AI-assisted indoor tomato farm where 4 LLMs vote on every decision",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u9ki33/how_i_copy_the_best_polymarket_users_using_my_own/",
-      "pushed_at": "2026-06-19",
-      "title": "How I copy the best Polymarket Users using my own system",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u9m7pq/made_a_small_cli_so_id_stop_handwriting_the_same/",
-      "pushed_at": "2026-06-19",
-      "title": "Made a small CLI so I'd stop hand-writing the same AI context file for every coding assistant",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1u95r12/built_an_app_where_you_practice_the_conversations/",
-      "pushed_at": "2026-06-19",
-      "title": "built an app where you practice the conversations you're scared of instead of reading about them",
-      "score": 5
-    },
-    {
-      "url": "https://www.therundown.ai/p/inside-the-deadlock-keeping-mythos-offline",
-      "pushed_at": "2026-06-19",
-      "title": "Inside the deadlock keeping Mythos offline",
-      "score": 5
-    },
-    {
-      "url": "https://www.latent.space/p/anj",
-      "pushed_at": "2026-06-19",
-      "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
-      "score": 6
-    },
-    {
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-      "pushed_at": "2026-06-19",
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "score": 5
-    },
-    {
-      "url": "https://apicalculators.com/",
-      "pushed_at": "2026-06-19",
-      "title": "Show HN: I built a free API cost calculator after a $340 surprise invoice",
-      "score": 7
-    },
-    {
-      "url": "https://www.intheweights.com/",
-      "pushed_at": "2026-06-19",
-      "title": "Show HN: Are You in the Weights?",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9a17y/my_suitcase_robot_gets_high_now_off_a_real_gas/",
-      "pushed_at": "2026-06-19",
-      "title": "My suitcase robot gets high now off a real gas sensor wired straight into the LLM sampler. Smoke raises temperature/top_p/top_k live, so his speech genuinely gets loopier and never repeats.",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u99hel/glm52_inference_is_free_on_hugging_face_for_the/",
-      "pushed_at": "2026-06-19",
-      "title": "GLM-5.2 inference is free on Hugging Face for the next 6 hours",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9b2i3/poolsidelagunam1_hugging_face_225ba23b/",
-      "pushed_at": "2026-06-19",
-      "title": "poolside/Laguna-M.1 · Hugging Face - 225B-A23B",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u96545/oss_models_decisively_overtook_proprietary_models/",
-      "pushed_at": "2026-06-19",
-      "title": "OSS models decisively overtook Proprietary models in market share (based on the last 3 months of OpenRouter data)",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9ddft/lfm25embedding350m_lfm25colbert350m/",
-      "pushed_at": "2026-06-19",
-      "title": "LFM2.5-Embedding-350M & LFM2.5-ColBERT-350M",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9fxmb/local_qwen_isnt_a_worse_opus_its_a_different_tool/",
-      "pushed_at": "2026-06-19",
-      "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9kiq1/diffusiongemma_26b_on_a_4090_at_up_to_475ts_and/",
-      "pushed_at": "2026-06-19",
-      "title": "DiffusionGemma 26b on a 4090 at up to 475t/s... and some thoughts...",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9anzk/cutting_llm_token_costs_with_rtk_headroom_and/",
-      "pushed_at": "2026-06-19",
-      "title": "Cutting LLM Token Costs with rtk, headroom, and caveman - savings measured on real workloads",
-      "score": 8
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u972a7/the_power_of_intelligence_is_better_in_the_hands/",
-      "pushed_at": "2026-06-19",
-      "title": "the power of intelligence is better in the hands of the people than in the board rooms of tycoons.",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9mpty/glm52_744b_2bit_at_73_toks_on_43090_192gb_and_why/",
-      "pushed_at": "2026-06-19",
-      "title": "GLM-5.2 (744B, 2-bit) at 7.3 tok/s on 4×3090 + 192GB — and why IQ1_M wasn't any faster",
-      "score": 9
-    },
-    {
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9176j/kwaikeyekeyevl2030ba3bgguf_hugging_face/",
-      "pushed_at": "2026-06-19",
-      "title": "Kwai-Keye/Keye-VL-2.0-30B-A3B-GGUF · Hugging Face",
-      "score": 8
-    },
-    {
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "pushed_at": "2026-06-19",
-      "title": "DeusData/codebase-memory-mcp",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/google-research/timesfm",
-      "pushed_at": "2026-06-19",
-      "title": "google-research/timesfm",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/calesthio/OpenMontage",
-      "pushed_at": "2026-06-19",
-      "title": "calesthio/OpenMontage",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/alexzhang13/rlm",
-      "pushed_at": "2026-06-19",
-      "title": "alexzhang13/rlm",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/makeplane/plane",
-      "pushed_at": "2026-06-19",
-      "title": "makeplane/plane",
-      "score": 5
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "pushed_at": "2026-06-19",
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "score": 6
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-      "pushed_at": "2026-06-19",
-      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "score": 8
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "pushed_at": "2026-06-19",
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3858329994875908?f=rss",
-      "pushed_at": "2026-06-19",
-      "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3855480467543042?f=rss",
-      "pushed_at": "2026-06-19",
-      "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
-      "score": 7
-    },
-    {
-      "url": "https://36kr.com/p/3856708724315400?f=rss",
-      "pushed_at": "2026-06-19",
-      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
-      "score": 6
-    },
-    {
-      "url": "https://36kr.com/p/3857959588418823?f=rss",
-      "pushed_at": "2026-06-19",
-      "title": "中科院博士冲上市，市值超105亿港币",
-      "score": 9
-    },
-    {
-      "url": "https://www.ifanr.com/1669287?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-19",
-      "title": "2026 最强智能眼镜发布，但「iPhone 时刻」还没到来",
-      "score": 6
-    },
-    {
-      "url": "https://www.ifanr.com/1669294?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-19",
-      "title": "玩了一天AI支付宝，张嘴就能点麦当劳、收能量，超级App开始卷Agent OS了",
-      "score": 7
-    },
-    {
-      "url": "https://www.ifanr.com/1669210?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-19",
-      "title": "营收涨了 30 倍，ARR 3 亿美金，这家 AI 公司已经在赚钱了",
-      "score": 8
-    },
-    {
       "url": "https://www.reddit.com/r/SideProject/comments/1ua6t1g/i_made_my_first_money_from_a_vibecoded_side/",
       "pushed_at": "2026-06-20",
       "title": "I made my first money from a vibecoded side project, and it made me feel better than closing huge deals for my main business",
@@ -8194,6 +7984,66 @@
       "url": "http://www.geekpark.net/news/370453",
       "pushed_at": "2026-09-17",
       "title": "Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1680580?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-09-18",
+      "title": "用 Seedance 2.5 拍《沙丘 3》，我们替你把 AI 短片的坑全都踩过了",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/anthropics/claude-code",
+      "pushed_at": "2026-09-18",
+      "title": "anthropics/claude-code",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Tencent/WeKnora",
+      "pushed_at": "2026-09-18",
+      "title": "Tencent/WeKnora",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/roboflow/supervision",
+      "pushed_at": "2026-09-18",
+      "title": "roboflow/supervision",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "pushed_at": "2026-09-18",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wiw6tk/i_built_a_side_project_to_test_typesafes_jev/",
+      "pushed_at": "2026-09-18",
+      "title": "I built a side project to test TypeSafe's Jev model with no generative LLM that scores your project idea",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wj9h9g/i_built_a_free_iphone_app_that_tracks_what_a_car/",
+      "pushed_at": "2026-09-18",
+      "title": "I built a free iPhone app that tracks what a car actually costs to run, not just the fuel",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+      "pushed_at": "2026-09-18",
+      "title": "How To Write With An LLM",
+      "score": 5
+    },
+    {
+      "url": "https://easiest.ai/",
+      "pushed_at": "2026-09-18",
+      "title": "Show HN: Vim-like, hyper-efficient, LLM power tool - 20-80k tokens not 350k+",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "pushed_at": "2026-09-18",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
       "score": 5
     }
   ]
