@@ -1,78 +1,6 @@
 {
   "pushed": [
     {
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "pushed_at": "2026-06-21",
-      "title": "palmier-io/palmier-pro",
-      "score": 9
-    },
-    {
-      "url": "https://github.com/BuilderIO/agent-native",
-      "pushed_at": "2026-06-21",
-      "title": "BuilderIO/agent-native",
-      "score": 7
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ub3val/if_youre_getting_into_vibe_coding_to_make_it_dont/",
-      "pushed_at": "2026-06-21",
-      "title": "If you're getting into vibe coding to make it - don't. Here's what 8k downloads actually looks like.",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ub1lsz/first_post_i_made_a_tiny_floating_browser_for/",
-      "pushed_at": "2026-06-21",
-      "title": "[First post] I made a tiny floating browser for macOS — because YouTube shouldn't need to take up half your screen",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ub87f7/i_built_an_open_source_character_chat_you_can/",
-      "pushed_at": "2026-06-21",
-      "title": "I built an open source character chat you can just open and talk to. Free models already connected, no login.",
-      "score": 6
-    },
-    {
-      "url": "https://github.com/BetaBots-LLC/callimachus",
-      "pushed_at": "2026-06-21",
-      "title": "Show HN: Callimachus – Local search across your AI coding-agent history",
-      "score": 6
-    },
-    {
-      "url": "https://www.ifanr.com/1669460?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pushed_at": "2026-06-21",
-      "title": "诺奖得主转投Anthropic，谷歌48小时连失两大牛，内部信仰崩塌？",
-      "score": 6
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ub6ndd/i_built_an_ios_app_that_turns_my_kid_into_the/",
-      "pushed_at": "2026-06-21",
-      "title": "I built an iOS app that turns my kid into the hero of their own bedtime story, and I want to be honest about the AI part",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1uap15c/i_made_a_list_of_upworks_worst_jobs_updated_live/",
-      "pushed_at": "2026-06-21",
-      "title": "I made a list of Upwork's WORST jobs, updated live",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ub9xrg/i_built_an_app_to_make_someones_day/",
-      "pushed_at": "2026-06-21",
-      "title": "I Built An App to Make Someone’s Day",
-      "score": 5
-    },
-    {
-      "url": "https://www.reddit.com/r/SideProject/comments/1ubadke/hi_me_and_son_make_app_that_uses_ai_not_for_tools/",
-      "pushed_at": "2026-06-21",
-      "title": "Hi! Me and son make app that uses Ai not for tools but for experiences , Games (online/offline) , Quizzes, Horoscopes (uses very cool math) , chat with made up AI friend that you make and create Pets too, and we have like social media elements. The app is aicasso",
-      "score": 5
-    },
-    {
-      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-      "pushed_at": "2026-06-21",
-      "title": "aishwaryanr/awesome-generative-ai-guide",
-      "score": 5
-    },
-    {
       "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
       "pushed_at": "2026-06-22",
       "title": "Temporary Cloudflare Accounts for AI agents",
@@ -7960,6 +7888,60 @@
       "url": "https://www.reddit.com/r/SideProject/comments/1wk5z0w/update_eowcat_passed_170000_eows_in_1_week/",
       "pushed_at": "2026-09-19",
       "title": "Update: EowCat passed 170,000+ eows in 1 week 🐈‍⬛",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "pushed_at": "2026-09-20",
+      "title": "anthropics/knowledge-work-plugins",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/supermemoryai/supermemory",
+      "pushed_at": "2026-09-20",
+      "title": "supermemoryai/supermemory",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wkwr0g/built_a_small_tool_around_claude_codecodex/",
+      "pushed_at": "2026-09-20",
+      "title": "Built a small tool around Claude Code/Codex — looking for feedback",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/TencentCloud/Octop",
+      "pushed_at": "2026-09-20",
+      "title": "TencentCloud/Octop",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "pushed_at": "2026-09-20",
+      "title": "ahmedkhaleel2004/gitdiagram",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wkphk6/i_looked_at_851_solofounder_projects_heres_what/",
+      "pushed_at": "2026-09-20",
+      "title": "I looked at 851 solo-founder projects. Here’s what they’re building.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wkozg5/ive_watched_hundreds_of_episodes_of_anime_and/",
+      "pushed_at": "2026-09-20",
+      "title": "I've watched hundreds of episodes of anime and learned maybe six words. So I built this.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1wkutue/i_made_a_rumblefigher_clone_with_formfromlight/",
+      "pushed_at": "2026-09-20",
+      "title": "I made a RumbleFigher Clone with FormFromLight",
+      "score": 5
+    },
+    {
+      "url": "https://forexfin.tech/",
+      "pushed_at": "2026-09-20",
+      "title": "Show HN: Forexfin – Trading calculators, alerts and a journal in one place",
       "score": 5
     }
   ]
